@@ -2,60 +2,90 @@
   {
     "name": "StreamBox",
     "internalName": "StreamBox",
-    "version": 1,
+    "version": 2,
     "apiVersion": 1,
     "status": 1,
     "language": "en",
-    "authors": ["AllForU"],
-    "tvTypes": ["Movie", "TvSeries"],
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/netflix-n.png",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/StreamBox.cs3",
-    "description": "MovieBox — movies, series & anime with signed DASH streams"
+    "description": "MovieBox - movies, series & anime with signed DASH streams + IMDb ratings"
   },
   {
     "name": "Netflix",
     "internalName": "Netflix",
-    "version": 1,
+    "version": 2,
     "apiVersion": 1,
     "status": 1,
     "language": "en",
-    "authors": ["AllForU"],
-    "tvTypes": ["Movie", "TvSeries"],
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/netflix-n.png",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Netflix.cs3",
     "description": "Netflix content via net52"
   },
   {
     "name": "Hotstar",
     "internalName": "Hotstar",
-    "version": 1,
+    "version": 2,
     "apiVersion": 1,
     "status": 1,
     "language": "en",
-    "authors": ["AllForU"],
-    "tvTypes": ["Movie", "TvSeries"],
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disneyplus-hotstar-in.png",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Hotstar.cs3",
     "description": "Hotstar content via net52"
   },
   {
     "name": "Prime Video",
     "internalName": "PrimeVideo",
-    "version": 1,
+    "version": 2,
     "apiVersion": 1,
     "status": 1,
     "language": "en",
-    "authors": ["AllForU"],
-    "tvTypes": ["Movie", "TvSeries"],
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/prime-video-us.png",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/PrimeVideo.cs3",
     "description": "Prime Video content via net52"
   },
   {
     "name": "Live TV",
     "internalName": "LiveTV",
-    "version": 1,
+    "version": 2,
     "apiVersion": 1,
     "status": 1,
     "language": "en",
-    "authors": ["AllForU"],
-    "tvTypes": ["Live"],
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/LiveTV.cs3",
     "description": "25,000+ live channels + JioTV + IPTV fallback"
   }

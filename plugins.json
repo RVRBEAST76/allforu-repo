@@ -1,9 +1,10 @@
 [
   {
-    "name": "StreamBox",
-    "internalName": "StreamBox",
-    "version": 27,
+    "iconUrl": "",
+    "fileHash": "sha256-wOf+xStAqF1CmDOaNFZxOOQMX2UDAbm6EHZiXxD8ziA=",
     "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "fileSize": 38330,
     "status": 1,
     "language": "en",
     "authors": [
@@ -11,49 +12,101 @@
     ],
     "tvTypes": [
       "Movie",
-      "TvSeries",
-      "Anime"
+      "TvSeries"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/netflix-n.png",
+    "version": 27,
+    "internalName": "StreamBox",
+    "description": "StreamBox (MovieBox) - movies, series, anime",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/StreamBox.cs3",
-    "description": "MovieBox - movies, series & anime with signed DASH streams + IMDb ratings"
+    "name": "StreamBox",
+    "pluginClassName": "com.allforu.StreamBoxPlugin"
   },
   {
-    "name": "Live TV",
-    "internalName": "LiveTV",
-    "version": 2,
+    "iconUrl": "",
+    "fileHash": "sha256-ijtWaQ5QbFVpeSFNmKSOPgvCzi+M+7TO8D4w1hqAlOQ=",
     "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "fileSize": 13168,
     "status": 1,
     "language": "en",
     "authors": [
       "AllForU"
     ],
     "tvTypes": [
-      "Live"
+      "Movie",
+      "TvSeries"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",
+    "version": 2,
+    "internalName": "LiveTV",
+    "description": "Live TV channels",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/LiveTV.cs3",
-    "description": "25,000+ live channels + JioTV + IPTV fallback"
+    "name": "LiveTV",
+    "pluginClassName": "com.allforu.LiveTvPlugin"
   },
   {
-    "internalName": "Netflix",
-    "name": "Netflix",
+    "iconUrl": "",
+    "fileHash": "sha256-v4w+ubLAX90FSHMl6JoZr3L5e5zqAGRJRScZ42yh3gA=",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "fileSize": 37892,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 48,
+    "internalName": "Netflix",
+    "description": "Netflix content via net52",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Netflix.cs3",
+    "name": "Netflix",
     "pluginClassName": "com.allforu.NetflixPlugin"
   },
   {
-    "internalName": "Hotstar",
-    "name": "Hotstar",
+    "iconUrl": "",
+    "fileHash": "sha256-tEUdjIiljQi5su4YcLGCBrUoN8ZQM2p77NpdpJr61HY=",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "fileSize": 37872,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 48,
+    "internalName": "Hotstar",
+    "description": "Hotstar content via net52",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Hotstar.cs3",
+    "name": "Hotstar",
     "pluginClassName": "com.allforu.HotstarPlugin"
   },
   {
-    "internalName": "PrimeVideo",
-    "name": "PrimeVideo",
+    "iconUrl": "",
+    "fileHash": "sha256-tsNjfHcEKFunWOrnkMYBi52jTTimKImSywcUs1/dOAc=",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "fileSize": 37886,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "version": 48,
+    "internalName": "PrimeVideo",
+    "description": "Prime Video content via net52",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/PrimeVideo.cs3",
+    "name": "PrimeVideo",
     "pluginClassName": "com.allforu.PrimePlugin"
   }
 ]

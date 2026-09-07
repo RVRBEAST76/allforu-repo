@@ -21,7 +21,7 @@
   {
     "name": "Netflix",
     "internalName": "Netflix",
-    "version": 43,
+    "version": 44,
     "apiVersion": 1,
     "status": 1,
     "language": "en",
@@ -39,7 +39,7 @@
   {
     "name": "Hotstar",
     "internalName": "Hotstar",
-    "version": 43,
+    "version": 44,
     "apiVersion": 1,
     "status": 1,
     "language": "en",
@@ -57,7 +57,7 @@
   {
     "name": "Prime Video",
     "internalName": "PrimeVideo",
-    "version": 43,
+    "version": 44,
     "apiVersion": 1,
     "status": 1,
     "language": "en",

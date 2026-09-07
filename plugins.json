@@ -45,10 +45,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-eaJcgtshUQPFmUwlZfCPq7KeMR1rDd//NNolCsTN7fs=",
+    "fileHash": "sha256-tuih683YDESYyZtmMEqSEun3s7zGG/dxxA6iESkR6cg=",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 38911,
+    "fileSize": 38667,
     "status": 1,
     "language": "en",
     "authors": [
@@ -58,7 +58,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 54,
+    "version": 55,
     "internalName": "Netflix",
     "description": "Netflix content via net52",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Netflix.cs3",
@@ -67,10 +67,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-rFnLmBIF6pnzma5qlSRC19kEZm4gif3RhaUcutauou8=",
+    "fileHash": "sha256-J/dUvVFRmy8J+WR3F1N3IukJfix9zGrK3QRrfBvjl+Q=",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 38912,
+    "fileSize": 38654,
     "status": 1,
     "language": "en",
     "authors": [
@@ -80,7 +80,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 54,
+    "version": 55,
     "internalName": "Hotstar",
     "description": "Hotstar content via net52",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Hotstar.cs3",
@@ -89,10 +89,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-nLqfb1LtBzC77L+NtT01dyZKPUhrUo7dUXSduWmfRL0=",
+    "fileHash": "sha256-vWUyAYDtFTkdVNMGy6Mf5z6VYbFrnm9CAKgl5Sg3nbQ=",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 38928,
+    "fileSize": 38683,
     "status": 1,
     "language": "en",
     "authors": [
@@ -102,7 +102,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 54,
+    "version": 55,
     "internalName": "PrimeVideo",
     "description": "Prime Video content via net52",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/PrimeVideo.cs3",

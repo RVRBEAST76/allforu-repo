@@ -45,10 +45,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-izeR1ePYx3cEP9q8iMxkpF7R5DtOr71YyyZs01eFSAU=",
+    "fileHash": "sha256-6zmLeSeuyiiG90X7Doguy/occAIUKJWIh6Bd67fNSc8=",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 38668,
+    "fileSize": 41598,
     "status": 1,
     "language": "en",
     "authors": [
@@ -58,55 +58,11 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 56,
-    "internalName": "Netflix",
-    "description": "Netflix content via net52",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Netflix.cs3",
-    "name": "Netflix",
+    "version": 57,
+    "internalName": "CNC",
+    "description": "CNC \u2014 Netflix \u00b7 Hotstar \u00b7 Prime Video (one plugin)",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/CNC.cs3",
+    "name": "CNC",
     "pluginClassName": "com.allforu.NetflixPlugin"
-  },
-  {
-    "iconUrl": "",
-    "fileHash": "sha256-/5QIX4jlmy/h56PQ4lc0yR8T7ZUTbc9cFl3vxIRCe+Y=",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 38655,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 56,
-    "internalName": "Hotstar",
-    "description": "Hotstar content via net52",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Hotstar.cs3",
-    "name": "Hotstar",
-    "pluginClassName": "com.allforu.HotstarPlugin"
-  },
-  {
-    "iconUrl": "",
-    "fileHash": "sha256-JkDaV3HLZtajwxY8kp9Vqs/E/Qr4pSOHkTsdLd72mvE=",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 38684,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 56,
-    "internalName": "PrimeVideo",
-    "description": "Prime Video content via net52",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/PrimeVideo.cs3",
-    "name": "PrimeVideo",
-    "pluginClassName": "com.allforu.PrimePlugin"
   }
 ]

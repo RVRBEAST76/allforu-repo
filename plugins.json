@@ -45,10 +45,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-6zmLeSeuyiiG90X7Doguy/occAIUKJWIh6Bd67fNSc8=",
+    "fileHash": "sha256-gLlNymoYMrSS0u9ttgUISx3rH9ExfbY4d7sBCA5gMbc=",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 41598,
+    "fileSize": 41450,
     "status": 1,
     "language": "en",
     "authors": [
@@ -58,7 +58,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 57,
+    "version": 58,
     "internalName": "CNC",
     "description": "CNC \u2014 Netflix \u00b7 Hotstar \u00b7 Prime Video (one plugin)",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/CNC.cs3",

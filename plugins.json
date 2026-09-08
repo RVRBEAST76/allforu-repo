@@ -42,27 +42,5 @@
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/LiveTV.cs3",
     "name": "LiveTV",
     "pluginClassName": "com.allforu.LiveTvPlugin"
-  },
-  {
-    "iconUrl": "",
-    "fileHash": "sha256-w9TcSpOuvPFj1+nBWSRbZBrZWYPLBUaf5fvgDtNIB3U=",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 41535,
-    "status": 1,
-    "language": "ta",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 60,
-    "internalName": "CNC",
-    "description": "CNC \u2014 Netflix \u00b7 Hotstar \u00b7 Prime Video (one plugin)",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/CNC.cs3",
-    "name": "CNC",
-    "pluginClassName": "com.allforu.NetflixPlugin"
   }
 ]

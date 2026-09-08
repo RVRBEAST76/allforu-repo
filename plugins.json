@@ -45,10 +45,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-K2YLnS2Shbhet12AFdm4yHm7993q3y54V3OUntRtCCw=",
+    "fileHash": "sha256-bxmsiAt4HexDp8gVcckomnEbXyM1Ki6T9gz5XVWBbeM=",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 68750,
+    "fileSize": 70014,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -58,7 +58,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 66,
+    "version": 67,
     "internalName": "Netflix",
     "description": "Netflix - fresh rebuild (tested API flow)",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Netflix.cs3",

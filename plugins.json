@@ -42,5 +42,27 @@
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/LiveTV.cs3",
     "name": "LiveTV",
     "pluginClassName": "com.allforu.LiveTvPlugin"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-yHrjJ/3fXlguxFqZAxRSjowP8wyX5P1RbssZLj+oCwQ=",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "fileSize": 61519,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 61,
+    "internalName": "Netflix",
+    "description": "Netflix - fresh rebuild (tested API flow)",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Netflix.cs3",
+    "name": "Netflix",
+    "pluginClassName": "com.allforu.NetflixPlugin"
   }
 ]

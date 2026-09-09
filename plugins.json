@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "",
-    "fileHash": "sha256-wOf+xStAqF1CmDOaNFZxOOQMX2UDAbm6EHZiXxD8ziA=",
+    "fileHash": "sha256-6p5rctes89ER13Ub9AliukUUKF1lYXEgmQUWau3Ol1w=",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 38330,
+    "fileSize": 38363,
     "status": 1,
     "language": "en",
     "authors": [
@@ -14,7 +14,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 27,
+    "version": 28,
     "internalName": "StreamBox",
     "description": "StreamBox (MovieBox) - movies, series, anime",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/StreamBox.cs3",

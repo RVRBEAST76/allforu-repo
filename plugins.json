@@ -45,10 +45,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-b1k49nMGeGWp03NB+OGVmrg2xokCcoVlJ/9Z2w+s854=",
+    "fileHash": "sha256-YBstcQ4nMSixabHzlr7smympVN5BZ6zLZ2EOQ//jFDg=",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 46395,
+    "fileSize": 46065,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -58,7 +58,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 87,
+    "version": 88,
     "internalName": "Netflix",
     "description": "Netflix - movies & series (net52)",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Netflix.cs3",

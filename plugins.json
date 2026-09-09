@@ -45,10 +45,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-8rfWFXOhvZllUBKeWr0YlxnJF33wAvezNme77/CL3rE=",
+    "fileHash": "sha256-F64tPssX3Pu9nO53wjm2qnvt/nlRmaFHfbuYF9ThB+k=",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 70015,
+    "fileSize": 43791,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -58,7 +58,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 72,
+    "version": 73,
     "internalName": "Netflix",
     "description": "Netflix - movies & series (net52)",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Netflix.cs3",
@@ -67,10 +67,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-rjHSKO2yH5zWr0EPv2FZOM3JmLV/Noz6XhaZbcmx4Fk=",
+    "fileHash": "sha256-vyyqp9sWphSqrD5r01/hNh+PathvCvCoRFR0fUo0dMo=",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 41606,
+    "fileSize": 42672,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -80,7 +80,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 72,
+    "version": 73,
     "internalName": "Hotstar",
     "description": "Hotstar - movies & series (net52)",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Hotstar.cs3",

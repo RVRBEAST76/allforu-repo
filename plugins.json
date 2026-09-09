@@ -89,10 +89,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-OjoSxL3NjAsiLOlHqv+zAXE2TloXBEO+axmQ0XM9C+w=",
+    "fileHash": "sha256-qwCkuUb35UUrEu8FmGXIA5nVhCmsr7kQUwniaRmv3KA=",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 46531,
+    "fileSize": 46590,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -102,7 +102,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 80,
+    "version": 81,
     "internalName": "PrimeVideo",
     "description": "Prime Video - movies & series (net52)",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/PrimeVideo.cs3",

@@ -67,10 +67,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-pM+w6WMjfuYpR+cN7VwTaJCt90k1VlK3jltoO5deCH8=",
+    "fileHash": "sha256-mqlK6F1d7Ofa3KAqzfvJJALdbphvCRDt0+LS1C2fLBk=",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 43793,
+    "fileSize": 44884,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -80,7 +80,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 77,
+    "version": 76,
     "internalName": "Hotstar",
     "description": "Hotstar - movies & series (net52)",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Hotstar.cs3",

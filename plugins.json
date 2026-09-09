@@ -64,5 +64,27 @@
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Netflix.cs3",
     "name": "Netflix",
     "pluginClassName": "com.allforu.NetflixPlugin"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-rjHSKO2yH5zWr0EPv2FZOM3JmLV/Noz6XhaZbcmx4Fk=",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "fileSize": 41606,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 72,
+    "internalName": "Hotstar",
+    "description": "Hotstar - movies & series (net52)",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Hotstar.cs3",
+    "name": "Hotstar",
+    "pluginClassName": "com.allforu.HotstarPlugin"
   }
 ]

@@ -86,5 +86,26 @@
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PrimeVideo-v93.cs3",
     "name": "PrimeVideo",
     "pluginClassName": "com.allforu.PrimePlugin"
+  },
+  {
+    "version": 1,
+    "internalName": "ReAnime",
+    "name": "ReAnime",
+    "pluginClassName": "com.allforu.ReAnimePlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/ReAnime-v1.cs3",
+    "description": "ReAnime - Anime Series & Movies (Sub & Dub)",
+    "fileHash": "sha256-5b2a8cd7c141c084c293bd217337feacd07ef3cb2addfabb13ed2d8084e4b721",
+    "fileSize": 34944
   }
 ]

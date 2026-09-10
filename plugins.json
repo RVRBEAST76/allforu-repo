@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/moviebox.png",
-    "fileHash": "sha256-da3a99983961c71182e5e9a721e725a79022d768241bb940499b8bfe605f90f1",
+    "fileHash": "sha256-656e45c623e3e42e93f2762c3f6ab4e2d011e0357e3465097261103d55036774",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 41040,
+    "fileSize": 42638,
     "status": 1,
     "language": "en",
     "authors": [
@@ -14,19 +14,19 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 35,
+    "version": 36,
     "internalName": "MovieBox",
     "description": "MovieBox - Movies, Series & Anime in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MovieBox-v35.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MovieBox-v36.cs3",
     "name": "MovieBox",
     "pluginClassName": "com.allforu.StreamBoxPlugin"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/cnc-logo.jpg",
-    "fileHash": "sha256-617788551c11edc8f686d8dae2a6035ee3817e776a26cf2cb85239116a4297fd",
+    "fileHash": "sha256-bf4bf486e5678b6c1ca699d478aab88641ff1d392d9dec1fb24c5342a5535c44",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 49284,
+    "fileSize": 50932,
     "status": 1,
     "language": "en",
     "authors": [
@@ -36,41 +36,19 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 93,
+    "version": 94,
     "internalName": "Netflix",
     "description": "Netflix - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netflix-v93.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netflix-v94.cs3",
     "name": "Netflix",
     "pluginClassName": "com.allforu.NetflixPlugin"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/cnc-logo.jpg",
-    "fileHash": "sha256-a5a8f284c5e080be8fc412baa722b41809f9bbfbca7fe770aa1e3b19165789cf",
+    "fileHash": "sha256-d9a70ede551b1ec623b3fbed269afba91b46081e1f61e7db733629b1ebf7b9e2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 50453,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 88,
-    "internalName": "Hotstar",
-    "description": "Hotstar - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Hotstar-v88.cs3",
-    "name": "Hotstar",
-    "pluginClassName": "com.allforu.HotstarPlugin"
-  },
-  {
-    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/cnc-logo.jpg",
-    "fileHash": "sha256-194c5d68c0d14db58465366e912703c4fb696f2fdfb9dfbc72d938b06c491010",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 52042,
+    "fileSize": 52127,
     "status": 1,
     "language": "en",
     "authors": [
@@ -81,9 +59,31 @@
       "TvSeries"
     ],
     "version": 89,
+    "internalName": "Hotstar",
+    "description": "Hotstar - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Hotstar-v89.cs3",
+    "name": "Hotstar",
+    "pluginClassName": "com.allforu.HotstarPlugin"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/cnc-logo.jpg",
+    "fileHash": "sha256-101059ee7960966939cc8b96bb6d15710e862cbd4f29e2b1e8ffad2838c1e1d2",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "fileSize": 53636,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 90,
     "internalName": "PrimeVideo",
     "description": "Prime Video - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PrimeVideo-v89.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PrimeVideo-v90.cs3",
     "name": "PrimeVideo",
     "pluginClassName": "com.allforu.PrimePlugin"
   }

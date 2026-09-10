@@ -1,7 +1,7 @@
 {
-  "version": 1,
-  "title": "Welcome to AllForU!",
-  "message": "MovieBox, Netflix, Hotstar & Prime Video — Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more!\n\nNote: StreamBox is now renamed to MovieBox!",
-  "actionText": "",
-  "actionUrl": ""
+  "version": 2,
+  "title": "🌟 AllForU",
+  "message": "Movies, Series & Anime\n\n🌍 Languages: Tamil • English • Hindi • Telugu • Malayalam & more\n\n📢 Updates, fixes & support — join our Telegram!",
+  "actionText": "📢 Join Telegram",
+  "actionUrl": "https://t.me/+7N1dOwBr9ZUxNmVl"
 }

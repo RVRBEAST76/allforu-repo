@@ -10,14 +10,20 @@ Manual Install (Copy and Paste in add Repo of CloudStream) :
 https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 ```
 
+<!-- PLUGINS_TABLE_START -->
+
 ## Available Plugins
 
-| Name       | TV Types        | Version | Status     |
-|------------|-----------------|---------|------------|
-| MovieBox   | Movie, TvSeries | 29      | Working    |
-| Netflix    | Movie, TvSeries | 88      | Working    |
-| Hotstar    | Movie, TvSeries | 83      | Working    |
-| PrimeVideo | Movie, TvSeries | 84      | Working    |
+| Name | TV Types | Version | Status |
+|------|----------|---------|--------|
+| MovieBox | Movie, TvSeries | 29 | Working |
+| Netflix | Movie, TvSeries | 88 | Working |
+| Hotstar | Movie, TvSeries | 83 | Working |
+| PrimeVideo | Movie, TvSeries | 84 | Working |
+
+*Auto-updated on every build.*
+
+<!-- PLUGINS_TABLE_END -->
 
 ### Disclaimer
 

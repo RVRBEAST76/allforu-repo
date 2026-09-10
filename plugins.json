@@ -17,7 +17,7 @@
     "version": 29,
     "internalName": "MovieBox",
     "description": "MovieBox - movies, series, anime",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/MovieBox.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MovieBox.cs3",
     "name": "MovieBox",
     "pluginClassName": "com.allforu.StreamBoxPlugin"
   },
@@ -39,7 +39,7 @@
     "version": 88,
     "internalName": "Netflix",
     "description": "Netflix - movies & series (net52)",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Netflix.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netflix.cs3",
     "name": "Netflix",
     "pluginClassName": "com.allforu.NetflixPlugin"
   },
@@ -61,7 +61,7 @@
     "version": 83,
     "internalName": "Hotstar",
     "description": "Hotstar - movies & series (net52)",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Hotstar.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Hotstar.cs3",
     "name": "Hotstar",
     "pluginClassName": "com.allforu.HotstarPlugin"
   },
@@ -83,7 +83,7 @@
     "version": 84,
     "internalName": "PrimeVideo",
     "description": "Prime Video - movies & series (net52)",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/PrimeVideo.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PrimeVideo.cs3",
     "name": "PrimeVideo",
     "pluginClassName": "com.allforu.PrimePlugin"
   }

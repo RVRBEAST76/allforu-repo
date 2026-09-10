@@ -1,7 +1,7 @@
 [
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/moviebox.png",
-    "fileHash": "sha256-df05047fa0aa91ab3ee9ac2e6c41a48ab81698081778790d341e53b3f327bbd9",
+    "fileHash": "sha256-5f2cb439953edae90870cced7de906c4897a202be7e707d3bb916af66d21244c",
     "apiVersion": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/repo.json",
     "fileSize": 36968,
@@ -14,7 +14,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 30,
+    "version": 31,
     "internalName": "MovieBox",
     "description": "MovieBox - movies, series, anime",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MovieBox.cs3",
@@ -23,7 +23,7 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/cnc-logo.jpg",
-    "fileHash": "sha256-a124015f0a6a0668cd7464077e50551db4c884096948bf47ce8bf66d56c44803",
+    "fileHash": "sha256-a974d3834e7a1f7d0aa5b917754d9a1ab2af3a2cfe19de2332f928447f37d040",
     "apiVersion": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/repo.json",
     "fileSize": 45515,
@@ -36,7 +36,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 89,
+    "version": 90,
     "internalName": "Netflix",
     "description": "Netflix - movies & series (net52)",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netflix.cs3",
@@ -45,7 +45,7 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/cnc-logo.jpg",
-    "fileHash": "sha256-89bd1f9cda69ad6bd14d2e075580d648087882b5aaed80225e2e716f0e2090a4",
+    "fileHash": "sha256-090f771ff76d2a433d63de82840616a7880238de2e3f89833b600b3aa5fd400d",
     "apiVersion": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/repo.json",
     "fileSize": 46459,
@@ -58,7 +58,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 84,
+    "version": 85,
     "internalName": "Hotstar",
     "description": "Hotstar - movies & series (net52)",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Hotstar.cs3",
@@ -67,7 +67,7 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/cnc-logo.jpg",
-    "fileHash": "sha256-8c789a6ab02959e5cd00d5862078e5e8be4aaee65b51c4ac4344e94f7401cdf9",
+    "fileHash": "sha256-3f39737d742e228c6611e0d26fa487a96eb7720057f40171fabc24e41e809b48",
     "apiVersion": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/repo.json",
     "fileSize": 48059,
@@ -80,7 +80,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 85,
+    "version": 86,
     "internalName": "PrimeVideo",
     "description": "Prime Video - movies & series (net52)",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PrimeVideo.cs3",

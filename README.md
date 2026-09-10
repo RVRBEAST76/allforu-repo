@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | Netflix | Movie, TvSeries | 97 | Working |
 | Hotstar | Movie, TvSeries | 92 | Working |
 | PrimeVideo | Movie, TvSeries | 93 | Working |
+| ReAnime | Anime, AnimeMovie | 1 | Working |
 
 *Auto-updated on every build.*
 

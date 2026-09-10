@@ -16,7 +16,7 @@
     ],
     "version": 31,
     "internalName": "MovieBox",
-    "description": "MovieBox - movies, series, anime",
+    "description": "MovieBox - Movies, Series & Anime in Tamil, English, Hindi, Telugu, Malayalam & more",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MovieBox.cs3",
     "name": "MovieBox",
     "pluginClassName": "com.allforu.StreamBoxPlugin"
@@ -38,7 +38,7 @@
     ],
     "version": 90,
     "internalName": "Netflix",
-    "description": "Netflix - movies & series (net52)",
+    "description": "Netflix - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netflix.cs3",
     "name": "Netflix",
     "pluginClassName": "com.allforu.NetflixPlugin"
@@ -60,7 +60,7 @@
     ],
     "version": 85,
     "internalName": "Hotstar",
-    "description": "Hotstar - movies & series (net52)",
+    "description": "Hotstar - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Hotstar.cs3",
     "name": "Hotstar",
     "pluginClassName": "com.allforu.HotstarPlugin"
@@ -82,7 +82,7 @@
     ],
     "version": 86,
     "internalName": "PrimeVideo",
-    "description": "Prime Video - movies & series (net52)",
+    "description": "Prime Video - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PrimeVideo.cs3",
     "name": "PrimeVideo",
     "pluginClassName": "com.allforu.PrimePlugin"

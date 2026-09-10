@@ -4,5 +4,6 @@
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/plugins.json"
-  ]
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/cnc-logo.jpg"
 }

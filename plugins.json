@@ -1,10 +1,10 @@
 [
   {
-    "iconUrl": "",
-    "fileHash": "sha256-ea9e6b72d7acf3d111d7751bf40962ba4514285d656171209905166aedce975c",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/moviebox.png",
+    "fileHash": "sha256-2de549580602d12fad2bcaec6f052a66809dabcc04e3539c4955326c44655a0d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 38363,
+    "fileSize": 38366,
     "status": 1,
     "language": "en",
     "authors": [
@@ -14,34 +14,12 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 28,
-    "internalName": "StreamBox",
+    "version": 29,
+    "internalName": "MovieBox",
     "description": "StreamBox (MovieBox) - movies, series, anime",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/StreamBox.cs3",
-    "name": "StreamBox",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/MovieBox.cs3",
+    "name": "MovieBox",
     "pluginClassName": "com.allforu.StreamBoxPlugin"
-  },
-  {
-    "iconUrl": "",
-    "fileHash": "sha256-8a3b56690e506c556979214d98a48e3e0bc2ce2f8cfbb4cef03e30d61a8094e4",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 13168,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "LiveTV",
-    "description": "Live TV channels",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/LiveTV.cs3",
-    "name": "LiveTV",
-    "pluginClassName": "com.allforu.LiveTvPlugin"
   },
   {
     "iconUrl": "",

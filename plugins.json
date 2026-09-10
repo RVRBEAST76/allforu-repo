@@ -67,10 +67,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-909dbab9983dde79c41797189262b3c8725bcb30fdb7b8236cf5bd3d56b4a652",
+    "fileHash": "sha256-640ba44a80c6e96e2aee17239a15e37ee1719c169ae7603f0c6391ee85ff02e9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 46677,
+    "fileSize": 46833,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -80,7 +80,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 82,
+    "version": 83,
     "internalName": "Hotstar",
     "description": "Hotstar - movies & series (net52)",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/Hotstar.cs3",
@@ -89,10 +89,10 @@
   },
   {
     "iconUrl": "",
-    "fileHash": "sha256-9b9be868e14d22ea2474bf017c094c2a51caa69f3c9dcbaae6f7980f0e46727e",
+    "fileHash": "sha256-2d31e9ad79a4ba57855c1a12bc83d292dbb6806e6d781e270885a6b1dd49ae91",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 48693,
+    "fileSize": 48243,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -102,7 +102,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 82,
+    "version": 83,
     "internalName": "PrimeVideo",
     "description": "Prime Video - movies & series (net52)",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/PrimeVideo.cs3",

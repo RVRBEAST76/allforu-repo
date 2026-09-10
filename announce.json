@@ -1,7 +1,25 @@
 {
-  "version": 2,
-  "title": "🌟 AllForU",
-  "message": "Movies, Series & Anime\n\n🌍 Languages: Tamil • English • Hindi • Telugu • Malayalam & more\n\n📢 Updates, fixes & support — join our Telegram!",
+  "version": 3,
+  "badge": "⚡ AllForU • Movies & Shows ↗",
+  "title": "🌟 Welcome to AllForU!",
+  "lines": [
+    {
+      "e": "🎬",
+      "h": "Movies, Series & Anime: ",
+      "t": "Latest content, fast streaming!"
+    },
+    {
+      "e": "🌍",
+      "h": "Languages: ",
+      "t": "Tamil • English • Hindi • Telugu • Malayalam & more"
+    },
+    {
+      "e": "🚀",
+      "h": "Fast Updates: ",
+      "t": "Fixes and improvements regularly!"
+    }
+  ],
+  "box": "📢 Join our Telegram for updates & support!",
   "actionText": "📢 Join Telegram",
   "actionUrl": "https://t.me/+7N1dOwBr9ZUxNmVl"
 }

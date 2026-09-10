@@ -21,5 +21,6 @@
   ],
   "box": "📢 Join our Telegram for updates & support!",
   "actionText": "📢 Join Telegram",
-  "actionUrl": "https://t.me/+7N1dOwBr9ZUxNmVl"
+  "actionUrl": "https://t.me/+7N1dOwBr9ZUxNmVl",
+  "hideAction": true
 }

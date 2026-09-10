@@ -1,8 +1,0 @@
-{
-  "name": "AllForU",
-  "description": "MovieBox, Netflix, Hotstar & Prime Video \u2014 all in one",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/plugins.json"
-  ]
-}

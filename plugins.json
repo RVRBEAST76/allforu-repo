@@ -16,7 +16,7 @@
     ],
     "version": 29,
     "internalName": "MovieBox",
-    "description": "StreamBox (MovieBox) - movies, series, anime",
+    "description": "MovieBox - movies, series, anime",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/MovieBox.cs3",
     "name": "MovieBox",
     "pluginClassName": "com.allforu.StreamBoxPlugin"

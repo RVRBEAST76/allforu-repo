@@ -23,10 +23,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/cnc-logo.jpg",
-    "fileHash": "sha256-7643c5818bcecd42cfb60d1799acbd703e50e9a6fd8c2fecc2e759dcf8e03f66",
+    "fileHash": "sha256-94f54f7d9ae6cc4fe18228084611ca5d4f72f568b28bfef468119aab3e7769f5",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 52673,
+    "fileSize": 53084,
     "status": 1,
     "language": "en",
     "authors": [
@@ -36,10 +36,10 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 100,
+    "version": 101,
     "internalName": "Netflix",
     "description": "Netflix - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netflix-v100.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netflix-v101.cs3",
     "name": "Netflix",
     "pluginClassName": "com.allforu.NetflixPlugin"
   },

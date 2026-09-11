@@ -88,7 +88,7 @@
     "pluginClassName": "com.allforu.PrimePlugin"
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "ReAnime",
     "name": "ReAnime",
     "pluginClassName": "com.allforu.ReAnimePlugin",
@@ -103,9 +103,9 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/ReAnime-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/ReAnime-v2.cs3",
     "description": "ReAnime - Anime Series & Movies (Sub & Dub)",
-    "fileHash": "sha256-5b2a8cd7c141c084c293bd217337feacd07ef3cb2addfabb13ed2d8084e4b721",
-    "fileSize": 34944
+    "fileHash": "sha256-be3cb7449780be5ac3d04a0683600b1c78cee25865b514ed7b7af0e0356b2fb4",
+    "fileSize": 38557
   }
 ]

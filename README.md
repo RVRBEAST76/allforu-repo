@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | MovieBox | Movie, TvSeries | 43 | Working |
 | Netflix | Movie, TvSeries | 101 | Working |
 | Hotstar | Movie, TvSeries | 95 | Working |
+| Disney+ | Movie, TvSeries | 1 | Working |
 | PrimeVideo | Movie, TvSeries | 96 | Working |
 
 *Auto-updated on every build.*

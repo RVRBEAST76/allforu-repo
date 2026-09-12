@@ -66,6 +66,27 @@
     "pluginClassName": "com.allforu.HotstarPlugin"
   },
   {
+    "version": 1,
+    "internalName": "DisneyPlus",
+    "name": "Disney+",
+    "pluginClassName": "com.allforu.DisneyPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/DisneyPlus-v1.cs3",
+    "description": "Disney+ - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
+    "fileHash": "sha256-bc4d44eb21298de9917788b4ef6619bc8a82e6be13c62c2de67db3db93623ce3",
+    "fileSize": 53693
+  },
+  {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
     "fileHash": "sha256-2c7f1c4c4ac83024a98173e8dea28b4c5af6654fadf9478f207a7f8590a71f80",
     "apiVersion": 1,

@@ -82,9 +82,10 @@
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/DisneyPlus-v1.cs3",
-    "description": "Disney+ - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
+    "description": "Disney+ - Disney, Marvel, Star Wars & Pixar Movies & Series in Tamil, English, Hindi & more",
     "fileHash": "sha256-bc4d44eb21298de9917788b4ef6619bc8a82e6be13c62c2de67db3db93623ce3",
-    "fileSize": 53693
+    "fileSize": 53693,
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",

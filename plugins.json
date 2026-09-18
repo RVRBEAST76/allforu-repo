@@ -110,7 +110,7 @@
     "pluginClassName": "com.allforu.PrimePlugin"
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "WaveFlix",
     "name": "WaveFlix",
     "pluginClassName": "com.allforu.WaveFlixPlugin",
@@ -125,10 +125,10 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/WaveFlix-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/WaveFlix-v2.cs3",
     "description": "WaveFlix - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "fileHash": "sha256-a1f95bd218ef9a2b7f7ab59291803600ff380f8408a342d3e0eaea3acf7b0b4b",
-    "fileSize": 44617
+    "fileHash": "sha256-ff52d2559344f0f2eb2fba71cabc264956521761aac9337623f9f42329201f4d",
+    "fileSize": 44426
   },
   {
     "version": 1,

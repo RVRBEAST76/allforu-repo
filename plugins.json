@@ -108,47 +108,5 @@
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PrimeVideo-v102.cs3",
     "name": "PrimeVideo",
     "pluginClassName": "com.allforu.PrimePlugin"
-  },
-  {
-    "version": 3,
-    "internalName": "WaveFlix",
-    "name": "WaveFlix",
-    "pluginClassName": "com.allforu.WaveFlixPlugin",
-    "status": 1,
-    "apiVersion": 1,
-    "language": "en",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/WaveFlix-v3.cs3",
-    "description": "WaveFlix - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "fileHash": "sha256-0bcef826adbfe717103d2a61b5d19bcf3e0af01f5bd86f0c1022831e96d372d2",
-    "fileSize": 46248
-  },
-  {
-    "version": 1,
-    "internalName": "Redflix",
-    "name": "Redflix",
-    "pluginClassName": "com.allforu.RedflixPlugin",
-    "status": 1,
-    "apiVersion": 1,
-    "language": "en",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Redflix-v1.cs3",
-    "description": "Redflix - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "fileHash": "sha256-e170bf0d06e6de7b013e421c33a20e8d11875f99c9ccb72f821d89370ac4f7fb",
-    "fileSize": 41007
   }
 ]

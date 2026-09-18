@@ -129,5 +129,26 @@
     "description": "WaveFlix - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
     "fileHash": "sha256-a1f95bd218ef9a2b7f7ab59291803600ff380f8408a342d3e0eaea3acf7b0b4b",
     "fileSize": 44617
+  },
+  {
+    "version": 1,
+    "internalName": "Redflix",
+    "name": "Redflix",
+    "pluginClassName": "com.allforu.RedflixPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Redflix-v1.cs3",
+    "description": "Redflix - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
+    "fileHash": "sha256-e170bf0d06e6de7b013e421c33a20e8d11875f99c9ccb72f821d89370ac4f7fb",
+    "fileSize": 41007
   }
 ]

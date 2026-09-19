@@ -110,7 +110,7 @@
     "pluginClassName": "com.allforu.PrimePlugin"
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "GlobalTV",
     "name": "GlobalTV",
     "pluginClassName": "com.allforu.GlobalTvPlugin",
@@ -125,13 +125,13 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/GlobalTV-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/GlobalTV-v2.cs3",
     "description": "GlobalTV - Live TV channels worldwide (Sports, News, Movies, Entertainment & more)",
-    "fileHash": "sha256-63dc85623e2ec608d1d08046bc0d936776416d241d12bf0cfb5036f0fd332e37",
-    "fileSize": 23571
+    "fileHash": "sha256-7c6f7c3a2428c68fa60ba594790f22f0d3d8102b7438a451218b336cd9f793d8",
+    "fileSize": 23653
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "JioTV",
     "name": "JioTV",
     "pluginClassName": "com.allforu.JioTvPlugin",
@@ -146,9 +146,9 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/JioTV-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/JioTV-v2.cs3",
     "description": "JioTV - Live JioTV channels (News, Entertainment, Movies, Sports, Devotional & more)",
-    "fileHash": "sha256-28cb5be7cbf4d1e0255fabdecfd0209fe1a06a285da40c75e9d9726afe850110",
-    "fileSize": 28966
+    "fileHash": "sha256-ee1007a57ed9f04db670e984f53ef77d64588c3ca7bf1f0ae2fada3ac9b3f555",
+    "fileSize": 28967
   }
 ]

@@ -111,27 +111,6 @@
   },
   {
     "version": 5,
-    "internalName": "GlobalTV",
-    "name": "GlobalTV",
-    "pluginClassName": "com.allforu.GlobalTvPlugin",
-    "status": 1,
-    "apiVersion": 1,
-    "language": "en",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/GlobalTV-v5.cs3",
-    "description": "GlobalTV - Live TV channels worldwide (Sports, News, Movies, Entertainment & more)",
-    "fileHash": "sha256-93b1d016063e869ccff50c801b090610bc61d9a0c0cf6316cc9bb03e2d3e80dd",
-    "fileSize": 42171
-  },
-  {
-    "version": 5,
     "internalName": "JioTV",
     "name": "JioTV",
     "pluginClassName": "com.allforu.JioTvPlugin",
@@ -149,7 +128,8 @@
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/JioTV-v5.cs3",
     "description": "JioTV - Live JioTV channels (News, Entertainment, Movies, Sports, Devotional & more)",
     "fileHash": "sha256-be67309ebfed7ff90b2fc777828f1f3ddb490fc4d0e51a9bddcac3d6e3a47eca",
-    "fileSize": 42233
+    "fileSize": 42233,
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/jiotv.png"
   },
   {
     "version": 1,
@@ -170,6 +150,7 @@
     "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/M3UPlayer-v1.cs3",
     "description": "M3U Player - Play your own M3U/M3U8 IPTV playlists (add URLs in plugin settings)",
     "fileHash": "sha256-c4be8ce5edf4b3e4923ced95d9efb54368d6c84a691413e533e7808230d64391",
-    "fileSize": 43535
+    "fileSize": 43535,
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/m3uplayer.png"
   }
 ]

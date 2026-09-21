@@ -169,10 +169,10 @@
       "OVA"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Reanime-v4.cs3",
-    "version": 4,
-    "fileHash": "sha256-67aae2f119df70dbd009983e59614e5759ea276d8c8b0dfc30dc96f2441dad0c",
-    "fileSize": 46030,
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Reanime-v5.cs3",
+    "version": 5,
+    "fileHash": "sha256-78dc1eaada3043cb6acb0061ffc209dc5d8a34c063200a9e663a9c4edfcb850f",
+    "fileSize": 47137,
     "description": "Reanime - Stream anime free online (sub & dub, multi-quality)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
   }

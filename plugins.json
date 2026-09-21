@@ -152,5 +152,28 @@
     "fileHash": "sha256-8337176900220ecdb3fca041b94774994152e8ba29868410f08626e9c3583517",
     "fileSize": 43312,
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/m3uplayer.png"
+  },
+  {
+    "internalName": "Reanime",
+    "name": "Re:ANIME",
+    "pluginClassName": "com.allforu.ReanimePlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "OVA"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Reanime-v3.cs3",
+    "version": 3,
+    "fileHash": "sha256-403c02dcd044bffeb338a316a532a8362d2a166705c2549dd37ff32258f18991",
+    "fileSize": 45972,
+    "description": "Reanime - Stream anime free online (sub & dub, multi-quality)",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
   }
 ]

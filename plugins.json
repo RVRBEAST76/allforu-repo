@@ -177,7 +177,7 @@
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "PvrPlay",
     "name": "PvrPlay",
     "pluginClassName": "com.allforu.PvrPlayPlugin",
@@ -192,10 +192,10 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PvrPlay-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PvrPlay-v2.cs3",
     "description": "PvrPlay - Movies & Web Series in HD (multi-server, Tamil, English, Hindi, Telugu & more)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-6b42ca906f4c9e871dfaa8fc0e77320093930d1f80d3e147f0c938822a81567d",
-    "fileSize": 35182
+    "fileHash": "sha256-59cdf9423f72543556faacf1928885fac09349b6f1304cbc1069dbfb0adb4069",
+    "fileSize": 37960
   }
 ]

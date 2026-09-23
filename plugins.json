@@ -169,11 +169,33 @@
       "OVA"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Reanime-v8.cs3",
-    "version": 8,
-    "fileHash": "sha256-02bd15d4d255ca55740cf28a6267627ed23b757f7f659a01e52d0c56c617fd5a",
-    "fileSize": 48167,
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Reanime-v9.cs3",
+    "version": 9,
+    "fileHash": "sha256-e23a5aa629815f48ef46761b7cc964a4679cf29100895eda478aed322daadd15",
+    "fileSize": 48166,
     "description": "Reanime - Stream anime free online (sub & dub, multi-quality)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
+  },
+  {
+    "version": 1,
+    "internalName": "PvrPlay",
+    "name": "PvrPlay",
+    "pluginClassName": "com.allforu.PvrPlayPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PvrPlay-v1.cs3",
+    "description": "PvrPlay - Movies & Web Series in HD (multi-server, Tamil, English, Hindi, Telugu & more)",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
+    "fileHash": "sha256-6b42ca906f4c9e871dfaa8fc0e77320093930d1f80d3e147f0c938822a81567d",
+    "fileSize": 35182
   }
 ]

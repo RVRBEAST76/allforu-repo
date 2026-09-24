@@ -177,7 +177,7 @@
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
   },
   {
-    "version": 6,
+    "version": 7,
     "internalName": "AllInOne",
     "name": "AllForU",
     "pluginClassName": "com.allforu.AllInOnePlugin",
@@ -192,10 +192,10 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllInOne-v6.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllInOne-v7.cs3",
     "description": "AllForU - All-in-One movies & series: TMDB catalog with multiple stream providers (auto-fallback)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-babef964ea54e2ab8336fe8d2b8f2decb47f197adaadc7e526653e493edf0882",
-    "fileSize": 57004
+    "fileHash": "sha256-7d3e2f2981024e2ff4e1fe912796ca33ee5a9b8a070644275833f9a76595fc4a",
+    "fileSize": 54573
   }
 ]

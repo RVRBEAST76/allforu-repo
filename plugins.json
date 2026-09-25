@@ -177,7 +177,7 @@
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "AllForU",
     "name": "AllForU",
     "pluginClassName": "com.allforu.AllForUPlugin",
@@ -192,10 +192,10 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllForU-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllForU-v2.cs3",
     "description": "AllForU - Movies & Series from dozens of servers (multi-audio, 4K/HD, auto-aggregated)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-47f729bf21c2572e96e5717cff1a01b76fb8334a7c3539e551b5021caa9ec9de",
-    "fileSize": 40661
+    "fileHash": "sha256-774ca4f12bd6184ae41e1e705bb44d7692c531c5acbeb8802a9e7900a2db16cd",
+    "fileSize": 40721
   }
 ]

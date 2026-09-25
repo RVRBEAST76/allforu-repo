@@ -177,6 +177,28 @@
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
   },
   {
+    "version": 1,
+    "internalName": "OlaMovies",
+    "name": "OlaMovies",
+    "pluginClassName": "com.allforu.OlaMoviesPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/OlaMovies-v1.cs3",
+    "description": "OlaMovies - Movies & Series catalogue with every quality source (4K/1080p/720p, multi-audio, sizes)",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
+    "fileHash": "sha256-f7f275e70dd6b72f84edfa90769a51c3e7e256be378fa96bfef1116dd478ccb4",
+    "fileSize": 27311
+  },
+  {
     "version": 9,
     "internalName": "AllForU",
     "name": "AllForU",

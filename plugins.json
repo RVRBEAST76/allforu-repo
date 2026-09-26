@@ -132,7 +132,7 @@
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/jiotv.png"
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "Omniz",
     "name": "Omniz",
     "pluginClassName": "com.allforu.OmnizPlugin",
@@ -147,11 +147,11 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Omniz-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Omniz-v2.cs3",
     "description": "Omniz - Movies & Series, multi-audio and 4K/HD from every source we can reach, zero mismatches",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-522a5aaee99b15bffb53bde2ff97442de1c7105e4999d25d4ba9093b0f25d529",
-    "fileSize": 56562
+    "fileHash": "sha256-8021157ac739abd4c739a2dfa328046b3ec5bb25b2bca6827c2c360029d7377c",
+    "fileSize": 59775
   },
   {
     "version": 5,

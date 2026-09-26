@@ -175,27 +175,5 @@
         "fileSize": 48824,
         "description": "Reanime - Stream anime free online (sub & dub, multi-quality)",
         "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
-    },
-    {
-        "version": 15,
-        "internalName": "AllForU",
-        "name": "AllForU",
-        "pluginClassName": "com.allforu.AllForUPlugin",
-        "status": 1,
-        "apiVersion": 1,
-        "language": "en",
-        "authors": [
-            "AllForU"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-        "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllForU-v15.cs3",
-        "description": "AllForU - Movies & Series from dozens of servers (multi-audio, 4K/HD, auto-aggregated)",
-        "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-        "fileHash": "sha256-412d50becc845a5386a98aa631287ab6e1bca36ee6276e75295465646dce1bc6",
-        "fileSize": 57313
     }
 ]

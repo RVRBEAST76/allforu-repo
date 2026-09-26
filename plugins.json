@@ -177,7 +177,7 @@
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "FreeTvGarden",
     "name": "FreeTvGarden",
     "pluginClassName": "com.allforu.FreeTvGardenPlugin",
@@ -191,11 +191,11 @@
       "Live"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/FreeTvGarden-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/FreeTvGarden-v2.cs3",
     "description": "FreeTvGarden - 11,000+ live TV channels, radio & webcams from 200+ countries (HLS)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-008a7fb1711683fd40ea8df116d1c33023b6e6a9a111596be40e3fd8886052bd",
-    "fileSize": 22588
+    "fileHash": "sha256-51659ee1ee9465f6e018288cb92e36bde49572f04291bace420b9fc8948e14bd",
+    "fileSize": 25884
   },
   {
     "version": 15,

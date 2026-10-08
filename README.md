@@ -18,9 +18,9 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 |------|----------|---------|--------|
 | MovieBox | Movie, TvSeries | 68 | Working |
 | Netflix | Movie, TvSeries | 119 | Working |
-| Hotstar | Movie, TvSeries | 112 | Working |
-| Disney+ | Movie, TvSeries | 18 | Working |
-| PrimeVideo | Movie, TvSeries | 113 | Working |
+| Hotstar | Movie, TvSeries | 113 | Working |
+| Disney+ | Movie, TvSeries | 19 | Working |
+| PrimeVideo | Movie, TvSeries | 114 | Working |
 | JioTV | Movie, TvSeries | 15 | Working |
 | M3U Player | Movie, TvSeries | 12 | Working |
 | Re:ANIME | AnimeMovie, Anime, OVA | 19 | Working |

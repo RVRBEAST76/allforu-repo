@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 
 | Name | TV Types | Version | Status |
 |------|----------|---------|--------|
-| MovieBox | Movie, TvSeries | 63 | Working |
+| MovieBox | Movie, TvSeries | 64 | Working |
 | Netflix | Movie, TvSeries | 115 | Working |
 | Hotstar | Movie, TvSeries | 109 | Working |
 | Disney+ | Movie, TvSeries | 15 | Working |

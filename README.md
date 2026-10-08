@@ -16,14 +16,14 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 
 | Name | TV Types | Version | Status |
 |------|----------|---------|--------|
-| MovieBox | Movie, TvSeries | 62 | Working |
-| Netflix | Movie, TvSeries | 114 | Working |
-| Hotstar | Movie, TvSeries | 108 | Working |
-| Disney+ | Movie, TvSeries | 14 | Working |
-| PrimeVideo | Movie, TvSeries | 109 | Working |
-| JioTV | Movie, TvSeries | 11 | Working |
-| M3U Player | Movie, TvSeries | 8 | Working |
-| Re:ANIME | AnimeMovie, Anime, OVA | 15 | Working |
+| MovieBox | Movie, TvSeries | 63 | Working |
+| Netflix | Movie, TvSeries | 115 | Working |
+| Hotstar | Movie, TvSeries | 109 | Working |
+| Disney+ | Movie, TvSeries | 15 | Working |
+| PrimeVideo | Movie, TvSeries | 110 | Working |
+| JioTV | Movie, TvSeries | 12 | Working |
+| M3U Player | Movie, TvSeries | 9 | Working |
+| Re:ANIME | AnimeMovie, Anime, OVA | 16 | Working |
 
 *Auto-updated on every build.*
 

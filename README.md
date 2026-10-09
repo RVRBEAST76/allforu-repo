@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | Netcinez | Movie, TvSeries | 1 | Working |
 | Chikianimation | Movie, Anime | 1 | Working |
 | OHLI24 | Anime, AnimeMovie | 1 | Working |
-| AniVortex | Anime, AnimeMovie, Movie, TvSeries | 1 | Working |
+| AniVortex | Anime, AnimeMovie, Movie, TvSeries | 2 | Working |
 
 *Auto-updated on every build.*
 

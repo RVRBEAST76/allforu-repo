@@ -287,7 +287,7 @@
     "fileSize": 25595
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "AniVortex",
     "name": "AniVortex",
     "pluginClassName": "com.allforu.AniVortexPlugin",
@@ -304,10 +304,10 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AniVortex-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AniVortex-v2.cs3",
     "description": "AniVortex - Anime, movies & series from many OTT catalogues",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/anivortex.png",
-    "fileHash": "sha256-cfebebb4094720bf38ed25c2210bcd670e765723bf78ec249b66803ea355f6c0",
-    "fileSize": 44089
+    "fileHash": "sha256-ad4fbc93ea0501500c7639b4aa3a070fb5a0402e60f7903e83d00971b8ada21e",
+    "fileSize": 52698
   }
 ]

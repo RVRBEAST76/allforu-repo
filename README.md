@@ -24,6 +24,12 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | JioTV | Movie, TvSeries | 16 | Working |
 | M3U Player | Movie, TvSeries | 13 | Working |
 | Re:ANIME | AnimeMovie, Anime, OVA | 20 | Working |
+| AnimeAv1 | Anime, AnimeMovie | 1 | Working |
+| Latanime | Anime, AnimeMovie | 1 | Working |
+| Netcinez | Movie, TvSeries | 1 | Working |
+| Chikianimation | Movie, Anime | 1 | Working |
+| OHLI24 | Anime, AnimeMovie | 1 | Working |
+| AniVortex | Anime, AnimeMovie, Movie, TvSeries | 1 | Working |
 
 *Auto-updated on every build.*
 

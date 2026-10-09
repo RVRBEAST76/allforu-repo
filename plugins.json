@@ -116,7 +116,7 @@
     "pluginClassName": "com.allforu.JioTvPlugin",
     "status": 1,
     "apiVersion": 1,
-    "language": "en",
+    "language": "hi",
     "authors": [
       "AllForU"
     ],
@@ -177,13 +177,13 @@
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "Animeav1",
     "name": "AnimeAv1",
     "pluginClassName": "com.allforu.Animeav1Plugin",
     "status": 1,
     "apiVersion": 1,
-    "language": "en",
+    "language": "es",
     "authors": [
       "AllForU"
     ],
@@ -192,20 +192,20 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Animeav1-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Animeav1-v2.cs3",
     "description": "AnimeAv1 - Anime en espanol latino (multi-servidor, sub)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/animeav1.png",
-    "fileHash": "sha256-1cb0ca9b242bf361b9dfd8532ae12c805145169090250d7905234eace467172b",
-    "fileSize": 24598
+    "fileHash": "sha256-40066bd39e7519f3c82e8730ffebde4c5b765b7c9b990653f23cf66e5f0f926b",
+    "fileSize": 24592
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "Latanime",
     "name": "Latanime",
     "pluginClassName": "com.allforu.LatanimePlugin",
     "status": 1,
     "apiVersion": 1,
-    "language": "en",
+    "language": "es",
     "authors": [
       "AllForU"
     ],
@@ -214,11 +214,11 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Latanime-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Latanime-v2.cs3",
     "description": "Latanime - Anime en espanol latino (sub & doblaje)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/latanime.png",
-    "fileHash": "sha256-1b154fa909cf75b86389788d3b27394f131653b63cc3c1db2e4ded2e882e94c4",
-    "fileSize": 21416
+    "fileHash": "sha256-249e938f499051ec9aa38b51b2ebd5765400900c239f705ceecd5b3aaf3e29e4",
+    "fileSize": 21420
   },
   {
     "version": 1,
@@ -227,7 +227,7 @@
     "pluginClassName": "com.allforu.NetcinezPlugin",
     "status": 1,
     "apiVersion": 1,
-    "language": "en",
+    "language": "pt-br",
     "authors": [
       "AllForU"
     ],
@@ -249,7 +249,7 @@
     "pluginClassName": "com.allforu.ChikianimationPlugin",
     "status": 1,
     "apiVersion": 1,
-    "language": "en",
+    "language": "zh",
     "authors": [
       "AllForU"
     ],
@@ -287,13 +287,13 @@
     "fileSize": 25595
   },
   {
-    "version": 2,
+    "version": 3,
     "internalName": "AniVortex",
     "name": "AniVortex",
     "pluginClassName": "com.allforu.AniVortexPlugin",
     "status": 1,
     "apiVersion": 1,
-    "language": "en",
+    "language": "hi",
     "authors": [
       "AllForU"
     ],
@@ -304,10 +304,10 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AniVortex-v2.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AniVortex-v3.cs3",
     "description": "AniVortex - Anime, movies & series from many OTT catalogues",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/anivortex.png",
-    "fileHash": "sha256-ad4fbc93ea0501500c7639b4aa3a070fb5a0402e60f7903e83d00971b8ada21e",
-    "fileSize": 52698
+    "fileHash": "sha256-f0dfc22414bef5ce9d09e0ee288d0c99334154dd96c3b9120fea2aa75298e507",
+    "fileSize": 52704
   }
 ]

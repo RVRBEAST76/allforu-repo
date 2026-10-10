@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/moviebox.png",
-    "fileHash": "sha256-1f2facb174bc9a05b78e5979b7947590219af1abaf5c8ddc9b56f4bb6c1a24bf",
+    "fileHash": "sha256-3a8377d1863a72810e61cfd26cf9dd7196a6401961be3d2d1ecb9ce3c86b64d0",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 54056,
+    "fileSize": 54055,
     "status": 1,
     "language": "en",
     "authors": [
@@ -14,16 +14,16 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 73,
+    "version": 74,
     "internalName": "MovieBox",
     "description": "MovieBox - Movies, Series & Anime in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MovieBox-v73.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MovieBox-v74.cs3",
     "name": "MovieBox",
     "pluginClassName": "com.allforu.StreamBoxPlugin"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-f8268251cee2e56f4b2dc81364441942b5da5b53712604e8b8b0115bd5d271d3",
+    "fileHash": "sha256-cedc05377c2445b5e387084dee0d04bdaae402af1ea87ef3031612b06029b1fc",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
     "fileSize": 56910,
@@ -36,16 +36,16 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 124,
+    "version": 125,
     "internalName": "Netflix",
     "description": "Netflix - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netflix-v124.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netflix-v125.cs3",
     "name": "Netflix",
     "pluginClassName": "com.allforu.NetflixPlugin"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-76711bff7b79f909d3f60ab95b445ce2ae5d46b05a24a7e4ebf07c77bab2e608",
+    "fileHash": "sha256-703c304f16c21f84a9470727b49fa099e864924af5d0c47d8887c221e4aebb43",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
     "fileSize": 56844,
@@ -58,15 +58,15 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 118,
+    "version": 119,
     "internalName": "Hotstar",
     "description": "Hotstar - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Hotstar-v118.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Hotstar-v119.cs3",
     "name": "Hotstar",
     "pluginClassName": "com.allforu.HotstarPlugin"
   },
   {
-    "version": 24,
+    "version": 25,
     "internalName": "DisneyPlus",
     "name": "Disney+",
     "pluginClassName": "com.allforu.DisneyPlugin",
@@ -81,18 +81,18 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/DisneyPlus-v24.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/DisneyPlus-v25.cs3",
     "description": "Disney+ - Disney, Marvel, Star Wars & Pixar Movies & Series in Tamil, English, Hindi & more",
-    "fileHash": "sha256-be1250afbf7a909262b04ed34e271df7000adfead0fe69cae715840c69143081",
+    "fileHash": "sha256-e38783ad9fff8248d1a0b829c120ffb9fc76050a966b1949871afdea663e1e69",
     "fileSize": 56882,
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-1c65f16aa28ee52777e8804855b25ae3a7a180c7fd4027aa4548f067b8cdf792",
+    "fileHash": "sha256-f2487798d4276917018d66ef456be7b09297bf6fc960dd0677cdce10e3ae2307",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 58474,
+    "fileSize": 58475,
     "status": 1,
     "language": "en",
     "authors": [
@@ -102,15 +102,15 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 119,
+    "version": 120,
     "internalName": "PrimeVideo",
     "description": "Prime Video - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PrimeVideo-v119.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PrimeVideo-v120.cs3",
     "name": "PrimeVideo",
     "pluginClassName": "com.allforu.PrimePlugin"
   },
   {
-    "version": 19,
+    "version": 20,
     "internalName": "JioTV",
     "name": "JioTV",
     "pluginClassName": "com.allforu.JioTvPlugin",
@@ -125,14 +125,14 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/JioTV-v19.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/JioTV-v20.cs3",
     "description": "JioTV - Live JioTV channels (News, Entertainment, Movies, Sports, Devotional & more)",
-    "fileHash": "sha256-659cd1d020e3520870645d9b00e1d8c450944b39aad02b9feab362c26de624e4",
+    "fileHash": "sha256-575626317368e7238db189e0cd1f22ce61bee3e6aae350146e406314efe95dd5",
     "fileSize": 43632,
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/jiotv.png"
   },
   {
-    "version": 16,
+    "version": 17,
     "internalName": "M3UPlayer",
     "name": "M3U Player",
     "pluginClassName": "com.allforu.M3uPlayerPlugin",
@@ -147,9 +147,9 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/M3UPlayer-v16.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/M3UPlayer-v17.cs3",
     "description": "M3U Player - Play your own M3U/M3U8 IPTV playlists (add URLs in plugin settings)",
-    "fileHash": "sha256-c07e8b9f0e8f06247c7acdebb708fa4d1caaaa821f9d95c0f68ab712b80d409f",
+    "fileHash": "sha256-76ccd144eef5ff504710608be3ed600d4d615499d8d0afd589375c7e61c5cc97",
     "fileSize": 44607,
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/m3uplayer.png"
   },
@@ -169,15 +169,15 @@
       "OVA"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Reanime-v23.cs3",
-    "version": 23,
-    "fileHash": "sha256-c00a656647f4a48b087392d86618c7b86d784cf32d8b4f31e30fa7273d666756",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Reanime-v24.cs3",
+    "version": 24,
+    "fileHash": "sha256-0dd248ea3e60dad1b76eb41bac4a264fb830a5c476e5833a4a5237d1cca67f30",
     "fileSize": 49603,
     "description": "Reanime - Stream anime free online (sub & dub, multi-quality)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
   },
   {
-    "version": 5,
+    "version": 6,
     "internalName": "Animeav1",
     "name": "AnimeAv1",
     "pluginClassName": "com.allforu.Animeav1Plugin",
@@ -192,14 +192,14 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Animeav1-v5.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Animeav1-v6.cs3",
     "description": "AnimeAv1 - Anime en espanol latino (multi-servidor, sub)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/animeav1.png",
-    "fileHash": "sha256-f0fee7b2faf61bb5c762e046548733b1cacd1888a9b465086688855f52b317b4",
+    "fileHash": "sha256-6787ab12a1eb2c1b566a228c26449547b9cffc60eb40e649c2eff73eee01b18e",
     "fileSize": 25260
   },
   {
-    "version": 5,
+    "version": 6,
     "internalName": "Latanime",
     "name": "Latanime",
     "pluginClassName": "com.allforu.LatanimePlugin",
@@ -214,14 +214,14 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Latanime-v5.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Latanime-v6.cs3",
     "description": "Latanime - Anime en espanol latino (sub & doblaje)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/latanime.png",
-    "fileHash": "sha256-741d3eb4ec34cb37c6bd3a31f95a945119d03ad78beb4173f6b7c9c94c9c3970",
+    "fileHash": "sha256-7ee737cfe7ce2e8c813e2144de52d06ca6ecadd08451df57a65687423b8db52e",
     "fileSize": 22070
   },
   {
-    "version": 4,
+    "version": 5,
     "internalName": "Netcinez",
     "name": "Netcinez",
     "pluginClassName": "com.allforu.NetcinezPlugin",
@@ -236,14 +236,14 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netcinez-v4.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netcinez-v5.cs3",
     "description": "Netcinez - Filmes, Series & Animes dublados (Portugues)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/netcinez.png",
-    "fileHash": "sha256-a27be9118ca78bdf7bb77f56a848ae2713a9d9c78fda686185b72fdac407b972",
+    "fileHash": "sha256-6eff3afd452d6c6f3c65fdbb761dc0d1c348da55551e8a512262ba4e005d3b33",
     "fileSize": 25005
   },
   {
-    "version": 4,
+    "version": 5,
     "internalName": "Chikianimation",
     "name": "Chikianimation",
     "pluginClassName": "com.allforu.ChikianimationPlugin",
@@ -258,14 +258,14 @@
       "Anime"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Chikianimation-v4.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Chikianimation-v5.cs3",
     "description": "Chikianimation - Donghua (Chinese anime) in multiple subtitles",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/chikianimation.png",
-    "fileHash": "sha256-4379fb3d86f864ce11aa851598671a002f0b08edad0009da32ac250155067f36",
+    "fileHash": "sha256-de53f0fca783830d4658dd96a40ae325509d55795ac129afd69df5dc5c2aa995",
     "fileSize": 40076
   },
   {
-    "version": 4,
+    "version": 5,
     "internalName": "OHLI24",
     "name": "OHLI24",
     "pluginClassName": "com.allforu.Ohli24Plugin",
@@ -280,14 +280,14 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/OHLI24-v4.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/OHLI24-v5.cs3",
     "description": "OHLI24 - Korean anime streaming (K-sub)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/ohli24.png",
-    "fileHash": "sha256-da32bddaf80c9883e99160c3a42f7fbac31a1494d37cc75094bbb5f188256a7e",
+    "fileHash": "sha256-1ab4d38f71b85d483fe6da564928c622fdf4cb24b3aa287ef315ff4f5c710b51",
     "fileSize": 26213
   },
   {
-    "version": 6,
+    "version": 7,
     "internalName": "AniVortex",
     "name": "AniVortex",
     "pluginClassName": "com.allforu.AniVortexPlugin",
@@ -304,14 +304,14 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AniVortex-v6.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AniVortex-v7.cs3",
     "description": "AniVortex - Anime, movies & series from many OTT catalogues",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/anivortex.png",
-    "fileHash": "sha256-0aeb0f88190d79a3c40178a3a3f22ca732037e260dfccf9b67f2743a4aa8d8c7",
+    "fileHash": "sha256-4f4b9e889f93f27dc41fc4ae187c7347f629b97305ff7e616f9dd5d9c6e2180b",
     "fileSize": 53369
   },
   {
-    "version": 3,
+    "version": 4,
     "internalName": "NetNaija",
     "name": "NetNaija",
     "pluginClassName": "com.allforu.NetNaijaPlugin",
@@ -328,14 +328,14 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/NetNaija-v3.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/NetNaija-v4.cs3",
     "description": "NetNaija - Movies, series & anime with configurable host, sources & home sections",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/netnaija.png",
-    "fileHash": "sha256-94b9d13fdfbd8a9c10613baa55403c8b1f2ce55553b11319eb377aaaf12b0be5",
+    "fileHash": "sha256-057909ab4e4d72b940ba3b5dd85877906af08949f7cf16a02fa65fbc14d3e78b",
     "fileSize": 78912
   },
   {
-    "version": 3,
+    "version": 4,
     "internalName": "Coflix",
     "name": "Coflix",
     "pluginClassName": "com.allforu.CoflixPlugin",
@@ -352,10 +352,10 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Coflix-v3.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Coflix-v4.cs3",
     "description": "Coflix - Films, series, animes & doramas en streaming (French)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/coflix.png",
-    "fileHash": "sha256-4f003d5d1d0cc8a205eebace88521f795341546b3fb83a3b4c9ebf546a2c6675",
+    "fileHash": "sha256-0824279f7a0ce604e29cfda29c078d9d6e01fdf7814596841cd0ddac4f75ce99",
     "fileSize": 30690
   }
 ]

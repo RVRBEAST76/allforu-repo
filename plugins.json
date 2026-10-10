@@ -333,5 +333,29 @@
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/netnaija.png",
     "fileHash": "sha256-4b12a39e593ff928f1a938939d2aad8ef89d5c34cc057b7afb8b2915b87cb027",
     "fileSize": 74810
+  },
+  {
+    "version": 1,
+    "internalName": "Coflix",
+    "name": "Coflix",
+    "pluginClassName": "com.allforu.CoflixPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "fr",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AnimeMovie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Coflix-v1.cs3",
+    "description": "Coflix - Films, series, animes & doramas en streaming (French)",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/coflix.png",
+    "fileHash": "sha256-69f824577c4d759fca0ee823e353be00fc6b42f2a0de0d0a0e4ddd004d574369",
+    "fileSize": 31368
   }
 ]

@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | Chikianimation | Movie, Anime | 4 | Working |
 | OHLI24 | Anime, AnimeMovie | 4 | Working |
 | AniVortex | Anime, AnimeMovie, Movie, TvSeries | 6 | Working |
-| NetNaija | Movie, TvSeries, Anime, AnimeMovie | 2 | Working |
+| NetNaija | Movie, TvSeries, Anime, AnimeMovie | 3 | Working |
 | Coflix | Movie, TvSeries, Anime, AnimeMovie | 3 | Working |
 
 *Auto-updated on every build.*

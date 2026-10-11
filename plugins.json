@@ -357,5 +357,27 @@
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/coflix.png",
     "fileHash": "sha256-974cbca7fd702240ffcc10250b9d5fdad307feb6c2da1a3dc67b86e325be7e72",
     "fileSize": 30644
+  },
+  {
+    "version": 1,
+    "internalName": "Comix",
+    "name": "Comix",
+    "pluginClassName": "com.allforu.ComixPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Anime",
+      "Others"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Comix-v1.cs3",
+    "description": "Comix - Read manhwa, manhua & manga online (premium in-app reader)",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/comix.png",
+    "fileHash": "sha256-ab8ecbf1239ac3004f606f7b0e0e8bf3e9a792dcea4fa0aa6b729657636118ad",
+    "fileSize": 35542
   }
 ]

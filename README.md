@@ -16,22 +16,22 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 
 | Name | TV Types | Version | Status |
 |------|----------|---------|--------|
-| MovieBox | Movie, TvSeries | 78 | Working |
-| Netflix | Movie, TvSeries | 129 | Working |
-| Hotstar | Movie, TvSeries | 123 | Working |
-| Disney+ | Movie, TvSeries | 29 | Working |
-| PrimeVideo | Movie, TvSeries | 124 | Working |
-| JioTV | Movie, TvSeries | 24 | Working |
-| M3U Player | Movie, TvSeries | 21 | Working |
-| Re:ANIME | AnimeMovie, Anime, OVA | 28 | Working |
-| AnimeAv1 | Anime, AnimeMovie | 10 | Working |
-| Latanime | Anime, AnimeMovie | 10 | Working |
-| Netcinez | Movie, TvSeries | 9 | Working |
-| Chikianimation | Movie, Anime | 9 | Working |
-| OHLI24 | Anime, AnimeMovie | 9 | Working |
-| AniVortex | Anime, AnimeMovie, Movie, TvSeries | 11 | Working |
-| AllDubz | Movie, TvSeries, Anime, AnimeMovie | 11 | Working |
-| Coflix | Movie, TvSeries, Anime, AnimeMovie | 8 | Working |
+| MovieBox | Movie, TvSeries | 79 | Working |
+| Netflix | Movie, TvSeries | 130 | Working |
+| Hotstar | Movie, TvSeries | 124 | Working |
+| Disney+ | Movie, TvSeries | 30 | Working |
+| PrimeVideo | Movie, TvSeries | 125 | Working |
+| JioTV | Movie, TvSeries | 25 | Working |
+| M3U Player | Movie, TvSeries | 22 | Working |
+| Re:ANIME | AnimeMovie, Anime, OVA | 29 | Working |
+| AnimeAv1 | Anime, AnimeMovie | 11 | Working |
+| Latanime | Anime, AnimeMovie | 11 | Working |
+| Netcinez | Movie, TvSeries | 10 | Working |
+| Chikianimation | Movie, Anime | 10 | Working |
+| OHLI24 | Anime, AnimeMovie | 10 | Working |
+| AniVortex | Anime, AnimeMovie, Movie, TvSeries | 12 | Working |
+| AllDubz | Movie, TvSeries, Anime, AnimeMovie | 12 | Working |
+| Coflix | Movie, TvSeries, Anime, AnimeMovie | 9 | Working |
 
 *Auto-updated on every build.*
 

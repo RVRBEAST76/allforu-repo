@@ -173,7 +173,7 @@
     "version": 24,
     "fileHash": "sha256-0dd248ea3e60dad1b76eb41bac4a264fb830a5c476e5833a4a5237d1cca67f30",
     "fileSize": 49603,
-    "description": "Reanime - Stream anime free online (sub & dub, multi-quality)",
+    "description": "Re:ANIME - Stream anime free online (sub & dub, multi-quality)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
   },
   {
@@ -311,9 +311,9 @@
     "fileSize": 53369
   },
   {
-    "version": 6,
+    "version": 7,
     "internalName": "NetNaija",
-    "name": "NetNaija",
+    "name": "AllDubz",
     "pluginClassName": "com.allforu.NetNaijaPlugin",
     "status": 1,
     "apiVersion": 1,
@@ -328,11 +328,11 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/NetNaija-v6.cs3",
-    "description": "NetNaija - Movies, series & anime with configurable host, sources & home sections",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/NetNaija-v7.cs3",
+    "description": "AllDubz - Movies, series & anime in every region dub (configurable host, sources & sections)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/netnaija.png",
-    "fileHash": "sha256-2a12fc2cb587c57e6b7b1b9dd96b8d2209dcc8835ffdd36188e90ce93bab72bd",
-    "fileSize": 84822
+    "fileHash": "sha256-c3e9180fb0b6200d61d909deb4aad0bd9f3d299adf5cd889c064278c28b7fe50",
+    "fileSize": 84824
   },
   {
     "version": 4,

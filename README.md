@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | AniVortex | Anime, AnimeMovie, Movie, TvSeries | 12 | Working |
 | AllDubz | Movie, TvSeries, Anime, AnimeMovie | 12 | Working |
 | Coflix | Movie, TvSeries, Anime, AnimeMovie | 9 | Working |
-| Comix | Anime, Others | 1 | Working |
+| Comix | Anime, Others | 2 | Working |
 
 *Auto-updated on every build.*
 

@@ -311,7 +311,7 @@
     "fileSize": 53369
   },
   {
-    "version": 4,
+    "version": 5,
     "internalName": "NetNaija",
     "name": "NetNaija",
     "pluginClassName": "com.allforu.NetNaijaPlugin",
@@ -328,11 +328,11 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/NetNaija-v4.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/NetNaija-v5.cs3",
     "description": "NetNaija - Movies, series & anime with configurable host, sources & home sections",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/netnaija.png",
-    "fileHash": "sha256-057909ab4e4d72b940ba3b5dd85877906af08949f7cf16a02fa65fbc14d3e78b",
-    "fileSize": 78912
+    "fileHash": "sha256-1b7b7d706985d864f22ff8ca66bedfbd3a26fb0977f4fd67d8e954ef2f100519",
+    "fileSize": 82210
   },
   {
     "version": 4,

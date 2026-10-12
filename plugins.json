@@ -359,7 +359,7 @@
     "fileSize": 30644
   },
   {
-    "version": 4,
+    "version": 5,
     "internalName": "Comix",
     "name": "Comix",
     "pluginClassName": "com.allforu.ComixPlugin",
@@ -374,10 +374,10 @@
       "Others"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Comix-v4.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Comix-v5.cs3",
     "description": "Comix - Read manhwa, manhua & manga online (premium in-app reader)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/comix.png",
-    "fileHash": "sha256-fba5a4145b3469b48340c894073306a77950ba46fe5e71b0c906594a7569139a",
-    "fileSize": 39405
+    "fileHash": "sha256-181ef43c1d7358fe3050b551a4294f9479b230ea5c2cb0774c4122b9ce92d6fa",
+    "fileSize": 40051
   }
 ]

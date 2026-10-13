@@ -379,5 +379,27 @@
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/comix.png",
     "fileHash": "sha256-a50fb5ed10ecf5a360063eab9c0db1ad8508f5a060bd7e8d408c2e335564026a",
     "fileSize": 41521
+  },
+  {
+    "version": 1,
+    "internalName": "SmartTube",
+    "name": "SmartTube",
+    "pluginClassName": "com.allforu.SmartTubePlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Others",
+      "Movie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/SmartTube-v1.cs3",
+    "description": "SmartTube - YouTube for CloudStream (trending, channels, playlists, videos)",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/smarttube.png",
+    "fileHash": "sha256-a8a5269893549d04d82b37962939761409d49ef6e1881e890b6261f891ab43e9",
+    "fileSize": 32147
   }
 ]

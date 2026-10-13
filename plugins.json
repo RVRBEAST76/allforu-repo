@@ -381,7 +381,7 @@
     "fileSize": 40051
   },
   {
-    "version": 6,
+    "version": 7,
     "internalName": "OlaMovies",
     "name": "OlaMovies",
     "pluginClassName": "com.allforu.OlaMoviesPlugin",
@@ -397,10 +397,10 @@
       "Others"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/OlaMovies-v6.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/OlaMovies-v7.cs3",
     "description": "OlaMovies - Highest quality movies & series (720p/1080p/4K, multi-audio) with Cloudflare access",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/olamovies.png",
-    "fileHash": "sha256-db12b62caac6155d2c24d0279a02a3d057906c3790a2a21ba23e9ddf73cb6814",
-    "fileSize": 45929
+    "fileHash": "sha256-4bc9f37e1da6581ca9831c16bf828c1d5ad081c0135ebe88ec81b65edf20d6a8",
+    "fileSize": 47634
   }
 ]

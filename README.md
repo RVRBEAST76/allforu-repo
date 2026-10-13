@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | AllDubz | Movie, TvSeries, Anime, AnimeMovie | 13 | Working |
 | Coflix | Movie, TvSeries, Anime, AnimeMovie | 10 | Working |
 | Comix | Anime, Others | 6 | Working |
+| SmartTube | Others, Movie | 1 | Working |
 
 *Auto-updated on every build.*
 

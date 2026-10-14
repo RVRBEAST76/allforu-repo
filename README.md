@@ -34,20 +34,19 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | Coflix | Movie, TvSeries, Anime, AnimeMovie | 10 | Working |
 | Comix | Anime, Others | 6 | Working |
 | SmartTube | Others, Movie | 5 | Working |
-| EgyBest | Movie, TvSeries | 2 | Working |
-| Anime Phoenix | Anime, AnimeMovie | 2 | Working |
-| FrenchStream | Movie, TvSeries | 2 | Working |
-| Movie2K | Movie, TvSeries | 2 | Working |
-| Samehadaku | Anime, AnimeMovie | 2 | Working |
-| StreamUnity | Movie, TvSeries | 2 | Working |
-| AnimeOdcinki | Anime, AnimeMovie | 2 | Working |
-| Kinogo | Movie, TvSeries | 2 | Working |
-| YummyAni | Anime, AnimeMovie | 2 | Working |
-| PelisForte | Movie, TvSeries | 2 | Working |
-| 7Movies | Movie, TvSeries | 2 | Working |
-| DiziPal | TvSeries, Movie | 2 | Working |
-| PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 2 | Working |
-| KissAsian | TvSeries, Movie | 2 | Working |
+| EgyBest | Movie, TvSeries | 3 | Working |
+| Anime Phoenix | Anime, AnimeMovie | 3 | Working |
+| FrenchStream | Movie, TvSeries | 3 | Working |
+| Movie2K | Movie, TvSeries | 3 | Working |
+| Samehadaku | Anime, AnimeMovie | 3 | Working |
+| StreamUnity | Movie, TvSeries | 3 | Working |
+| AnimeOdcinki | Anime, AnimeMovie | 3 | Working |
+| Kinogo | Movie, TvSeries | 3 | Working |
+| YummyAni | Anime, AnimeMovie | 3 | Working |
+| PelisForte | Movie, TvSeries | 3 | Working |
+| DiziPal | TvSeries, Movie | 3 | Working |
+| PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 3 | Working |
+| KissAsian | TvSeries, Movie | 3 | Working |
 
 *Auto-updated on every build.*
 

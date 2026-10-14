@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | Kinogo | Movie, TvSeries | 3 | Working |
 | YummyAni | Anime, AnimeMovie | 3 | Working |
 | PelisForte | Movie, TvSeries | 3 | Working |
-| DiziPal | TvSeries, Movie | 3 | Working |
+| DiziPal | TvSeries, Movie | 4 | Working |
 | PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 3 | Working |
 | KissAsian | TvSeries, Movie | 3 | Working |
 

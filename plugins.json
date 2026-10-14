@@ -623,7 +623,7 @@
     "fileSize": 25895
   },
   {
-    "version": 4,
+    "version": 5,
     "internalName": "DiziPal",
     "name": "DiziPal",
     "pluginClassName": "com.allforu.DiziPalPlugin",
@@ -638,11 +638,11 @@
       "Movie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/DiziPal-v4.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/DiziPal-v5.cs3",
     "description": "DiziPal - Turkish diziler with direct HLS (T\u00fcrk\u00e7e)",
     "iconUrl": "https://dizipal1453.com/wp-content/uploads/2026/04/dpalsymbol.png",
-    "fileHash": "sha256-9ef5ff0d2f8e3bcbad738612bbacdcb585ed1e050484a53a0b007dddc93dc011",
-    "fileSize": 44748
+    "fileHash": "sha256-6832041ba2d37c8876e1224e363243736ed10e0f9987b7033b6bc14865c9ae4a",
+    "fileSize": 46339
   },
   {
     "version": 3,

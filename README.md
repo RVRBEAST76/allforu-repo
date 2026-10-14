@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | Comix | Anime, Others | 6 | Working |
 | SmartTube | Others, Movie | 5 | Working |
 | EgyBest | Movie, TvSeries | 3 | Working |
-| Anime Phoenix | Anime, AnimeMovie | 3 | Working |
+| Anime Phoenix | Anime, AnimeMovie | 4 | Working |
 | FrenchStream | Movie, TvSeries | 3 | Working |
 | Movie2K | Movie, TvSeries | 3 | Working |
 | Samehadaku | Anime, AnimeMovie | 3 | Working |

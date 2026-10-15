@@ -1,29 +1,5 @@
 [
   {
-    "version": 1,
-    "internalName": "AllForU",
-    "name": "AllForU",
-    "pluginClassName": "com.allforu.bundle.AllForUPlugin",
-    "status": 1,
-    "apiVersion": 1,
-    "language": "en",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "AnimeMovie"
-    ],
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllForU-v1.cs3",
-    "description": "AllForU - all plugins in ONE install (movies, series, anime) + AllStream hub",
-    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-eb785cb55a7ba5db72dd888d3ce512f3d8edbd4282e64c45fbbf595151f108b7",
-    "fileSize": 729074
-  },
-  {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/moviebox.png",
     "fileHash": "sha256-d1d21f42000b2a94e56408c4b8f3c310d5c2e487a7e57da843305d4d5d63bf32",
     "apiVersion": 1,
@@ -695,7 +671,7 @@
     "fileSize": 37065
   },
   {
-    "version": 9,
+    "version": 10,
     "internalName": "AllStream",
     "name": "AllStream",
     "pluginClassName": "com.allforu.AllStreamPlugin",
@@ -712,10 +688,10 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllStream-v9.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllStream-v10.cs3",
     "description": "AllStream - Hub: browse via Cinemeta, play via all AllForU plugins (multi-audio+quality)",
     "iconUrl": "https://www.torrentvilla.com/images/torrvilla_icon.webp",
-    "fileHash": "sha256-e5821870ce0701f34a8699a62a40607771e0f750736bf4b2a54150f6a5426ba3",
-    "fileSize": 40279
+    "fileHash": "sha256-33e7478903197c8ed62059683fe203b6cb65911d8d09dd03fa119fbb68b531d5",
+    "fileSize": 64976
   }
 ]

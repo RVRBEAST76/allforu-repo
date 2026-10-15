@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | YummyAni | Anime, AnimeMovie | 3 | Working |
 | PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 3 | Working |
 | KissAsian | TvSeries, Movie | 3 | Working |
-| XuperTV | Movie, TvSeries, Anime, AnimeMovie, Live | 1 | Working |
+| LaMovie | Movie, TvSeries, Anime, AnimeMovie | 1 | Working |
 
 *Auto-updated on every build.*
 

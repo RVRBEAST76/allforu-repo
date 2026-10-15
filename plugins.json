@@ -645,5 +645,30 @@
     "iconUrl": "https://kissasian.gr/wp-content/uploads/2026/10/cropped-kiss-icon-150x150-1-300x300.png",
     "fileHash": "sha256-c19f60688a2ec02d16034c88fd6b61e5c5c78ca1c14808bdcbd3fc0fdf394d80",
     "fileSize": 29164
+  },
+  {
+    "version": 1,
+    "internalName": "XuperTV",
+    "name": "XuperTV",
+    "pluginClassName": "com.allforu.XuperTVPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "es",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AnimeMovie",
+      "Live"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/XuperTV-v1.cs3",
+    "description": "XuperTV - Peliculas, series, anime y TV en vivo (Spanish)",
+    "iconUrl": "https://xuperapk.tv/wp-content/uploads/2025/12/favicon-288x288.png",
+    "fileHash": "sha256-d6554ec23f79c9a8eb2512e5fff4f5ed38c1f62715a028c4c401e70ffdf04780",
+    "fileSize": 46511
   }
 ]

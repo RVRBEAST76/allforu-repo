@@ -669,29 +669,5 @@
     "iconUrl": "https://lamovie.org/wp-content/uploads/2025/05/cropped-La.movie_-192x192.png",
     "fileHash": "sha256-2afb96e86c937e0dfd40f3d7258be9aca321d556b1ce18f570abb782bb756f16",
     "fileSize": 37065
-  },
-  {
-    "version": 1,
-    "internalName": "AllMax",
-    "name": "AllMax",
-    "pluginClassName": "com.allforu.AllMaxPlugin",
-    "status": 1,
-    "apiVersion": 1,
-    "language": "en",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "AnimeMovie"
-    ],
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllMax-v1.cs3",
-    "description": "AllMax - Ultimate multi-region movies, series, anime & K-drama (VidLink direct + Debrid 4K)",
-    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allmax.png",
-    "fileHash": "sha256-d7253c784605d4da6fda4d33db7aadf1880807733046a7c42c25fd82f2479a28",
-    "fileSize": 65906
   }
 ]

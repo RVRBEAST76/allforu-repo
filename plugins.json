@@ -647,7 +647,7 @@
     "fileSize": 29164
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "LaMovie",
     "name": "LaMovie",
     "pluginClassName": "com.allforu.LaMoviePlugin",
@@ -664,10 +664,10 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/LaMovie-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/LaMovie-v2.cs3",
     "description": "LaMovie - Peliculas, series y anime en HD (Spanish)",
     "iconUrl": "https://lamovie.org/wp-content/uploads/2025/05/cropped-La.movie_-192x192.png",
-    "fileHash": "sha256-644f171c01be05c4b3a7c1c9762352897c7e39833eb9109166f1c6baba26149d",
-    "fileSize": 36849
+    "fileHash": "sha256-26796ea2ef39b119fb1175019dde5932e8a9533ea1ffc712d3256b386db1220f",
+    "fileSize": 36859
   }
 ]

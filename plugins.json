@@ -648,9 +648,9 @@
   },
   {
     "version": 1,
-    "internalName": "XuperTV",
-    "name": "XuperTV",
-    "pluginClassName": "com.allforu.XuperTVPlugin",
+    "internalName": "LaMovie",
+    "name": "LaMovie",
+    "pluginClassName": "com.allforu.LaMoviePlugin",
     "status": 1,
     "apiVersion": 1,
     "language": "es",
@@ -661,14 +661,13 @@
       "Movie",
       "TvSeries",
       "Anime",
-      "AnimeMovie",
-      "Live"
+      "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/XuperTV-v1.cs3",
-    "description": "XuperTV - Peliculas, series, anime y TV en vivo (Spanish)",
-    "iconUrl": "https://xuperapk.tv/wp-content/uploads/2025/12/favicon-288x288.png",
-    "fileHash": "sha256-d6554ec23f79c9a8eb2512e5fff4f5ed38c1f62715a028c4c401e70ffdf04780",
-    "fileSize": 46511
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/LaMovie-v1.cs3",
+    "description": "LaMovie - Peliculas, series y anime en HD (Spanish)",
+    "iconUrl": "https://lamovie.org/wp-content/uploads/2025/05/cropped-La.movie_-192x192.png",
+    "fileHash": "sha256-644f171c01be05c4b3a7c1c9762352897c7e39833eb9109166f1c6baba26149d",
+    "fileSize": 36849
   }
 ]

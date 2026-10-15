@@ -669,5 +669,29 @@
     "iconUrl": "https://lamovie.org/wp-content/uploads/2025/05/cropped-La.movie_-192x192.png",
     "fileHash": "sha256-2afb96e86c937e0dfd40f3d7258be9aca321d556b1ce18f570abb782bb756f16",
     "fileSize": 37065
+  },
+  {
+    "version": 1,
+    "internalName": "AllStream",
+    "name": "AllStream",
+    "pluginClassName": "com.allforu.AllStreamPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AnimeMovie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllStream-v1.cs3",
+    "description": "AllStream - Every movie, series & anime via Torrentio magnet links (all torrents as sources)",
+    "iconUrl": "https://www.torrentvilla.com/images/torrvilla_icon.webp",
+    "fileHash": "sha256-1c58aaa028b154bf988215d45ecf4b163f2a56b589a394a1b6fe7438e6d52092",
+    "fileSize": 34423
   }
 ]

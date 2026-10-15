@@ -602,50 +602,6 @@
   },
   {
     "version": 3,
-    "internalName": "PelisForte",
-    "name": "PelisForte",
-    "pluginClassName": "com.allforu.PelisFortePlugin",
-    "status": 1,
-    "apiVersion": 1,
-    "language": "es",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PelisForte-v3.cs3",
-    "description": "PelisForte - Peliculas y series online (Spanish)",
-    "iconUrl": "https://www2.pelisforte.se/wp-content/uploads/2019/05/favicon.png",
-    "fileHash": "sha256-d98e9f8949c126ab57097c3ed4997c962c5b129761e7b35a4c92db85c01efd2e",
-    "fileSize": 25895
-  },
-  {
-    "version": 5,
-    "internalName": "DiziPal",
-    "name": "DiziPal",
-    "pluginClassName": "com.allforu.DiziPalPlugin",
-    "status": 1,
-    "apiVersion": 1,
-    "language": "tr",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/DiziPal-v5.cs3",
-    "description": "DiziPal - Turkish diziler with direct HLS (T\u00fcrk\u00e7e)",
-    "iconUrl": "https://dizipal1453.com/wp-content/uploads/2026/04/dpalsymbol.png",
-    "fileHash": "sha256-6832041ba2d37c8876e1224e363243736ed10e0f9987b7033b6bc14865c9ae4a",
-    "fileSize": 46339
-  },
-  {
-    "version": 3,
     "internalName": "PiratexPlay",
     "name": "PiratexPlay",
     "pluginClassName": "com.allforu.PiratexPlayPlugin",

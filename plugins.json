@@ -671,7 +671,7 @@
     "fileSize": 37065
   },
   {
-    "version": 4,
+    "version": 5,
     "internalName": "AllStream",
     "name": "AllStream",
     "pluginClassName": "com.allforu.AllStreamPlugin",
@@ -688,10 +688,10 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllStream-v4.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllStream-v5.cs3",
     "description": "AllStream - Every movie, series & anime via torrents (plays keyless, RD optional)",
     "iconUrl": "https://www.torrentvilla.com/images/torrvilla_icon.webp",
-    "fileHash": "sha256-c33762753e0e20ce434b9180a320308257d27f9181c5015751d3e3015035d667",
-    "fileSize": 57726
+    "fileHash": "sha256-231801c17ecd8ab667d78f27196272b2b9373854d7206a5a65c2c424d49a394b",
+    "fileSize": 62756
   }
 ]

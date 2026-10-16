@@ -22,7 +22,7 @@
     "pluginClassName": "com.allforu.StreamBoxPlugin"
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "AllOtt",
     "name": "AllOtt",
     "pluginClassName": "com.allforu.allott.AllOttPlugin",
@@ -37,11 +37,11 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllOtt-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllOtt-v2.cs3",
     "description": "AllOtt - Netflix, Hotstar, Disney+ & Prime Video in ONE install (Tamil, English, Hindi & more)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-b06071fc3aeb0562c329a86b6ecc70fdfd313fda00647c912aafe940c39199c5",
-    "fileSize": 115507
+    "fileHash": "sha256-8afd0505e445675efcc42cf302fe28ab598c7df481cac2e7c0fa42d1520baeec",
+    "fileSize": 127925
   },
   {
     "version": 26,

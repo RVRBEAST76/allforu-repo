@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | Name | TV Types | Version | Status |
 |------|----------|---------|--------|
 | MovieBox | Movie, TvSeries | 80 | Working |
-| AllOtt | Movie, TvSeries | 1 | Working |
+| AllOtt | Movie, TvSeries | 2 | Working |
 | JioTV | Movie, TvSeries | 26 | Working |
 | M3U Player | Movie, TvSeries | 23 | Working |
 | Re:ANIME | AnimeMovie, Anime, OVA | 30 | Working |

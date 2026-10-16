@@ -671,7 +671,7 @@
     "fileSize": 37065
   },
   {
-    "version": 19,
+    "version": 20,
     "internalName": "AllStream",
     "name": "AllStream",
     "pluginClassName": "com.allforu.AllStreamPlugin",
@@ -688,10 +688,10 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllStream-v19.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllStream-v20.cs3",
     "description": "AllStream - Hub: browse via Cinemeta, play via all AllForU plugins (multi-audio+quality)",
     "iconUrl": "https://www.torrentvilla.com/images/torrvilla_icon.webp",
-    "fileHash": "sha256-367b41cb4ed8aebdb6e744f938115158dfa592d2f31f7d31be20be5c0124dc89",
-    "fileSize": 83583
+    "fileHash": "sha256-79fe4693d69991ddb692dc3b5710c28ef30fc9df4ae35d9bad677cb56aa73d66",
+    "fileSize": 73119
   }
 ]

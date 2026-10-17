@@ -28,7 +28,6 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | OHLI24 | Anime, AnimeMovie | 11 | Working |
 | AniVortex | Anime, AnimeMovie, Movie, TvSeries | 13 | Working |
 | AllDubz | Movie, TvSeries, Anime, AnimeMovie | 13 | Working |
-| Coflix | Movie, TvSeries, Anime, AnimeMovie | 10 | Working |
 | Comix | Anime, Others | 6 | Working |
 | SmartTube | Others, Movie | 5 | Working |
 | EgyBest | Movie, TvSeries | 3 | Working |
@@ -38,7 +37,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | Samehadaku | Anime, AnimeMovie | 3 | Working |
 | StreamUnity | Movie, TvSeries | 3 | Working |
 | AnimeOdcinki | Anime, AnimeMovie | 3 | Working |
-| Kinogo | Movie, TvSeries | 3 | Working |
+| Kinogo | Movie, TvSeries | 4 | Working |
 | YummyAni | Anime, AnimeMovie | 3 | Working |
 | PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 5 | Working |
 | KissAsian | TvSeries, Movie | 3 | Working |

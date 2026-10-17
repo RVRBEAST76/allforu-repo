@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | AnimeOdcinki | Anime, AnimeMovie | 3 | Working |
 | Kinogo | Movie, TvSeries | 3 | Working |
 | YummyAni | Anime, AnimeMovie | 3 | Working |
-| PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 3 | Working |
+| PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 4 | Working |
 | KissAsian | TvSeries, Movie | 3 | Working |
 | LaMovie | Movie, TvSeries, Anime, AnimeMovie | 3 | Working |
 

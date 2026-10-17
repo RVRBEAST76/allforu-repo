@@ -381,7 +381,7 @@
     "fileSize": 32202
   },
   {
-    "version": 4,
+    "version": 5,
     "internalName": "FS27",
     "name": "FrenchStream",
     "pluginClassName": "com.allforu.FS27Plugin",
@@ -396,11 +396,11 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/FS27-v4.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/FS27-v5.cs3",
     "description": "FrenchStream - Films et series en streaming (French)",
     "iconUrl": "https://fs27.lol/apple-touch-icon.png",
-    "fileHash": "sha256-31363cb22a3e9a838fb5ab7b26ba432ea4cc92ae515e584366a6b4337cd8abe8",
-    "fileSize": 36697
+    "fileHash": "sha256-87e58df741ae8e95151af61267a1c103c4a89f458cede38abed8e4980f52b391",
+    "fileSize": 39292
   },
   {
     "version": 3,

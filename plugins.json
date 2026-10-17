@@ -269,30 +269,6 @@
     "fileSize": 86180
   },
   {
-    "version": 10,
-    "internalName": "Coflix",
-    "name": "Coflix",
-    "pluginClassName": "com.allforu.CoflixPlugin",
-    "status": 1,
-    "apiVersion": 1,
-    "language": "fr",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "AnimeMovie"
-    ],
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Coflix-v10.cs3",
-    "description": "Coflix - Films, series, animes & doramas en streaming (French)",
-    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/coflix.png",
-    "fileHash": "sha256-6bc5a37b81e3d95fb429fa87d2f438c93fac9ac5deb65a93680f2d1017e634db",
-    "fileSize": 32238
-  },
-  {
     "version": 6,
     "internalName": "Comix",
     "name": "Comix",
@@ -491,7 +467,7 @@
     "fileSize": 26387
   },
   {
-    "version": 3,
+    "version": 4,
     "internalName": "Kinogo",
     "name": "Kinogo",
     "pluginClassName": "com.allforu.KinogoPlugin",
@@ -506,11 +482,11 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Kinogo-v3.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Kinogo-v4.cs3",
     "description": "Kinogo - Russian movies & series (\u0444\u0438\u043b\u044c\u043c\u044b \u0438 \u0441\u0435\u0440\u0438\u0430\u043b\u044b)",
     "iconUrl": "https://kinogo.la/templates/Kinogo/images/favicon/apple-touch-icon.png",
-    "fileHash": "sha256-1086c5d0acfabc77cedaa7fbf96d2e9e73441e30013a085475a5aca2a6d2887c",
-    "fileSize": 27764
+    "fileHash": "sha256-4773b27f664510511fcc8ccc1f8fe5fd4bbf822f8018dae2b36d80159bb01d25",
+    "fileSize": 28368
   },
   {
     "version": 3,

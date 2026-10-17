@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | MovieBox | Movie, TvSeries | 86 | Working |
 | AllOtt | Movie, TvSeries | 4 | Working |
 | JioTV | Movie, TvSeries | 26 | Working |
-| M3U Player | Movie, TvSeries | 27 | Working |
+| M3U Player | Movie, TvSeries | 28 | Working |
 | Re:ANIME | AnimeMovie, Anime, OVA | 30 | Working |
 | AnimeAv1 | Anime, AnimeMovie | 12 | Working |
 | Latanime | Anime, AnimeMovie | 12 | Working |

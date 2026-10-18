@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 
 | Name | TV Types | Version | Status |
 |------|----------|---------|--------|
+| Rate AllForU | Movie | 3 | Working |
 | MovieBox | Movie, TvSeries | 86 | Working |
 | AllOtt | Movie, TvSeries | 4 | Working |
 | JioTV | Movie, TvSeries | 26 | Working |
@@ -42,7 +43,6 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 5 | Working |
 | KissAsian | TvSeries, Movie | 3 | Working |
 | LaMovie | Movie, TvSeries, Anime, AnimeMovie | 4 | Working |
-| Rate AllForU | Movie | 3 | Working |
 
 *Auto-updated on every build.*
 

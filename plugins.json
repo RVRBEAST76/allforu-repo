@@ -581,7 +581,7 @@
     "fileSize": 43929
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "Rate",
     "name": "Rate AllForU",
     "pluginClassName": "com.allforu.RatePlugin",
@@ -595,10 +595,10 @@
       "Movie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Rate-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Rate-v2.cs3",
     "description": "Rate AllForU - Like, dislike & 1-5 star rate every AllForU plugin (live community scores, premium ratings page)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-5dd71a331169122ab73eb820eb423b4ffaadd02e75f2f17c8ef845b1a3568eac",
-    "fileSize": 48418
+    "fileHash": "sha256-1ec7fbd3689e97a194929604d085411f28f73eee6b041f72a34824906fb2eec0",
+    "fileSize": 48536
   }
 ]

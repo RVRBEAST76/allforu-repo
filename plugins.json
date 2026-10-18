@@ -1,5 +1,26 @@
 [
   {
+    "version": 3,
+    "internalName": "Rate",
+    "name": "Rate AllForU",
+    "pluginClassName": "com.allforu.RatePlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Rate-v3.cs3",
+    "description": "Rate AllForU - Like, dislike & 1-5 star rate every AllForU plugin (live community scores, premium ratings page)",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
+    "fileHash": "sha256-e2395c4c4bf04778314d9c7d63598bc2f889aeec33575d174adf8a0139fdeb43",
+    "fileSize": 51921
+  },
+  {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/moviebox.png",
     "fileHash": "sha256-d7a142f88493e5ddcfc5d5e2ed2c88efa2553b6c46143b392ccd170c3f412e0c",
     "apiVersion": 1,
@@ -579,26 +600,5 @@
     "iconUrl": "https://lamovie.org/wp-content/uploads/2025/05/cropped-La.movie_-192x192.png",
     "fileHash": "sha256-41f54db4cf08ecd21d8a65c6c48a9d4cd21e842c3ba476f4262f041a913a05a2",
     "fileSize": 43929
-  },
-  {
-    "version": 3,
-    "internalName": "Rate",
-    "name": "Rate AllForU",
-    "pluginClassName": "com.allforu.RatePlugin",
-    "status": 1,
-    "apiVersion": 1,
-    "language": "en",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Rate-v3.cs3",
-    "description": "Rate AllForU - Like, dislike & 1-5 star rate every AllForU plugin (live community scores, premium ratings page)",
-    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-e2395c4c4bf04778314d9c7d63598bc2f889aeec33575d174adf8a0139fdeb43",
-    "fileSize": 51921
   }
 ]

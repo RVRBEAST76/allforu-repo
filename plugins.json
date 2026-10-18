@@ -579,29 +579,5 @@
     "iconUrl": "https://lamovie.org/wp-content/uploads/2025/05/cropped-La.movie_-192x192.png",
     "fileHash": "sha256-41f54db4cf08ecd21d8a65c6c48a9d4cd21e842c3ba476f4262f041a913a05a2",
     "fileSize": 43929
-  },
-  {
-    "version": 2,
-    "internalName": "Reezen",
-    "name": "Reezen",
-    "pluginClassName": "com.allforu.ReezenPlugin",
-    "status": 1,
-    "apiVersion": 1,
-    "language": "en",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "AnimeMovie"
-    ],
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Reezen-v2.cs3",
-    "description": "Reezen - Movies, TV series & anime (trending, popular, top rated, anime & regional sections, multi-quality + subtitles)",
-    "iconUrl": "https://i.imgur.com/dMOrYlE.png",
-    "fileHash": "sha256-61fb23489b3107a693dd8fc574ecddc20c7e640a529bbcf28d02590284ab56e8",
-    "fileSize": 33669
   }
 ]

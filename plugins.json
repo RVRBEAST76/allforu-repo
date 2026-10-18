@@ -581,7 +581,7 @@
     "fileSize": 43929
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "Reezen",
     "name": "Reezen",
     "pluginClassName": "com.allforu.ReezenPlugin",
@@ -598,10 +598,10 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Reezen-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Reezen-v2.cs3",
     "description": "Reezen - Movies, TV series & anime (trending, popular, top rated, anime & regional sections, multi-quality + subtitles)",
     "iconUrl": "https://i.imgur.com/dMOrYlE.png",
-    "fileHash": "sha256-b5fa562b3dcfe273c0a36cb2355ec7bb59a3f3dec7b36f70f0769ac4bee3407a",
-    "fileSize": 32813
+    "fileHash": "sha256-61fb23489b3107a693dd8fc574ecddc20c7e640a529bbcf28d02590284ab56e8",
+    "fileSize": 33669
   }
 ]

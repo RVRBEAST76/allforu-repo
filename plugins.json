@@ -579,5 +579,26 @@
     "iconUrl": "https://lamovie.org/wp-content/uploads/2025/05/cropped-La.movie_-192x192.png",
     "fileHash": "sha256-41f54db4cf08ecd21d8a65c6c48a9d4cd21e842c3ba476f4262f041a913a05a2",
     "fileSize": 43929
+  },
+  {
+    "version": 1,
+    "internalName": "Rate",
+    "name": "Rate AllForU",
+    "pluginClassName": "com.allforu.RatePlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Rate-v1.cs3",
+    "description": "Rate AllForU - Like, dislike & 1-5 star rate every AllForU plugin (live community scores, premium ratings page)",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
+    "fileHash": "sha256-5dd71a331169122ab73eb820eb423b4ffaadd02e75f2f17c8ef845b1a3568eac",
+    "fileSize": 48418
   }
 ]

@@ -42,7 +42,6 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 5 | Working |
 | KissAsian | TvSeries, Movie | 3 | Working |
 | LaMovie | Movie, TvSeries, Anime, AnimeMovie | 4 | Working |
-| Reezen | Movie, TvSeries, Anime, AnimeMovie | 2 | Working |
 
 *Auto-updated on every build.*
 

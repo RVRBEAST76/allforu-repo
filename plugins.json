@@ -22,10 +22,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/moviebox.png",
-    "fileHash": "sha256-d7a142f88493e5ddcfc5d5e2ed2c88efa2553b6c46143b392ccd170c3f412e0c",
+    "fileHash": "sha256-f791bf2450dfae5226a5ad7dd2610365688f28f3af98ac4b78ba99f5d9dc063f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "fileSize": 66510,
+    "fileSize": 68311,
     "status": 1,
     "language": "en",
     "authors": [
@@ -35,10 +35,10 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 86,
+    "version": 87,
     "internalName": "MovieBox",
     "description": "MovieBox - Movies, Series & Anime in Tamil, English, Hindi, Telugu, Malayalam & more",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MovieBox-v86.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MovieBox-v87.cs3",
     "name": "MovieBox",
     "pluginClassName": "com.allforu.StreamBoxPlugin"
   },

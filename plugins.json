@@ -65,7 +65,7 @@
     "fileSize": 139029
   },
   {
-    "version": 43,
+    "version": 44,
     "internalName": "JioTV",
     "name": "JioTV",
     "pluginClassName": "com.allforu.JioTvPlugin",
@@ -80,10 +80,10 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/JioTV-v43.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/JioTV-v44.cs3",
     "description": "JioTV - Live JioTV channels + Live Sports (live events, sports channels & highlights)",
-    "fileHash": "sha256-e86267b2a764402ac463f3a7e56f6ebb90135be053624dbdd9653498f26bd275",
-    "fileSize": 87019,
+    "fileHash": "sha256-1b2461df4596157b7f0b9cb700d72f2570b7101e1c61152251958afd86a42082",
+    "fileSize": 87180,
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/jiotv.png"
   },
   {

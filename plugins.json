@@ -624,7 +624,7 @@
     "fileSize": 43929
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "MicroTV",
     "name": "MicroTV",
     "pluginClassName": "com.allforu.MicroTvPlugin",
@@ -638,10 +638,10 @@
       "Movie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MicroTV-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MicroTV-v2.cs3",
     "description": "MicroTV - Short dramas, vertical reels & full episodes (Hindi/Bangla)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-d686fbd1e7ce8db6d97ac2e659070ff1e01c0b5439be4adc1110a74c0635c68a",
-    "fileSize": 16210
+    "fileHash": "sha256-f79bd06b36d145cac364ef69333f1675695d708e356b9d5ec5ca23b5dc82b87a",
+    "fileSize": 16333
   }
 ]

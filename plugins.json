@@ -643,5 +643,27 @@
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
     "fileHash": "sha256-f79bd06b36d145cac364ef69333f1675695d708e356b9d5ec5ca23b5dc82b87a",
     "fileSize": 16333
+  },
+  {
+    "version": 1,
+    "internalName": "Bombuj",
+    "name": "Bombuj",
+    "pluginClassName": "com.allforu.BombujPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "cs",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Bombuj-v1.cs3",
+    "description": "Bombuj - \u010cesk\u00e9 a slovensk\u00e9 filmy a seri\u00e1ly online",
+    "iconUrl": "https://www.bombuj.si/images/favicon.png",
+    "fileHash": "sha256-6c3fb2c5a80d813c1efd928710db3db449d9bc3aab03d87a24dbcec694e195d6",
+    "fileSize": 56106
   }
 ]

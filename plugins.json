@@ -622,5 +622,26 @@
     "iconUrl": "https://lamovie.org/wp-content/uploads/2025/05/cropped-La.movie_-192x192.png",
     "fileHash": "sha256-41f54db4cf08ecd21d8a65c6c48a9d4cd21e842c3ba476f4262f041a913a05a2",
     "fileSize": 43929
+  },
+  {
+    "version": 1,
+    "internalName": "MicroTV",
+    "name": "MicroTV",
+    "pluginClassName": "com.allforu.MicroTvPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "hi",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MicroTV-v1.cs3",
+    "description": "MicroTV - Short dramas, vertical reels & full episodes (Hindi/Bangla)",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
+    "fileHash": "sha256-d686fbd1e7ce8db6d97ac2e659070ff1e01c0b5439be4adc1110a74c0635c68a",
+    "fileSize": 16210
   }
 ]

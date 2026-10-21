@@ -45,6 +45,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | KissAsian | TvSeries, Movie | 3 | Working |
 | LaMovie | Movie, TvSeries, Anime, AnimeMovie | 4 | Working |
 | MicroTV | Movie | 2 | Working |
+| Bombuj | Movie, TvSeries | 1 | Working |
 
 *Auto-updated on every build.*
 

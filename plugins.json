@@ -21,7 +21,7 @@
     "fileSize": 52437
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "NoirX",
     "name": "NoirX",
     "pluginClassName": "com.allforu.NoirXPlugin",
@@ -36,11 +36,11 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/NoirX-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/NoirX-v2.cs3",
     "description": "NoirX - Movies & TV shows in HD (multi-language, multi-quality, subtitles)",
     "iconUrl": "https://noirx.me/apple-touch-icon.png",
-    "fileHash": "sha256-f61e944bcd92217ac3fa9d6fe32e253743a1bd3e983b5820abaf97363cf4b65a",
-    "fileSize": 51012
+    "fileHash": "sha256-f7b68084f1373b161825abb9bccdb10ab544e9615a3db7e2cc6ddca926c0ee21",
+    "fileSize": 51052
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/moviebox.png",

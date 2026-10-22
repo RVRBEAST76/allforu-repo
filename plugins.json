@@ -646,6 +646,28 @@
     "fileSize": 43929
   },
   {
+    "version": 1,
+    "internalName": "MoviesNiPipay",
+    "name": "Movies Ni Pipay",
+    "pluginClassName": "com.allforu.MoviesNiPipayPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "fil",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MoviesNiPipay-v1.cs3",
+    "description": "Movies Ni Pipay - Filipino movies & series (Tagalog, HD, fast updates)",
+    "iconUrl": "https://moviesnipipay.me/wp-content/uploads/2019/11/Movies-Ni-Pipay_small.png",
+    "fileHash": "sha256-26f0f2545afa4fea3d286527b02104ed908a62d1c604ee88a0cfb46c1832fe03",
+    "fileSize": 29877
+  },
+  {
     "version": 2,
     "internalName": "MicroTV",
     "name": "MicroTV",

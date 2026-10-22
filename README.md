@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | FrenchStream | Movie, TvSeries | 5 | Working |
 | Movie2K | Movie, TvSeries | 3 | Working |
 | Samehadaku | Anime, AnimeMovie | 3 | Working |
-| StreamUnity | Movie, TvSeries | 3 | Working |
+| StreamUnity | Movie, TvSeries | 4 | Working |
 | AnimeOdcinki | Anime, AnimeMovie | 3 | Working |
 | Kinogo | Movie, TvSeries | 4 | Working |
 | YummyAni | Anime, AnimeMovie | 3 | Working |

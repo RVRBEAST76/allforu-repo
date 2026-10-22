@@ -198,7 +198,7 @@
     "fileSize": 23652
   },
   {
-    "version": 11,
+    "version": 12,
     "internalName": "Netcinez",
     "name": "Netcinez",
     "pluginClassName": "com.allforu.NetcinezPlugin",
@@ -213,11 +213,11 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netcinez-v11.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netcinez-v12.cs3",
     "description": "Netcinez - Filmes, Series & Animes dublados (Portugues)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/netcinez.png",
-    "fileHash": "sha256-465be891ecdf04dc7cd04bb5763da8a86c68a98a02ac1f74236cbc5196d679b6",
-    "fileSize": 26576
+    "fileHash": "sha256-bdd017e6a495efdb960fe614394aaf3c2016583cd28fef833dba2eb7702f550e",
+    "fileSize": 47650
   },
   {
     "version": 11,

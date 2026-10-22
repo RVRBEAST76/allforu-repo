@@ -220,6 +220,28 @@
     "fileSize": 23652
   },
   {
+    "version": 1,
+    "internalName": "MakkiTV",
+    "name": "MakkiTV",
+    "pluginClassName": "com.allforu.MakkiTVPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MakkiTV-v1.cs3",
+    "description": "MakkiTV - T\u00fcrk dizileri ve b\u00f6l\u00fcmleri (Urduca altyaz\u0131l\u0131)",
+    "iconUrl": "https://makkitv.com/wp-content/uploads/2023/10/cropped-Google-Play-app-Profile-Icon-192x192.png",
+    "fileHash": "sha256-2fce898ede105f57de1c9613538c12a41ef27417bf33f0fc21e868fdc898c67f",
+    "fileSize": 35807
+  },
+  {
     "version": 12,
     "internalName": "Netcinez",
     "name": "Netcinez",

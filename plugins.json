@@ -488,7 +488,7 @@
     "fileSize": 31060
   },
   {
-    "version": 3,
+    "version": 4,
     "internalName": "StreamUnity",
     "name": "StreamUnity",
     "pluginClassName": "com.allforu.StreamUnityPlugin",
@@ -503,11 +503,11 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/StreamUnity-v3.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/StreamUnity-v4.cs3",
     "description": "StreamUnity - Film e serie TV in streaming (Italian)",
     "iconUrl": "https://streamingunity.fun/apple-touch-icon.png?v=2",
-    "fileHash": "sha256-124b066df55fa74e2eacc4db97352fa78a40142c396d3e122b1dc1ddc5c2b258",
-    "fileSize": 28460
+    "fileHash": "sha256-d4ffadad2f5acb6806e4c25df8d24f30488b5d1687efbe4f649915ec26bf4933",
+    "fileSize": 33225
   },
   {
     "version": 3,

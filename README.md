@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | An1me | Anime, AnimeMovie | 1 | Working |
 | AnimeAv1 | Anime, AnimeMovie | 12 | Working |
 | Latanime | Anime, AnimeMovie | 12 | Working |
+| MakkiTV | Movie, TvSeries | 1 | Working |
 | Netcinez | Movie, TvSeries | 12 | Working |
 | Chikianimation | Movie, Anime | 11 | Working |
 | OHLI24 | Anime, AnimeMovie | 11 | Working |

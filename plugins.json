@@ -154,6 +154,28 @@
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/reanime.png"
   },
   {
+    "version": 1,
+    "internalName": "An1me",
+    "name": "An1me",
+    "pluginClassName": "com.allforu.An1mePlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "el",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/An1me-v1.cs3",
+    "description": "An1me - Anime \u03bc\u03b5 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf\u03cd\u03c2 \u03c5\u03c0\u03cc\u03c4\u03b9\u03c4\u03bb\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03b1\u03b3\u03bb\u03ce\u03c4\u03c4\u03b9\u03c3\u03b7 (Greek subs & dub)",
+    "iconUrl": "https://an1me.to/wp-content/uploads/2024/12/logo_copy.png",
+    "fileHash": "sha256-067a501519aa0e0fcde32eddb25fb6b8242cd8fcb62727d131b44017070c87c2",
+    "fileSize": 50408
+  },
+  {
     "version": 12,
     "internalName": "Animeav1",
     "name": "AnimeAv1",

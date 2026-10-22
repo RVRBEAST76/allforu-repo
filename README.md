@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | Re:ANIME | AnimeMovie, Anime, OVA | 30 | Working |
 | AnimeAv1 | Anime, AnimeMovie | 12 | Working |
 | Latanime | Anime, AnimeMovie | 12 | Working |
-| Netcinez | Movie, TvSeries | 11 | Working |
+| Netcinez | Movie, TvSeries | 12 | Working |
 | Chikianimation | Movie, Anime | 11 | Working |
 | OHLI24 | Anime, AnimeMovie | 11 | Working |
 | AniVortex | Anime, AnimeMovie, Movie, TvSeries | 13 | Working |

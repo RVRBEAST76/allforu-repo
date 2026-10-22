@@ -647,6 +647,28 @@
   },
   {
     "version": 1,
+    "internalName": "HDMozi",
+    "name": "HDMozi",
+    "pluginClassName": "com.allforu.HDMoziPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "hu",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/HDMozi-v1.cs3",
+    "description": "HDMozi - Magyar filmek \u00e9s sorozatok online (Hungarian, HD)",
+    "iconUrl": "https://hdmozi.hu/wp-content/uploads/2024/07/3D-smile-2.jpg",
+    "fileHash": "sha256-918834697f9c51c6239d0a323b77d2b6871373364e08611320e0fc5192481ade",
+    "fileSize": 31912
+  },
+  {
+    "version": 1,
     "internalName": "MoviesNiPipay",
     "name": "Movies Ni Pipay",
     "pluginClassName": "com.allforu.MoviesNiPipayPlugin",

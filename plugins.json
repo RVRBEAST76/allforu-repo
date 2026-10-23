@@ -378,6 +378,27 @@
     "fileSize": 28551
   },
   {
+    "version": 1,
+    "internalName": "SimpMusic",
+    "name": "SimpMusic",
+    "pluginClassName": "com.allforu.SimpMusicPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Music"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/SimpMusic-v1.cs3",
+    "description": "SimpMusic - YouTube Music playlists, albums, artists & songs (in-app playback)",
+    "iconUrl": "https://www.simpmusic.org/logo.png",
+    "fileHash": "sha256-59de6880886a2152db240bdfaafb8e509119904ed26c4ea3803cadb6fa2d40e8",
+    "fileSize": 47533
+  },
+  {
     "version": 4,
     "internalName": "EgyBest",
     "name": "EgyBest",

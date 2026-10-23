@@ -46,6 +46,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | KissAsian | TvSeries, Movie | 3 | Working |
 | LaMovie | Movie, TvSeries, Anime, AnimeMovie | 4 | Working |
 | HDMozi | Movie, TvSeries | 2 | Working |
+| Dizipal | TvSeries | 1 | Working |
 | Movies Ni Pipay | Movie, TvSeries | 1 | Working |
 | MicroTV | Movie | 2 | Working |
 | Bombuj | Movie, TvSeries | 2 | Working |

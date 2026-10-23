@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | AllDubz | Movie, TvSeries, Anime, AnimeMovie | 13 | Working |
 | Comix | Anime, Others | 6 | Working |
 | SmartTube | Others, Movie | 5 | Working |
-| SimpMusic | Music | 1 | Working |
+| SimpMusic | Music | 2 | Working |
 | EgyBest | Movie, TvSeries | 4 | Working |
 | Anime Phoenix | Anime, AnimeMovie | 4 | Working |
 | FrenchStream | Movie, TvSeries | 5 | Working |

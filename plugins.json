@@ -669,6 +669,27 @@
   },
   {
     "version": 1,
+    "internalName": "Dizipal",
+    "name": "Dizipal",
+    "pluginClassName": "com.allforu.DizipalPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Dizipal-v1.cs3",
+    "description": "Dizipal - T\u00fcrk\u00e7e altyaz\u0131l\u0131 ve dublajl\u0131 yabanc\u0131 diziler (Turkish subs & dubs)",
+    "iconUrl": "https://dizipal1453.com/wp-content/uploads/2026/04/dpalsymbol.png",
+    "fileHash": "sha256-6275f7fc46b7149817938d6adb5e5a5a173fac21fbc4136e421cbeb8993c301c",
+    "fileSize": 32466
+  },
+  {
+    "version": 1,
     "internalName": "MoviesNiPipay",
     "name": "Movies Ni Pipay",
     "pluginClassName": "com.allforu.MoviesNiPipayPlugin",

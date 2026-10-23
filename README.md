@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 
 | Name | TV Types | Version | Status |
 |------|----------|---------|--------|
-| WWE Pain Online | CustomMedia | 1 | Working |
+| WWE Pain Online | CustomMedia | 2 | Working |
 | All4U Rate | Movie | 8 | Working |
 | NoirX | Movie, TvSeries | 5 | Working |
 | MovieBox | Movie, TvSeries | 89 | Working |

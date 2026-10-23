@@ -26,7 +26,6 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | An1me | Anime, AnimeMovie | 1 | Working |
 | AnimeAv1 | Anime, AnimeMovie | 12 | Working |
 | Latanime | Anime, AnimeMovie | 12 | Working |
-| MakkiTV | Movie, TvSeries | 1 | Working |
 | Netcinez | Movie, TvSeries | 12 | Working |
 | Chikianimation | Movie, Anime | 11 | Working |
 | OHLI24 | Anime, AnimeMovie | 11 | Working |
@@ -34,7 +33,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | AllDubz | Movie, TvSeries, Anime, AnimeMovie | 13 | Working |
 | Comix | Anime, Others | 6 | Working |
 | SmartTube | Others, Movie | 5 | Working |
-| EgyBest | Movie, TvSeries | 3 | Working |
+| EgyBest | Movie, TvSeries | 4 | Working |
 | Anime Phoenix | Anime, AnimeMovie | 4 | Working |
 | FrenchStream | Movie, TvSeries | 5 | Working |
 | Movie2K | Movie, TvSeries | 3 | Working |

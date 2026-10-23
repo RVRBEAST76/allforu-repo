@@ -1,5 +1,26 @@
 [
   {
+    "version": 1,
+    "internalName": "PainOnline",
+    "name": "WWE Pain Online",
+    "pluginClassName": "com.allforu.PainOnlinePlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "CustomMedia"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PainOnline-v1.cs3",
+    "description": "WWE SmackDown! Here Comes the Pain + 28 PS2/PSP classics playable in-app (WebGPU/WebView). Chrome fallback included.",
+    "iconUrl": "https://wwepain.online/apple-touch-icon.png",
+    "fileHash": "sha256-e5f724d7b31c8388f42dd5d1ae9382e414c0d194dc647aeb5b7dc02db254c072",
+    "fileSize": 71653
+  },
+  {
     "version": 8,
     "internalName": "Rate",
     "name": "All4U Rate",

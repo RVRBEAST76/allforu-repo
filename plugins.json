@@ -220,28 +220,6 @@
     "fileSize": 23652
   },
   {
-    "version": 1,
-    "internalName": "MakkiTV",
-    "name": "MakkiTV",
-    "pluginClassName": "com.allforu.MakkiTVPlugin",
-    "status": 1,
-    "apiVersion": 1,
-    "language": "tr",
-    "authors": [
-      "AllForU"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MakkiTV-v1.cs3",
-    "description": "MakkiTV - T\u00fcrk dizileri ve b\u00f6l\u00fcmleri (Urduca altyaz\u0131l\u0131)",
-    "iconUrl": "https://makkitv.com/wp-content/uploads/2023/10/cropped-Google-Play-app-Profile-Icon-192x192.png",
-    "fileHash": "sha256-2fce898ede105f57de1c9613538c12a41ef27417bf33f0fc21e868fdc898c67f",
-    "fileSize": 35807
-  },
-  {
     "version": 12,
     "internalName": "Netcinez",
     "name": "Netcinez",
@@ -400,7 +378,7 @@
     "fileSize": 28551
   },
   {
-    "version": 3,
+    "version": 4,
     "internalName": "EgyBest",
     "name": "EgyBest",
     "pluginClassName": "com.allforu.EgyBestPlugin",
@@ -415,11 +393,11 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/EgyBest-v3.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/EgyBest-v4.cs3",
     "description": "EgyBest - Arabic movies & series (\u0627\u0641\u0644\u0627\u0645 \u0648 \u0645\u0633\u0644\u0633\u0644\u0627\u062a)",
-    "iconUrl": "https://egybest.la/favicon/icon-192x192.png",
-    "fileHash": "sha256-5bd56ff70dac53d3d3bda551a05cffa106d61103ac2cf6de6b9b642482092cfd",
-    "fileSize": 28991
+    "iconUrl": "https://egybest.co.in/favicon/icon-192x192.png",
+    "fileHash": "sha256-d7ce977e2220940e36245d2992d3c296e7773bd5ff832cd2715f86fc8232157e",
+    "fileSize": 29976
   },
   {
     "version": 4,

@@ -378,7 +378,7 @@
     "fileSize": 28551
   },
   {
-    "version": 2,
+    "version": 3,
     "internalName": "SimpMusic",
     "name": "SimpMusic",
     "pluginClassName": "com.allforu.SimpMusicPlugin",
@@ -392,11 +392,11 @@
       "Music"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/SimpMusic-v2.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/SimpMusic-v3.cs3",
     "description": "SimpMusic - YouTube Music playlists, albums, artists & songs (in-app playback)",
     "iconUrl": "https://www.simpmusic.org/logo.png",
-    "fileHash": "sha256-8d242365c9ca8294751456816b56941dc8dd7f844f967bd01c77e2d3b7ea1c7b",
-    "fileSize": 47691
+    "fileHash": "sha256-75c915661b647d234e5f18d54dabecd4b359c2390197c5d0b1fc5745996f9b34",
+    "fileSize": 54661
   },
   {
     "version": 4,

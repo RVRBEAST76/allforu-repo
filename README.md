@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 5 | Working |
 | KissAsian | TvSeries, Movie | 3 | Working |
 | LaMovie | Movie, TvSeries, Anime, AnimeMovie | 5 | Working |
-| TamilTvToons | Movie, TvSeries, Anime, AnimeMovie | 1 | Working |
+| TamilTvToons | Movie, TvSeries, Anime, AnimeMovie | 2 | Working |
 | HDMozi | Movie, TvSeries | 2 | Working |
 | Dizipal | TvSeries | 1 | Working |
 | Movies Ni Pipay | Movie, TvSeries | 1 | Working |

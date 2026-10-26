@@ -691,7 +691,7 @@
     "fileSize": 40699
   },
   {
-    "version": 2,
+    "version": 3,
     "internalName": "PelishaxPro",
     "name": "PelishaxPro",
     "pluginClassName": "com.allforu.PelishaxProPlugin",
@@ -708,11 +708,11 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PelishaxPro-v2.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PelishaxPro-v3.cs3",
     "description": "PelishaxPro - Peliculas, series y anime en HD (Latino, Castellano y Subtitulado)",
     "iconUrl": "https://pelishaxpro.com/assets/img/logo.png",
-    "fileHash": "sha256-3110bd02fac32917a007f930623fd07ae956521d9cc8ff838ea36d20d48aea88",
-    "fileSize": 45567
+    "fileHash": "sha256-e81fc94c0fd164b98209f65a1665c3985f9fd3770132762be99beffa5a374bb9",
+    "fileSize": 54561
   },
   {
     "version": 2,

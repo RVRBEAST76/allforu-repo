@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://rzp.io/rzp/zA0nbGE"><img src="assets/donate_india.svg" alt="Donate – India" width="272"/></a>
+  <a href="https://buymeacoffee.com/allforu1"><img src="assets/donate_intl.svg" alt="Support – International" width="272"/></a>
+</p>
+
+<p align="center"><b>💛 Support AllForU</b> — plugins stay free because of your support!</p>
+
 ### Requirements
 
 CloudStream (To install : [View Docs](https://recloudstream.github.io/csdocs/))

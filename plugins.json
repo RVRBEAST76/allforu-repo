@@ -738,6 +738,29 @@
     "fileSize": 40927
   },
   {
+    "version": 1,
+    "internalName": "HindiDrama",
+    "name": "HindiDrama",
+    "pluginClassName": "com.allforu.HindiDramaPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Movie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/HindiDrama-v1.cs3",
+    "description": "HindiDrama - Hindi-dubbed Korean, Chinese, Japanese & Indian dramas: Top 10, latest episodes, latest added, categories, search & HLS playback",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/hindidrama.png",
+    "fileHash": "sha256-e25460003d7af3e0124b35762956fedb7760a7c8b7f6a6c78a9ef443f9e57ea7",
+    "fileSize": 44082
+  },
+  {
     "version": 2,
     "internalName": "NextGenTV",
     "name": "NextGenTV",

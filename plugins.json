@@ -715,6 +715,29 @@
     "fileSize": 60591
   },
   {
+    "version": 1,
+    "internalName": "Bilibili",
+    "name": "Bilibili",
+    "pluginClassName": "com.allforu.BilibiliPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "zh",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Others",
+      "Movie",
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Bilibili-v1.cs3",
+    "description": "Bilibili - \u54d4\u54e9\u54d4\u54e9 videos: recommendations, popular, ranking, categories & search (720P MP4)",
+    "iconUrl": "https://s1.hdslb.com/bfs/static/jinkela/long/images/512.png",
+    "fileHash": "sha256-dac8b4e9a0ae18b38ed69959ce279979eb53196e6d7e00e88b6fc0acc862a5a3",
+    "fileSize": 31185
+  },
+  {
     "version": 2,
     "internalName": "HDMozi",
     "name": "HDMozi",

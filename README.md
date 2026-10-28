@@ -4,11 +4,21 @@ CloudStream (To install : [View Docs](https://recloudstream.github.io/csdocs/))
 
 ### To Install Repo
 
-Manual Install (Copy and Paste in add Repo of CloudStream) :
+**Shortcode (easiest — TV remote friendly):**
 
 ```
-https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
+all4u
 ```
+
+CloudStream → Settings → Extensions → Add repository → type `all4u` → Add.
+
+**Manual URL:**
+
+```
+https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/repo.json
+```
+
+**Deep link:** `cloudstreamrepo://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/repo.json`
 
 <!-- PLUGINS_TABLE_START -->
 

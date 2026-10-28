@@ -356,7 +356,7 @@
     "fileSize": 41521
   },
   {
-    "version": 5,
+    "version": 6,
     "internalName": "SmartTube",
     "name": "SmartTube",
     "pluginClassName": "com.allforu.SmartTubePlugin",
@@ -371,11 +371,11 @@
       "Movie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/SmartTube-v5.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/SmartTube-v6.cs3",
     "description": "SmartTube - YouTube for CloudStream (trending, channels, playlists, videos)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/smarttube.png",
-    "fileHash": "sha256-80fdc98e70651b0beb7dfb8431f2c792465d51350f955a623dfd3eb901adf545",
-    "fileSize": 28551
+    "fileHash": "sha256-f34cb4e10eedfc9006024982974042fb3b30bad605b7865194dda8684a742895",
+    "fileSize": 28576
   },
   {
     "version": 5,
@@ -715,7 +715,7 @@
     "fileSize": 60591
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "Bilibili",
     "name": "Bilibili",
     "pluginClassName": "com.allforu.BilibiliPlugin",
@@ -731,11 +731,11 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Bilibili-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Bilibili-v2.cs3",
     "description": "Bilibili - \u54d4\u54e9\u54d4\u54e9 videos: recommendations, popular, ranking, categories & search (720P MP4)",
     "iconUrl": "https://s1.hdslb.com/bfs/static/jinkela/long/images/512.png",
-    "fileHash": "sha256-dac8b4e9a0ae18b38ed69959ce279979eb53196e6d7e00e88b6fc0acc862a5a3",
-    "fileSize": 31185
+    "fileHash": "sha256-178f8cd14a9d86fabcbba327e5eaba0073e0ef33664d4cd11d76aca4f6b34ce0",
+    "fileSize": 40927
   },
   {
     "version": 2,

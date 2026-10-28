@@ -738,6 +738,28 @@
     "fileSize": 40927
   },
   {
+    "version": 1,
+    "internalName": "NextGenTV",
+    "name": "NextGenTV",
+    "pluginClassName": "com.allforu.NextGenTvPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/NextGenTV-v1.cs3",
+    "description": "NextGenTV - Live TV & IPTV: JioTV+, India Max, ZEE5, Sun NXT, Dish TV, Samsung/LG/Tablo/Vizio, Fancode (catalog picker, landscape rows)",
+    "iconUrl": "https://nextgeniptvin.pages.dev/logo.png",
+    "fileHash": "sha256-811acc69c7f7459318a389bbc24f784ebc8a981ca301bf25ef0c9edb689fb1b2",
+    "fileSize": 47198
+  },
+  {
     "version": 2,
     "internalName": "HDMozi",
     "name": "HDMozi",

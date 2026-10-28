@@ -738,6 +738,31 @@
     "fileSize": 40927
   },
   {
+    "version": 1,
+    "internalName": "BiliBiliTV",
+    "name": "BiliBili TV",
+    "pluginClassName": "com.allforu.BiliBiliTvPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "Movie",
+      "TvSeries",
+      "Others"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/BiliBiliTV-v1.cs3",
+    "description": "BiliBili TV - bilibili.tv (Bstation): For You, airing calendar, top hits, trending, search, episodes & ASS subtitles",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/bilibili-tv.png",
+    "fileHash": "sha256-ccb477dddde04016e012a681092a1d040223edd7384d2c751d1d74339299f357",
+    "fileSize": 42622
+  },
+  {
     "version": 2,
     "internalName": "NextGenTV",
     "name": "NextGenTV",

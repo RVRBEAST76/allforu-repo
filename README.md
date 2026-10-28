@@ -59,6 +59,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/repo.json
 | TamilTvToons | Movie, TvSeries, Anime, AnimeMovie | 2 | Working |
 | PelishaxPro | Movie, TvSeries, Anime, AnimeMovie | 4 | Working |
 | Bilibili | Others, Movie, TvSeries | 2 | Working |
+| HindiDrama | AsianDrama, TvSeries, Movie | 1 | Working |
 | NextGenTV | Movie, TvSeries | 2 | Working |
 | HDMozi | Movie, TvSeries | 2 | Working |
 | Dizipal | TvSeries | 1 | Working |

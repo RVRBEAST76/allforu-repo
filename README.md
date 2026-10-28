@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | AniVortex | Anime, AnimeMovie, Movie, TvSeries | 13 | Working |
 | AllDubz | Movie, TvSeries, Anime, AnimeMovie | 13 | Working |
 | Comix | Anime, Others | 6 | Working |
-| SmartTube | Others, Movie | 5 | Working |
+| SmartTube | Others, Movie | 6 | Working |
 | SimpMusic | Music | 5 | Working |
 | EgyBest | Movie, TvSeries | 4 | Working |
 | Anime Phoenix | Anime, AnimeMovie | 4 | Working |
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/repo.json
 | LaMovie | Movie, TvSeries, Anime, AnimeMovie | 5 | Working |
 | TamilTvToons | Movie, TvSeries, Anime, AnimeMovie | 2 | Working |
 | PelishaxPro | Movie, TvSeries, Anime, AnimeMovie | 4 | Working |
-| Bilibili | Others, Movie, TvSeries | 1 | Working |
+| Bilibili | Others, Movie, TvSeries | 2 | Working |
 | HDMozi | Movie, TvSeries | 2 | Working |
 | Dizipal | TvSeries | 1 | Working |
 | Movies Ni Pipay | Movie, TvSeries | 1 | Working |

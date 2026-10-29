@@ -1,0 +1,4 @@
+RAZORPAY_WEBHOOK_SECRET=replace_with_a_long_random_string
+ADMIN_TOKEN=replace_with_a_long_random_string
+TARGET_GOAL_USD=100
+INR_PER_USD=88

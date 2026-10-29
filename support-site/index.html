@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080b14">
+  <meta name="description" content="Support AllForU — a transparent monthly goal for domain, tooling and maintenance costs. All plugins stay free.">
+  <meta property="og:title" content="Support AllForU — Monthly Goal">
+  <meta property="og:description" content="Community-funded. Transparent. All plugins stay free.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="allforu-logo.jpg">
+  <title>Support AllForU — Monthly Goal</title>
+  <link rel="icon" href="allforu-logo.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ambient ambient--one" aria-hidden="true"></div>
+  <div class="ambient ambient--two" aria-hidden="true"></div>
+  <div class="grid-noise" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a class="brand" href="https://github.com/RVRBEAST76/allforu-repo" target="_blank" rel="noopener">
+      <img class="brand__logo" src="allforu-logo.jpg" alt="" width="44" height="44">
+      <span class="brand__name">AllForU</span>
+    </a>
+    <a class="topbar__link" href="#support">Support <span aria-hidden="true">↓</span></a>
+  </header>
+
+  <main class="page">
+    <section class="hero">
+      <p class="eyebrow"><span class="eyebrow__dot" aria-hidden="true"></span> Community-funded · always free</p>
+      <h1>Keep the stream <span class="gradient-text">alive.</span></h1>
+      <p class="hero__lede">
+        AllForU is built and maintained in the open. Your support covers the boring stuff —
+        domains, tooling, test devices and late-night fixes — so every plugin stays free.
+      </p>
+    </section>
+
+    <section class="goal-card" id="support" aria-labelledby="month-label">
+      <div class="goal-card__head">
+        <div>
+          <p class="kicker">Monthly support goal</p>
+          <h2 id="month-label">This month</h2>
+        </div>
+        <span class="live-pill" id="goal-badge">
+          <span class="live-pill__dot" aria-hidden="true"></span>
+          <span id="goal-badge-text">Live</span>
+        </span>
+      </div>
+
+      <div class="amount-row">
+        <strong id="total-amount">$0</strong>
+        <span id="target-amount">/ $100</span>
+      </div>
+
+      <div class="progress" id="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Monthly support goal progress">
+        <div class="progress__fill" id="progress-fill"></div>
+      </div>
+
+      <div class="meta-row">
+        <span id="percent">0%</span>
+        <span class="meta-row__sep" aria-hidden="true">·</span>
+        <span id="supporter-count">0 supports</span>
+        <span class="meta-row__updated" id="updated-at">updating…</span>
+      </div>
+
+      <p class="goal-note" id="goal-note">
+        Every contribution goes toward keeping AllForU online and maintained.
+      </p>
+
+      <div class="actions">
+        <a class="button button--primary" href="https://rzp.io/rzp/zA0nbGE" target="_blank" rel="noopener">
+          <span class="button__icon" aria-hidden="true">₹</span>
+          <span>Support via UPI / Cards</span>
+          <span class="button__arrow" aria-hidden="true">↗</span>
+        </a>
+        <a class="button button--secondary" href="https://buymeacoffee.com/allforu1" target="_blank" rel="noopener">
+          <span class="button__icon" aria-hidden="true">☕</span>
+          <span>Buy me a coffee</span>
+          <span class="button__arrow" aria-hidden="true">↗</span>
+        </a>
+      </div>
+
+      <p class="fineprint">
+        Goal resets on the 1st of each month (UTC). Support is optional — no subscription,
+        no paywall, no locked episodes.
+      </p>
+    </section>
+
+    <div class="content-grid">
+      <section class="panel" aria-labelledby="where-title">
+        <div class="panel__head">
+          <h3 id="where-title">Where it goes</h3>
+          <span class="panel__tag">Transparent</span>
+        </div>
+        <ul class="cost-list">
+          <li><span>Domain &amp; DNS</span><span>annual</span></li>
+          <li><span>Build &amp; hosting</span><span>free tier</span></li>
+          <li><span>Test devices &amp; tools</span><span>as needed</span></li>
+          <li><span>Maintenance time</span><span>weekly</span></li>
+        </ul>
+        <p class="panel__note">No ads. No hidden fees. Just voluntary support.</p>
+      </section>
+
+      <section class="panel" aria-labelledby="supporters-title">
+        <div class="panel__head">
+          <h3 id="supporters-title">Recent supporters</h3>
+          <span class="panel__tag" id="supporter-tag">This month</span>
+        </div>
+        <div id="supporters" class="supporters" aria-live="polite">
+          <p class="empty">Loading supporters…</p>
+        </div>
+      </section>
+    </div>
+
+    <section class="install-card" aria-labelledby="install-title">
+      <div>
+        <p class="kicker">New here?</p>
+        <h2 id="install-title">Install AllForU in CloudStream.</h2>
+        <p>Add repository → type <code>all4u</code> → install. That’s it.</p>
+      </div>
+      <a class="button button--ghost" href="https://github.com/RVRBEAST76/allforu-repo" target="_blank" rel="noopener">
+        <span>View repository</span>
+        <span class="button__arrow" aria-hidden="true">↗</span>
+      </a>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Built with care for the CloudStream community.</p>
+    <p>AllForU is not affiliated with CloudStream. Support is always optional.</p>
+  </footer>
+
+  <div class="toast" id="error" role="alert" hidden>
+    Live stats are unavailable right now. Retrying shortly.
+  </div>
+
+  <noscript>
+    <p class="noscript">Enable JavaScript to see the live monthly goal and supporters.</p>
+  </noscript>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

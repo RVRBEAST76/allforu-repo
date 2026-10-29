@@ -1,0 +1,11 @@
+README.md
+schema.sql
+wrangler.toml
+scripts/
+.wrangler/
+.assetsignore
+.gitignore
+.dev.vars
+.dev.vars.example
+package.json
+package-lock.json

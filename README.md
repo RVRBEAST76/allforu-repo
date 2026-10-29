@@ -20,6 +20,16 @@ https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/repo.json
 
 **Deep link:** `cloudstreamrepo://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/repo.json`
 
+### Support
+
+AllForU is community-funded and every plugin stays free. Support is optional.
+
+- [Support via UPI / Cards](https://rzp.io/rzp/zA0nbGE)
+- [Buy me a coffee](https://buymeacoffee.com/allforu1)
+
+The transparent monthly goal page lives in [`support-site/`](support-site/) and is
+deployed with Cloudflare Pages + D1. See the setup notes there.
+
 <!-- PLUGINS_TABLE_START -->
 
 ## Available Plugins

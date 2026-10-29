@@ -1,0 +1,12 @@
+name = "allforu-support"
+compatibility_date = "2026-10-29"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "allforu-support"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+
+[vars]
+TARGET_GOAL_USD = "100"
+INR_PER_USD = "88"

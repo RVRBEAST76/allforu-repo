@@ -28,7 +28,7 @@ AllForU is community-funded and every plugin stays free. Support is optional.
 - [Buy me a coffee](https://buymeacoffee.com/allforu1)
 
 The transparent monthly goal page lives in [`support-site/`](support-site/) and is
-deployed with Cloudflare Pages + D1. See the setup notes there.
+built for Cloudflare Pages + D1. See the setup notes there.
 
 <!-- PLUGINS_TABLE_START -->
 

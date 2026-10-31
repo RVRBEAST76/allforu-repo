@@ -889,5 +889,29 @@
     "iconUrl": "https://www.bombuj.si/images/favicon.png",
     "fileHash": "sha256-7b0bd4a1819b0fefeb723451d782745f82270f45190a579e47978e265b614d78",
     "fileSize": 56345
+  },
+  {
+    "version": 1,
+    "internalName": "OFC",
+    "name": "OFC Movies",
+    "pluginClassName": "com.allforu.OfcPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AnimeMovie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/OFC-v1.cs3",
+    "description": "OFC Movies - Movies, web series, anime & Bollywood, plus optional Live TV (1,200+ channels) with multi-audio and subtitles",
+    "iconUrl": "https://ofcmovies.com/apple-touch-icon.png",
+    "fileHash": "sha256-c4f1141e7220173ee17e5125bbd8ff99006c1a1b54e1bd424f87c3cbbfc88b9e",
+    "fileSize": 67184
   }
 ]

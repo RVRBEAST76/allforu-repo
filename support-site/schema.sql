@@ -7,7 +7,8 @@ CREATE TABLE IF NOT EXISTS payments (
   donor_name TEXT NOT NULL DEFAULT 'Supporter',
   message TEXT NOT NULL DEFAULT '',
   created_at TEXT NOT NULL,
-  month TEXT NOT NULL
+  month TEXT NOT NULL,
+  refunded_at TEXT
 );
 
 CREATE INDEX IF NOT EXISTS idx_payments_month_created

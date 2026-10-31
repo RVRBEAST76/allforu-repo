@@ -18,7 +18,7 @@ export async function onRequestGet({ env }) {
     const aggregate = await env.DB.prepare(
       `SELECT COALESCE(SUM(amount_usd), 0) AS total, COUNT(*) AS count
        FROM payments
-       WHERE month = ?`,
+       WHERE month = ? AND refunded_at IS NULL`,
     )
       .bind(month)
       .first();
@@ -26,7 +26,7 @@ export async function onRequestGet({ env }) {
     const rows = await env.DB.prepare(
       `SELECT source, amount_display, donor_name, message, created_at
        FROM payments
-       WHERE month = ?
+       WHERE month = ? AND refunded_at IS NULL
        ORDER BY created_at DESC
        LIMIT 20`,
     )

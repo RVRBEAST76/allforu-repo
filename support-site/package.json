@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "wrangler pages dev .",
     "deploy": "wrangler pages deploy . --project-name allforu-goal --branch main",
-    "test:webhook": "node scripts/test-webhook.mjs"
+    "test:webhook": "node scripts/test-webhook.mjs",
+    "test:bmc": "node scripts/test-bmc-webhook.mjs"
   }
 }

@@ -39,41 +39,41 @@ The page source and setup notes are in [`support-site/`](support-site/).
 
 | Name | TV Types | Version | Status |
 |------|----------|---------|--------|
-| All4U Rate | Movie | 9 | Working |
-| NoirX | Movie, TvSeries | 5 | Working |
-| MovieBox | Movie, TvSeries | 89 | Working |
-| AllOtt | Movie, TvSeries | 4 | Working |
-| JioTV | Movie, TvSeries | 45 | Working |
-| M3U Player | Movie, TvSeries | 28 | Working |
-| Re:ANIME | AnimeMovie, Anime, OVA | 30 | Working |
+| All4U Rate | Movie | 10 | Working |
+| NoirX | Movie, TvSeries | 6 | Working |
+| MovieBox | Movie, TvSeries | 90 | Working |
+| AllOtt | Movie, TvSeries | 5 | Working |
+| JioTV | Movie, TvSeries | 46 | Working |
+| M3U Player | Movie, TvSeries | 29 | Working |
+| Re:ANIME | AnimeMovie, Anime, OVA | 31 | Working |
 | An1me | Anime, AnimeMovie | 1 | Working |
-| AnimeAv1 | Anime, AnimeMovie | 12 | Working |
-| Latanime | Anime, AnimeMovie | 12 | Working |
-| Netcinez | Movie, TvSeries | 12 | Working |
-| Chikianimation | Movie, Anime | 11 | Working |
-| OHLI24 | Anime, AnimeMovie | 11 | Working |
-| AniVortex | Anime, AnimeMovie, Movie, TvSeries | 13 | Working |
-| AllDubz | Movie, TvSeries, Anime, AnimeMovie | 13 | Working |
-| Comix | Anime, Others | 6 | Working |
-| SmartTube | Others, Movie | 6 | Working |
+| AnimeAv1 | Anime, AnimeMovie | 13 | Working |
+| Latanime | Anime, AnimeMovie | 13 | Working |
+| Netcinez | Movie, TvSeries | 13 | Working |
+| Chikianimation | Movie, Anime | 12 | Working |
+| OHLI24 | Anime, AnimeMovie | 12 | Working |
+| AniVortex | Anime, AnimeMovie, Movie, TvSeries | 14 | Working |
+| AllDubz | Movie, TvSeries, Anime, AnimeMovie | 14 | Working |
+| Comix | Anime, Others | 7 | Working |
+| SmartTube | Others, Movie | 7 | Working |
 | SimpMusic | Music | 5 | Working |
-| EgyBest | Movie, TvSeries | 4 | Working |
-| Anime Phoenix | Anime, AnimeMovie | 4 | Working |
-| FrenchStream | Movie, TvSeries | 5 | Working |
-| Movie2K | Movie, TvSeries | 3 | Working |
-| Samehadaku | Anime, AnimeMovie | 3 | Working |
-| StreamUnity | Movie, TvSeries | 4 | Working |
-| AnimeOdcinki | Anime, AnimeMovie | 3 | Working |
-| Kinogo | Movie, TvSeries | 4 | Working |
-| YummyAni | Anime, AnimeMovie | 3 | Working |
-| PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 5 | Working |
-| KissAsian | TvSeries, Movie | 3 | Working |
-| LaMovie | Movie, TvSeries, Anime, AnimeMovie | 5 | Working |
-| TamilTvToons | Movie, TvSeries, Anime, AnimeMovie | 2 | Working |
-| PelishaxPro | Movie, TvSeries, Anime, AnimeMovie | 4 | Working |
-| Bilibili | Others, Movie, TvSeries | 2 | Working |
-| HindiDrama | AsianDrama, TvSeries, Movie | 1 | Working |
-| NextGenTV | Movie, TvSeries | 2 | Working |
+| EgyBest | Movie, TvSeries | 5 | Working |
+| Anime Phoenix | Anime, AnimeMovie | 5 | Working |
+| FrenchStream | Movie, TvSeries | 6 | Working |
+| Movie2K | Movie, TvSeries | 4 | Working |
+| Samehadaku | Anime, AnimeMovie | 4 | Working |
+| StreamUnity | Movie, TvSeries | 5 | Working |
+| AnimeOdcinki | Anime, AnimeMovie | 4 | Working |
+| Kinogo | Movie, TvSeries | 5 | Working |
+| YummyAni | Anime, AnimeMovie | 4 | Working |
+| PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 6 | Working |
+| KissAsian | TvSeries, Movie | 4 | Working |
+| LaMovie | Movie, TvSeries, Anime, AnimeMovie | 6 | Working |
+| TamilTvToons | Movie, TvSeries, Anime, AnimeMovie | 3 | Working |
+| PelishaxPro | Movie, TvSeries, Anime, AnimeMovie | 5 | Working |
+| Bilibili | Others, Movie, TvSeries | 3 | Working |
+| HindiDrama | AsianDrama, TvSeries, Movie | 2 | Working |
+| NextGenTV | Movie, TvSeries | 3 | Working |
 | HDMozi | Movie, TvSeries | 2 | Working |
 | Dizipal | TvSeries | 1 | Working |
 | Movies Ni Pipay | Movie, TvSeries | 1 | Working |

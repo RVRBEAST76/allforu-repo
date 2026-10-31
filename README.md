@@ -27,8 +27,11 @@ AllForU is community-funded and every plugin stays free. Support is optional.
 - [Support via UPI / Cards](https://rzp.io/rzp/zA0nbGE)
 - [Buy me a coffee](https://buymeacoffee.com/allforu1)
 
-The transparent monthly goal page lives in [`support-site/`](support-site/) and is
-built for Cloudflare Pages + D1. See the setup notes there.
+**Live monthly goal:** [allforu-goal.pages.dev](https://allforu-goal.pages.dev)
+
+[![Monthly support goal](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fallforu-goal.pages.dev%2Fapi%2Fstats&query=percent&label=Monthly%20Support&suffix=%25&color=ff6b35)](https://allforu-goal.pages.dev)
+
+The page source and setup notes are in [`support-site/`](support-site/).
 
 <!-- PLUGINS_TABLE_START -->
 

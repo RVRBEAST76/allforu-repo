@@ -2,6 +2,8 @@
 
 A CNCV-style, real-time monthly support goal for AllForU.
 
+**Live:** https://allforu-goal.pages.dev
+
 - Public page: `index.html`
 - Live stats API: `GET /api/stats`
 - Razorpay webhook: `POST /api/razorpay-webhook`
@@ -39,11 +41,11 @@ npx wrangler d1 execute allforu-support --remote --file=./schema.sql
 ## 2. Create the Pages project and secrets
 
 ```bash
-npx wrangler pages project create allforu-support
+npx wrangler pages project create allforu-goal
 
 # Generate two strong random strings first. Do not reuse them elsewhere.
-npx wrangler pages secret put RAZORPAY_WEBHOOK_SECRET --project-name allforu-support
-npx wrangler pages secret put ADMIN_TOKEN --project-name allforu-support
+npx wrangler pages secret put RAZORPAY_WEBHOOK_SECRET --project-name allforu-goal
+npx wrangler pages secret put ADMIN_TOKEN --project-name allforu-goal
 ```
 
 `TARGET_GOAL_USD` and `INR_PER_USD` are public settings in `wrangler.toml`.
@@ -53,13 +55,13 @@ and the default INR conversion is `88 INR = 1 USD`.
 ## 3. Deploy
 
 ```bash
-npx wrangler pages deploy . --project-name allforu-support --branch main
+npx wrangler pages deploy . --project-name allforu-goal --branch main
 ```
 
 The first deployment gives a URL like:
 
 ```text
-https://allforu-support.pages.dev
+https://allforu-goal.pages.dev
 ```
 
 If that project name is already taken, choose another name and update
@@ -78,7 +80,7 @@ Connect the GitHub repository and use:
 
 In Razorpay Dashboard → Account & Settings → Webhooks:
 
-- URL: `https://allforu-support.pages.dev/api/razorpay-webhook`
+- URL: `https://allforu-goal.pages.dev/api/razorpay-webhook`
 - Secret: the same value used for `RAZORPAY_WEBHOOK_SECRET`
 - Events: `payment.captured` and `payment_link.paid`
 
@@ -94,7 +96,7 @@ BuyMeACoffee automatic webhooks depend on the account/plan. If automatic
 webhooks are not available, add the donation with the protected endpoint:
 
 ```bash
-curl -X POST "https://allforu-support.pages.dev/api/manual-donation" \
+curl -X POST "https://allforu-goal.pages.dev/api/manual-donation" \
   -H "Authorization: Bearer $ADMIN_TOKEN" \
   -H "Content-Type: application/json" \
   -d '{
@@ -137,7 +139,7 @@ INR_PER_USD=88
 After deployment, add this to the repository README:
 
 ```md
-[![Monthly support goal](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fallforu-support.pages.dev%2Fapi%2Fstats&query=percent&label=Monthly%20Support&suffix=%25&color=ff6b35)](https://allforu-support.pages.dev)
+[![Monthly support goal](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fallforu-goal.pages.dev%2Fapi%2Fstats&query=percent&label=Monthly%20Support&suffix=%25&color=ff6b35)](https://allforu-goal.pages.dev)
 ```
 
 The badge reads the live `percent` field from `/api/stats`.

@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "wrangler pages dev .",
-    "deploy": "wrangler pages deploy . --project-name allforu-support --branch main",
+    "deploy": "wrangler pages deploy . --project-name allforu-goal --branch main",
     "test:webhook": "node scripts/test-webhook.mjs"
   }
 }

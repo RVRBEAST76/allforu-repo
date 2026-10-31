@@ -1,11 +1,11 @@
-name = "allforu-support"
+name = "allforu-goal"
 compatibility_date = "2026-10-29"
 pages_build_output_dir = "."
 
 [[d1_databases]]
 binding = "DB"
 database_name = "allforu-support"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "fc5d3f7d-beed-4b6c-8a54-897a25049609"
 
 [vars]
 TARGET_GOAL_USD = "100"

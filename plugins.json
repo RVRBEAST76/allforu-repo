@@ -891,7 +891,7 @@
     "fileSize": 56345
   },
   {
-    "version": 2,
+    "version": 3,
     "internalName": "OFC",
     "name": "OFC Movies",
     "pluginClassName": "com.allforu.OfcPlugin",
@@ -908,10 +908,10 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/OFC-v2.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/OFC-v3.cs3",
     "description": "OFC Movies - Movies, web series, anime & Bollywood, plus optional Live TV (1,200+ channels) with multi-audio and subtitles",
     "iconUrl": "https://ofcmovies.com/apple-touch-icon.png",
-    "fileHash": "sha256-c716a27420ee8a0ac7f4bff11438a19c1f8a6910f7668419a782055f9f531800",
-    "fileSize": 67316
+    "fileHash": "sha256-4098298d2d293877e9de24d657ddd3fae781e356b701124b8b85a8bfb1607b16",
+    "fileSize": 67322
   }
 ]

@@ -81,7 +81,7 @@ The page source and setup notes are in [`support-site/`](support-site/).
 | Bombuj | Movie, TvSeries | 2 | Working |
 | OFC Movies | Movie, TvSeries, Anime, AnimeMovie, Live | 4 | Working |
 | AnimeVillage | Anime, AnimeMovie | 2 | Working |
-| WatchAnimeWorld | Anime, AnimeMovie | 1 | Working |
+| WatchAnimeWorld | Anime, AnimeMovie | 2 | Working |
 
 *Auto-updated on every build.*
 

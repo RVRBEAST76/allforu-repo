@@ -936,5 +936,27 @@
     "iconUrl": "https://www.animevillage.org/opengraph-image",
     "fileHash": "sha256-6154e38e8c7583d57b3d31cb2a8ee6d1870fa91f6dffa1805250fd59723880a1",
     "fileSize": 42298
+  },
+  {
+    "version": 1,
+    "internalName": "WatchAnimeWorld",
+    "name": "WatchAnimeWorld",
+    "pluginClassName": "com.allforu.WatchAnimeWorldPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/WatchAnimeWorld-v1.cs3",
+    "description": "WatchAnimeWorld - Hindi, Tamil, Telugu & English anime with Mega multi-audio HLS playback",
+    "iconUrl": "https://watchanimeworld.ro/wp-content/uploads/2026/08/favicon.webp",
+    "fileHash": "sha256-3795d41175b9e25217f01c626438fa595f38877bb47052d530227a2727412518",
+    "fileSize": 42598
   }
 ]

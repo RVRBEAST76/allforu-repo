@@ -80,6 +80,7 @@ The page source and setup notes are in [`support-site/`](support-site/).
 | MicroTV | Movie | 2 | Working |
 | Bombuj | Movie, TvSeries | 2 | Working |
 | OFC Movies | Movie, TvSeries, Anime, AnimeMovie, Live | 4 | Working |
+| AnimeVillage | Anime, AnimeMovie | 1 | Working |
 
 *Auto-updated on every build.*
 

@@ -66,7 +66,7 @@ The page source and setup notes are in [`support-site/`](support-site/).
 | AnimeOdcinki | Anime, AnimeMovie | 5 | Working |
 | Kinogo | Movie, TvSeries | 6 | Working |
 | YummyAni | Anime, AnimeMovie | 5 | Working |
-| PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 7 | Working |
+| PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 8 | Working |
 | KissAsian | TvSeries, Movie | 5 | Working |
 | LaMovie | Movie, TvSeries, Anime, AnimeMovie | 7 | Working |
 | TamilTvToons | Movie, TvSeries, Anime, AnimeMovie | 4 | Working |

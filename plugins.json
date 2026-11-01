@@ -914,5 +914,27 @@
     "iconUrl": "https://ofcmovies.com/apple-touch-icon.png",
     "fileHash": "sha256-b0c55fd034a72f5c6cb6cd36f892ef2c123532866be58746dc33dd6e8869fe17",
     "fileSize": 69318
+  },
+  {
+    "version": 1,
+    "internalName": "AnimeVillage",
+    "name": "AnimeVillage",
+    "pluginClassName": "com.allforu.AnimeVillagePlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AnimeVillage-v1.cs3",
+    "description": "AnimeVillage - Anime series, movies & OVAs with English subs and dubs (multi-quality HLS)",
+    "iconUrl": "https://www.animevillage.org/opengraph-image",
+    "fileHash": "sha256-2f788319a129d4a0d9cf37f73f41bc4b036876574e69d3fad9f6a0b367be86dd",
+    "fileSize": 42298
   }
 ]

@@ -597,7 +597,7 @@
     "fileSize": 37580
   },
   {
-    "version": 7,
+    "version": 8,
     "internalName": "PiratexPlay",
     "name": "PiratexPlay",
     "pluginClassName": "com.allforu.PiratexPlayPlugin",
@@ -614,11 +614,11 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PiratexPlay-v7.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PiratexPlay-v8.cs3",
     "description": "PiratexPlay - Multi-language anime streaming (India)",
     "iconUrl": "https://piratexplay.cc/public/img/favicon/apple-icon-180x180.png",
-    "fileHash": "sha256-f26ebfa31c53bab4f5f0c6b3a667b09fe55eb4707883d1e222836c66f4114f9e",
-    "fileSize": 49372
+    "fileHash": "sha256-51b28a86c1b227cf4b146504ead99f2873da0a91156037184b3e91a575de168b",
+    "fileSize": 57036
   },
   {
     "version": 5,

@@ -916,7 +916,7 @@
     "fileSize": 69318
   },
   {
-    "version": 1,
+    "version": 2,
     "internalName": "AnimeVillage",
     "name": "AnimeVillage",
     "pluginClassName": "com.allforu.AnimeVillagePlugin",
@@ -931,10 +931,10 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AnimeVillage-v1.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AnimeVillage-v2.cs3",
     "description": "AnimeVillage - Anime series, movies & OVAs with English subs and dubs (multi-quality HLS)",
     "iconUrl": "https://www.animevillage.org/opengraph-image",
-    "fileHash": "sha256-2f788319a129d4a0d9cf37f73f41bc4b036876574e69d3fad9f6a0b367be86dd",
+    "fileHash": "sha256-6154e38e8c7583d57b3d31cb2a8ee6d1870fa91f6dffa1805250fd59723880a1",
     "fileSize": 42298
   }
 ]

@@ -1,0 +1,384 @@
+NextGenTV / AllForU - FULL PLAYLIST LIST
+Plugin: NextGenTV v7
+Updated: 2026-11-02
+
+Use these links in your IPTV player or download the M3U files.
+For CRICFY clear-key MPD channels, use NextGenTV plugin / OTT Navigator / TiviMate.
+
+============================================================
+BASE SERVERS (18)
+============================================================
+1. S1 Xtream
+   Status: Working (India IP)
+   M3U: http://zipstreamhub.online:80/get.php?username=11111111&password=22222222&type=m3u_plus&output=ts
+   Trimmed/Alt: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/s1_live.m3u
+
+2. S2 My JioTV
+   Status: No M3U
+   M3U: N/A
+
+3. S3 Stalker
+   Status: No M3U
+   M3U: N/A
+
+4. India Max
+   Status: Working
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/india_max.m3u
+
+5. TEMP
+   Status: No M3U
+   M3U: https://la.drmlive.net/tp/playlist
+
+6. JioTV+
+   Status: Working
+   M3U: https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/playlist.m3u
+
+7. S7 Xtream
+   Status: Unavailable
+   M3U: http://livebox.pro/get.php?username=sajimonjoseph&password=skyplay5608&type=m3u_plus&output=ts
+
+8. S8 Stalker
+   Status: No M3U
+   M3U: N/A
+
+9. S9 Xtream
+   Status: Unavailable
+   M3U: http://skyfilex.fun:80/get.php?username=249433528395&password=864483763454&type=m3u_plus&output=ts
+
+10. FANCODE LIVE
+   Status: Working
+   M3U: https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u
+
+11. ZEE 5
+   Status: Working
+   M3U: https://livetv-cb7.pages.dev/Zee5.m3u
+
+12. SUN NXT
+   Status: Working
+   M3U: https://getapks.pages.dev/Sunnxt.m3u
+
+13. Dish Home HD
+   Status: Working
+   M3U: https://getapks.pages.dev/updated.m3u
+
+14. DISH TV
+   Status: Working
+   M3U: https://raw.githubusercontent.com/TojoJhone/Alexm3u/9e39d40249252fd04c664ccec5b3edd7d54838ab/dishtv.m3u
+
+15. SAMSUNG TV
+   Status: Working
+   M3U: https://raw.githubusercontent.com/TojoJhone/Alexm3u/9e39d40249252fd04c664ccec5b3edd7d54838ab/samsungtv.m3u
+
+16. LG TV
+   Status: Working
+   M3U: https://raw.githubusercontent.com/himanshu-temp/m3u/main/lgtv.m3u
+
+17. TABLO TV
+   Status: Working
+   M3U: https://www.apsattv.com/tablo.m3u
+
+18. VIZIO
+   Status: Working
+   M3U: https://www.apsattv.com/vizio.m3u
+
+NOTE: S1 full get.php is about 470 MB. Use the trimmed/Alt link first.
+
+============================================================
+CRICFY SERVERS (71)
+============================================================
+1. Sports
+   Status: Working (163 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/cricfy_sports.m3u
+
+2. India
+   Status: Working (67 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/cricfy_india.m3u
+
+3. News
+   Status: Working (39 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/cricfy_news.m3u
+
+4. Kolkata
+   Status: Working (29 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/cricfy_kolkata.m3u
+
+5. Discovery
+   Status: Working (29 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/cricfy_discovery.m3u
+
+6. Pakistan
+   Status: Working (9 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/cricfy_pakistan.m3u
+
+7. Bangla
+   Status: Working (39 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/cricfy_bangla.m3u
+
+8. Kids
+   Status: Working (29 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/cricfy_kids.m3u
+
+9. Musics
+   Status: Working (13 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/cricfy_musics.m3u
+
+10. TATA PLAY
+   Status: Unavailable
+   M3U: https://hotstarlive.delta-cloud.workers.dev/?token=240bb9-374e2e-3c13f0-4a7xz5
+
+11. HOTSTAR
+   Status: Unavailable
+   M3U: https://hotstarlive.nebula-core.workers.dev/?token=154dc5-7a9126-56996d-1fa267
+
+12. TATAPLAY BD
+   Status: Unavailable
+   M3U: https://ranapk-playlist.site/TATABDD.php
+
+13. FANCODE IND
+   Status: Working (6 channels)
+   M3U: https://raw.githubusercontent.com/doctor-8trange/zyphx8/refs/heads/main/data/fancode.m3u
+
+14. SONYLIV
+   Status: Empty (0 channels)
+   M3U: https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u
+
+15. JIO IND
+   Status: Unavailable
+   M3U: https://jiotv.byte-vault.workers.dev/?token=42e4f5-2d873b-3c37d8-7f3f50
+
+16. SONY IN
+   Status: Unavailable
+   M3U: https://sonyliv.logic-lane.workers.dev?token=a14d9c-4b782a-6c90fd-9a1b84
+
+17. VZY TV
+   Status: Unavailable
+   M3U: https://digital-jhs.data-vortex.workers.dev/?token=240bb9-374e2e-3c13f0-4a7xz8
+
+18. SUN DIRECT
+   Status: Working (136 channels)
+   M3U: https://alex4528.site/playlist/suntv.m3u
+
+19. VOOT BD
+   Status: Working (31 channels)
+   M3U: https://pastebin.com/raw/xPVb8ey5
+
+20. VOOT IND
+   Status: Unavailable
+   M3U: https://jiocinema-live.cloud-hatchh.workers.dev/?token=42e4f5-2d414b-3c37d8-5f3f45
+
+21. SUN NXT
+   Status: Working (33 channels)
+   M3U: https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u
+
+22. DISTRO TV
+   Status: Working (75 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/ext_distro_tv.m3u
+
+23. JIOTV+
+   Status: Empty (0 channels)
+   M3U: https://alex4528.site/playlist/jtv.m3u
+
+24. JIOLIVE IND
+   Status: Unavailable
+   M3U: https://raw.githubusercontent.com/alex8875/jc_live/refs/heads/main/jevents_live.m3u
+
+25. ISLAMIC TV
+   Status: Working (11 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/cricfy_islamic_tv.m3u
+
+26. TAPMAD PK
+   Status: Unavailable
+   M3U: https://tv.noobon.top/playlist/tapmad.php
+
+27. WORLD TV
+   Status: Unavailable
+   M3U: https://ranapk-playlist.site/WorldTV.php
+
+28. AYNA
+   Status: Unavailable
+   M3U: https://playlist-cricfy.noobon.top/aynaott.php
+
+29. JIO CINEMA IND
+   Status: Working (41 channels)
+   M3U: https://alex4528.site/playlist/jcinema.m3u
+
+30. DISH TV
+   Status: Working (42 channels)
+   M3U: https://alex4528.site/playlist/dishtv.m3u
+
+31. SHOOQ PK
+   Status: Working (42 channels)
+   M3U: https://alex4528.site/playlist/shoq.m3u
+
+32. SAMSUNG TV
+   Status: Working (162 channels)
+   M3U: https://alex4528.site/playlist/samsungtv.m3u
+
+33. JAGOBD
+   Status: Unavailable
+   M3U: https://tv.noobon.top/playlist/jagobd.php
+
+34. JADOO
+   Status: Unavailable
+   M3U: https://ranapk-playlist.site/jadookids.php
+
+35. PISHOW
+   Status: Working (431 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/ext_pishow.m3u
+
+36. CRICHD
+   Status: Unavailable
+   M3U: https://tv.noobon.top/crichd/playlist.php
+
+37. ZAP SPORTS
+   Status: Working (116 channels)
+   M3U: https://tv.noobon.top/zapx/api.php?action=getIPTVPlaylist
+
+38. Pirates TV
+   Status: Unavailable
+   M3U: https://raw.githubusercontent.com/FunctionError/PiratesTv/refs/heads/main/combined_playlist.m3u
+
+39. YUPPTV
+   Status: Working (274 channels)
+   M3U: https://tv.noobon.top/playlist/yapp.php
+
+40. DANGAL TV
+   Status: Working (4 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/ext_dangal_tv.m3u
+
+41. PRIME X SONYLIV
+   Status: Empty (0 channels)
+   M3U: https://raw.githubusercontent.com/doctor-8trange/tekzya9/refs/heads/main/data/primevideoindia.m3u
+
+42. BIGBOSS 24 X 7
+   Status: Unavailable
+   M3U: https://dehkho24h.alpha-circuit.workers.dev/?token=1b8j9b-796c8a-36e17f-8f83a5
+
+43. JIOTV+ S2
+   Status: Unavailable
+   M3U: https://jiotvplus.byte-vault.workers.dev/?token=42e4f5-2d863b-3c38d8-7f3f51
+
+44. JIOHOTSTAR
+   Status: Empty (0 channels)
+   M3U: https://alex4528.site/playlist/jstar.m3u
+
+45. JIOTV+ S3
+   Status: Unavailable
+   M3U: https://jiotv.edge-nexus.workers.dev/?token=42e4f5-2d863b-3c37d8-8f3f51
+
+46. ICC TV
+   Status: Empty (0 channels)
+   M3U: https://raw.githubusercontent.com/doctor-8trange/nexphi0/refs/heads/main/data/icc.m3u
+
+47. PRIME LIVE
+   Status: Working (2 channels)
+   M3U: https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u
+
+48. Movies
+   Status: Working (50 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/cricfy_movies.m3u
+
+49. JIO BD
+   Status: Unavailable
+   M3U: https://ranapk-playlist.site/JIOBD.php
+
+50. World Sport
+   Status: Unavailable
+   M3U: https://tv.xmasterbd.sbs/dhd/playlist.php
+
+51. RUN TV
+   Status: Working (46 channels)
+   M3U: https://alex4528.site/playlist/runn.m3u
+
+52. WAVES OTT
+   Status: Working (78 channels)
+   M3U: https://alex4528.site/playlist/waves.m3u
+
+53. JIO IND2
+   Status: Unavailable
+   M3U: https://playlist-cricfy.noobon.top/noob/jiotv.php
+
+54. JIOTV+ S4
+   Status: Unavailable
+   M3U: https://jiotvplus.iron-shield.workers.dev/?token=42e4f5-2d963b-3c37d8-7f3f52
+
+55. LGTV IND
+   Status: Unavailable
+   M3U: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/lgtv.m3u
+
+56. TOFFEE BD
+   Status: Working (75 channels)
+   M3U: https://raw.githubusercontent.com/srhady/toffee-bd/refs/heads/main/toffee_playlist.m3u
+
+57. SONY BD
+   Status: Unavailable
+   M3U: https://ranapk-playlist.site/SONYBD.php
+
+58. DARK TV
+   Status: Unavailable
+   M3U: https://ranapk-playlist.site/Darktv.php
+
+59. AKASH
+   Status: Unavailable
+   M3U: https://playlist-cricfy.noobon.top/akashgo.php
+
+60. FREE TV
+   Status: Working (422 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/ext_free_tv.m3u
+
+61. ZEE5 LIVE
+   Status: Empty (0 channels)
+   M3U: https://raw.githubusercontent.com/doctor-8trange/quarnex/refs/heads/main/data/zee5.m3u
+
+62. FREE SPORTS
+   Status: Working (91 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/ext_free_sports.m3u
+
+63. IZZI GO
+   Status: Working (196 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/ext_izzi_go.m3u
+
+64. WATCHO
+   Status: Working (32 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/ext_watcho.m3u
+
+65. BDIX TV
+   Status: Unavailable
+   M3U: https://tv.noobon.top/playlist/bdixtv.php
+
+66. SUN NXT 2
+   Status: Working (44 channels)
+   M3U: https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/ext_sun_nxt_2.m3u
+
+67. INDIA TV 2
+   Status: Working (374 channels)
+   M3U: https://iptv-org.github.io/iptv/languages/hin.m3u
+
+68. TAPMAD BD
+   Status: Unavailable
+   M3U: https://s1.noobon.top/tapmadbd/playlist.php
+
+69. WORLD TV 2
+   Status: Working (3974 channels)
+   M3U: https://raw.githubusercontent.com/amin8453/playlist/main/main.m3u
+
+70. INDIA TV
+   Status: Working (114 channels)
+   M3U: https://raw.githubusercontent.com/amin8453/playlist/main/india.m3u
+
+71. SKY SPORTS
+   Status: Working (63 channels)
+   M3U: https://baila-lentoo.pages.dev/tnttt/playlist.m3u
+
+============================================================
+BUNDLES
+============================================================
+CRICFY 11 first-party categories - 478 channels:
+https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/cricfy_custom_all.m3u
+
+S1 Xtream live - 14,016 channels:
+https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/NextGenTV/catalog/s1_live.m3u
+
+Full link table (Markdown):
+https://github.com/RVRBEAST76/allforu-repo/blob/main/NextGenTV/catalog/cricfy_links.md
+

@@ -761,7 +761,7 @@
     "fileSize": 48985
   },
   {
-    "version": 4,
+    "version": 5,
     "internalName": "NextGenTV",
     "name": "NextGenTV",
     "pluginClassName": "com.allforu.NextGenTvPlugin",
@@ -776,11 +776,11 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/NextGenTV-v4.cs3",
-    "description": "NextGenTV - Live TV & IPTV: JioTV+, India Max, ZEE5, Sun NXT, Dish TV, Samsung/LG/Tablo/Vizio, Fancode (catalog picker, landscape rows)",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/NextGenTV-v5.cs3",
+    "description": "NextGenTV - Live TV & IPTV: S1 Xtream, JioTV+, India Max, ZEE5, Sun NXT, Dish/Samsung/LG/Tablo/Vizio, Fancode + 71 CRICFY servers (catalog picker, landscape rows)",
     "iconUrl": "https://nextgeniptvin.pages.dev/logo.png",
-    "fileHash": "sha256-4a7ef5f8959fb9b6dd364f03c04871d3c463229a02294afca3907bcb97cf3863",
-    "fileSize": 51955
+    "fileHash": "sha256-af501386b06aedcc5718b905f72aed1342e5ebdeb30673d8ad38bad6256d964f",
+    "fileSize": 72524
   },
   {
     "version": 2,

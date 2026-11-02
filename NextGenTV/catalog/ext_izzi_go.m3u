@@ -1,0 +1,982 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#DATE: Friday, 30 January 2026 at 08:33:20 am
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" group-title="General" tvg-language="Spanish" tvg-logo="https://i.ibb.co/V310Z0q/canal5.png",Canal 5
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62cc24eaedef1ab322a4d52fd6bf29ad:3f80b04b3e2bf3d8543956882da9dd00
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" group-title="General" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png",Las Estrellas
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/CANAL2HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0455c3df25bf8568cda913c0a5c9f628:19a25f53ae494b654d4ce4950e1e979c
+#EXTINF:-1 tvg-id="Las Estrellas -1 Hora" tvg-name="Las Estrellas -1 Hora" group-title="General" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/XY8tHVG7/las-estrellas-1hrs.png",Las Estrellas -1 HORA
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/LASESTRELLAS1HRSSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=820ee7b6e7e489c285a63a9a39249a31:3bdc524168044491d6f2e51b270f4aa1
+#EXTINF:-1 tvg-id="Las Estrellas -2 Horas" tvg-name="Las Estrellas -2 Horas" group-title="General" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/Jn9FD0gK/las-estrellas-2hrs.png",Las Estrellas -2 HORAS
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/LASESTRELLAS2HRSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=158b196625b3fa3a6cbd45d081d28995:b955044f81ed40faec97bee0d7a20aea
+#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" group-title="General" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/TwY3MLvh/az-uno.png",AZTECA UNO
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/AZTECA1HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c15a10921bed75a3ec5385e0ecdb6499:4e44df62547a1544a4623418918658d0
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" group-title="General" tvg-language="Spanish" tvg-logo="https://i.ibb.co/Bqd8Qjw/azteca7.png",AZTECA 7
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/AZTECA7HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96ce45fa9e1b72ef49b8f5784b21a001:bf9797535e629804cf48f8b6530582c1
+#EXTINF:-1 tvg-id="Canal 6" tvg-name="Canal 6" group-title="General" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1144px-Multimedios_Canal_Seis_Logo.svg.png",Canal 6
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MULTIMEDIOS-RDF-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44cc7d4a31a3e696d35f6b6ed0561be1:57e157bcfd59651e649911f513965680
+#EXTINF:-1 tvg-id="Canal 6 Plus" tvg-name="Canal 6 Plus" group-title="General" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/C14YvVk9/canal-6-plus.png",Canal 6 Plus
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/CANAL6PLUSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bb910a4217a1af19b803e7f120796f9:8d3d83fadfc769674b9c7102109fc466
+#EXTINF:-1 tvg-id="Nueve" tvg-name="Nueve" group-title="General" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/j2sqKjRs/nueve.png",Nueve
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/CANAL9HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c70b0d54f58f6dd4e2046bf64084773a:00a3aee5319f20ddfe288240697f559e
+#EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" group-title="General" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/CKqxstvV/once.png",Canal Once
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/ONCEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63f768ba20535fdc9716a6419724ff9f:f54e09a043130b1412beb558b4494118
+#EXTINF:-1 tvg-id="Once Ninas y Ninos" tvg-name="Once Ninas y Ninos" group-title="Kids" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/qM8BF1D9/once-ninas-y-ninos.png",Once Niñas y Niños
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/ONCENINASYNINOSSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=685296908106c98b843ec0ecab5e53bd:feda5f6bdf622bf52e3991cfcf47f842
+#EXTINF:-1 tvg-id="Aprende+" tvg-name="Aprende+" group-title="Education" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/rm2FnJbR/aprende-mas.png",Aprende+
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/APRENDEMASSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba58fdfd114d74e2a22225a27aaf144f:7c622cc288ca7d1f8fb7496135b67e09
+#EXTINF:-1 tvg-id="Ingenio TV" tvg-name="Ingenio TV" group-title="Education" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/rm2FnJbR/aprende-mas.png",INGENIO TV
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/INGENIO-TV-SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e7399e4ec95e1fd86b61da263476c34:06c2a7b4d56dabbf050d51f451dd72ba
+#EXTINF:-1 tvg-id="MX Nuestro Cine" tvg-name="MX Nuestro Cine" group-title="Movies" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/MX_Nuestro_Cine_2022~.png/revision/latest/scale-to-width-down/200?cb=20250512015312",MX NUESTRO CINE
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MX-NUESTRO-CINE-SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d07062d0e56220efe394a1640f586162:b9457744e76306cfdbf58a886b45c1d7
+#EXTINF:-1 tvg-id="Canal 14" tvg-name="Canal 14" group-title="General" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/jqXdcyhC/canal-14-mexico.png",Canal Catorce
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/CANAL14HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd02aab23d7af5a543381c7108de535e:2573aca79c477f674a5bbc22ad735c7b
+#EXTINF:-1 tvg-id="Canal 22" tvg-name="Canal 22" group-title="General" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/WbYpLjCv/canal22.png",Canal Veintidós
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/CANAL22HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=adb931e6afdba4136e5ecb88eb7aa868:8cc35aab173435df66b868d85e763dea
+#EXTINF:-1 tvg-id="Capital 21" tvg-name="Capital 21" group-title="General" tvg-language="Spanish" tvg-logo="https://www.capital21.cdmx.gob.mx/templates/interioressprcdmex/assets/img/logo.png",Capital 21
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CAPITAL-21-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74fcb59a5c38a6ee59a13aa32585eb02:483a204a347bc45bc3f3ab27874bc564
+#EXTINF:-1 tvg-id="Heraldo TV" tvg-name="Heraldo TV" group-title="News" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nzvqr4cg/heraldo-television.png",Heraldo Televisión
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/HERALDOTVHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef2bd499aa32fa45be33013d6b035abc:1f0d60ad49ef43bbb03b392e05a37200
+#EXTINF:-1 tvg-id="TV UNAM" tvg-name="TV UNAM" group-title="Education" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/RZjMhdvp/tv-unam.png",TV UNAM
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/TVUNAMSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c3b5f4a88fad6b32a248be52437c842:b6b5fab0ba30b3d191169738d308512c
+#EXTINF:-1 tvg-id="TV Migrante" tvg-name="TV Migrante" group-title="General" tvg-language="Spanish" tvg-logo="https://images.ctfassets.net/5oiji4u0v8be/3saK5HB9O4BEQC7kLOOuUW/727886854762132674493221025b851b/izzi-logo-canal-tv-tvmigrante.webp",TV MIGRANTE
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/TV-MIGRANTE-SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=445987029f68a15d72f749dc6954da1e:b0b4c0681b371950146dbd03ce63b2d7
+#EXTINF:-1 tvg-id="Maussan TV" tvg-name="Maussan TV" group-title="General" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/WbTzqPjv/logomausstv01-scaled-e1761611368789-1024x918.webp",MAUSSAN TV
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MAUSSAN-TV-SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=190e0dedd5c1ed7f5f76515d5f72058a:8e09da444ee448c2a85b8cd24c2eebe0
+#EXTINF:-1 tvg-id="Imagen TV" tvg-name="Imagen TV" group-title="General" tvg-language="Spanish" tvg-logo="https://i.ibb.co/5LyfhWn/imagentv.png",Imagen TV
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/IMAGENTVHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=86e93bd99b1b0550ca60a1516f0c2ded:06835565e588e72d6c60512dff9e24e6
+#EXTINF:-1 tvg-id="Quiero TV" tvg-name="Quiero TV" group-title="General" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/RhwsnH75/quiero-tv-mx.webp",QUIERO TV
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/QUIERO-TV-SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=30a744a8c9c6fa00f9f05c83c27e4b4d:402d81ac9059cfdeb119b452bafb8882
+#EXTINF:-1 tvg-id="Excelsior TV" tvg-name="Excelsior TV" group-title="News" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/g2gfnhBM/excelsior-tv.png",Excelsior TV
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/EXCELSIORHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81a154c749417e9045df2b3dd974e0d9:08d84cb2d8bd21b28b765d4a187f9e13
+#EXTINF:-1 tvg-id="CV Shopping" tvg-name="CV Shopping" group-title="Lifestyle" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/pLM6rZZY/cv-shopping.png",CV Shopping Outlet
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/CVSHOPPINGSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=320e1cb23cf15aa8f41a9edd52baa655:63c5e57ae2a2bc7dab3c67cac1a6c956
+#EXTINF:-1 tvg-id="BabyFirst" tvg-name="BabyFirst" group-title="Kids" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/L6HzHR5Q/babyfirst.png",BabyFirst
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5e06331cab5a18d87cfd61c024c6ed5:97bef40343b1eb8b57dcb2fde7191e49
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" group-title="Kids" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/160/160/0/0/2335855007695.png",Baby TV
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/BABYTVSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85d06ba283f3b18bb14f9f8d59b8fb82:6659fed472544289adee986c1d33fa79
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" group-title="Kids" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png? worldtv2",Cartoon Network
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/CARTOONNETWORKHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc370ab08218da5dad9b9644f1df57b:1ddc60916c0efd29990cb1d319e7710a
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" group-title="Kids" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/481/CH_LOGO/160/160/0/0/1490409807453.png? worldtv2",Cartoonito
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/CARTOONITOHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba8f89c842c0cb9bfadf0a3ab7046695:715b5a449ec3a9f66e4fe4f923073956
+#EXTINF:-1 tvg-id="Clan" tvg-name="Clan" group-title="Kids" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/9MWdFLWh/clan.png",Clan
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/CLANHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" group-title="Kids" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/160/160/0/0/43430600073531.png? worldtv2",Discovery Kids
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/DISCOVERYKIDSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f047ea1abdca6f03117454c4de0b6d5b:b038c8c8f114c568956d428e80ae38d7
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" group-title="Kids" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/disney/images/9/94/Disney_Channel_2024_logo.svg/revision/latest/scale-to-width-down/1000?cb=20251002105252? worldtv2",Disney Channel
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/DISNEYCHANNELHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d41d2ae9b0d875ba12e97c5a3f3eec82:3a443892e1ad1158c6fd2bf9c9146eb6
+#EXTINF:-1 tvg-id="Disney Jr." tvg-name="Disney Jr." group-title="Kids" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png? worldtv2",Disney Jr.
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/DISNEYJRHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d2063b495202a5a78a2b7df6ba1d6d1:9b0e8c590f387c6b45ffef5827d9d90b
+#EXTINF:-1 tvg-id="DogTV" tvg-name="DogTV" group-title="Kids" tvg-language="Spanish" tvg-logo="https://i.ibb.co/qMmvWvZ/dogtv.png",DogTV
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/DOGTVSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a255e1384db3e9ce7e0349e8aa9b9f77:404cc4fb45f82c9a7dffd3d2496cca20
+#EXTINF:-1 tvg-id="DreamWorks" tvg-name="DreamWorks" group-title="Kids" tvg-language="Spanish" tvg-logo="https://i.ibb.co/10jGH2z/dreamworks.png",DreamWorks
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/DREAMWORKSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=294848a1c20273b5546c204b117fd7fe:47b4a3e3b2d5bbd54143a6af43268bbd
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="Kids" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png? worldtv2",Nickelodeon
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/NICKHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ff80f6edca24a644b8f5b4532e908a4:273d66feb7edc254d70d73aecddd31f8
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." group-title="Kids" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/160/160/0/0/61362740071226.png? worldtv2",Nick Jr.
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/NICKJRHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96c869392d2e908eaf78a9fcfa8c3107:cd307966418dafe8fa5e673f8c172f39
+#EXTINF:-1 tvg-id="NickMusic" tvg-name="NickMusic" group-title="Music" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/X7zdvSb3/Nick-Music.png",NickMusic
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/NICKMUSICSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57588399a2a939927418a588126e316d:6566f7996a957773701e2de8741ce176
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="TeenNick" group-title="Kids" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/ZqHkBP66/teennick.png",TeenNick
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/TEENNICKHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c9418c5729e8224f99940cf5b6c0c45:336cd7efd1d7a1829d0f3d22c2c8dc0a
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" group-title="Kids" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/160/160/0/0/5456596307880.png? worldtv2",Tooncast
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/TOONCASTSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
+#EXTINF:-1 tvg-id="Edye TV" tvg-name="Edye TV" group-title="Kids" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/tCCKvmxL/edye.png?worldtv2",EDYE TV
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/EDYEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=310ddeefcec5f96a75faed2a96afd26a:041fe42d066d50d59fc368312647bb2f
+#EXTINF:-1 tvg-id="Curiosity Channel" tvg-name="Curiosity Channel" group-title="Documentary" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/XNBRF6VQ/curiosity-channel.png",CURIOSITY CHANNEL
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/CURIOSITYHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14402e6154aafa2b79408ea5c1651b1c:6a38619d21191891d09b357a6b1cabd1
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" group-title="Documentary" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/160/160/0/0/16627153073621.png",History 2
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/HISTORY2HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1264e3667616b52060028be25404d6a4:470720a6152157a5d3c5de89de1b909c
+#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Documentary" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/9019422407178.png",History
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HISTORYCHANNELHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=157c0fb2bfdc323521d52ab43b7fa131:6c4af37b6abc72cbcd91aa7716968336
+#EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" group-title="Documentary" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/160/160/0/0/83674247072710.png",Nat Geo
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/NATGEOHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6a1dfce06caf463d29b91fc890baad1:4ce50c2ee03a4fbec5ddbf57bc8e6c8b
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" group-title="Documentary" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/160/160/0/0/9654717907493.png",Discovery Science
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERYSCIENCEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f2c6d8a46280fe52bf23c5eff6b9abc:85f45d230efd697375da7b373e682053
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" group-title="Documentary" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/160/160/0/0/24951383073066.png",Discovery Channel
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/DISCOVERYCHANNELHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=80833609a69c8647766a2de347512f92:039c1884003d62b4fb55babf944e1523
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="Documentary" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png",Animal Planet
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/ANIMALPLANETHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6fa84513dfc29251a24917125905d8b:54124304e26cb27f4d0f51b126829e30
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" group-title="Documentary" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/160/160/0/0/72670030071181.png",Discovery Theater
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/DISCOVERYTHEATERHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8509b92b026e55436652236929b271c6:8375e666c0d128cb323250020d96787e
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" group-title="Religious" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/26SJZqG1/ewtn.png",EWTN
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/EWTNSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c691321378ea03ffb80eabac9c699a6a:df65710d35c513c00cb3fd32938c274a
+#EXTINF:-1 tvg-id="Maria Vision" tvg-name="Maria Vision" group-title="Religious" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/c4gphnSY/mariavision.png",Maria Visión
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/MARIAVISIONHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2999b4ceb2573173af94a711b4a8dfb1:7ce7a687e83196c9a1cdf7f50f2f58d5
+#EXTINF:-1 tvg-id="Enlace" tvg-name="Enlace" group-title="Religious" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/MKQLVJ7m/enlace.png",Enlace
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/ENLACESD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9eb860c8dcbac33f1bf8b1fc4446826:a1b54f5546a6c92955cadc7539bdaece
+#EXTINF:-1 tvg-id="ESNE TV" tvg-name="ESNE TV" group-title="Religious" tvg-language="Spanish" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png",ESNE TV
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/ESNEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=97cfeda35c2f42d6c2be729ea2945b12:59c1f3c384bd0a25e817539d5fe6e24b
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png",AMC
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/AMCHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7f17a97ad60b44791b59611754cee68:6aaa00f8c250cf28a10ce84b8748ea94
+#EXTINF:-1 tvg-id="AMC Series" tvg-name="AMC Series" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/RhyGzGT1/amc-series.png",AMC SERIES
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/AMC-SERIES-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c86a2c9cca0c05c04dbc49c06561c033:b6b00e852c2e160bd3ed1f0dd797883a
+#EXTINF:-1 tvg-id="Atrescine" tvg-name="Atrescine" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/029rW9hw/a3cine.png",Atrescine
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/A3CINEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ec74612833c48e4e2bf730aef0f92a5:bf851c48ef13fde3aa7ce6183fb5f861
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="Atreseries" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.ibb.co/4R0WQfr/a3s.png",Atreseries
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/ATRESSERIESHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=976d703cb95202a808972c722544fae1:562775b170402c6e2309ff69b9e48e82
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png",AXN
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/AXNHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e87d24ed7b54576895548ffa65eab1d:1e5d7c9e67248af38e48ec56d2241507
+#EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/160/160/0/0/53485573073445.png",Cinecanal
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/CINECANALHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/160/160/0/0/60951863073142.png",Cinemax
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/CINEMAXHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=208012d154bf5128dc04433c22e00698:d17913671a71821ed7e4c4937cd2fba5
+#EXTINF:-1 tvg-id="De Pelicula" tvg-name="De Pelicula" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.ibb.co/DCxcBBw/DPel-cula-2021.png",De Película
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/DEPELICULASD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=70a3ab1ea3c45dd570da2a660ae5eeda:0a9db0e08d0b737e6a64ecaed525d4cb
+#EXTINF:-1 tvg-id="De Pelicula Plus" tvg-name="De Pelicula Plus" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.ibb.co/dkrqJF6/DPel-cula-Plus-2021.png",De Película Plus
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/DEPELICULAHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=23ca6a142d580eb99bd14dda4b023b5d:d0534260b536e85d76efe8576afcf473
+#EXTINF:-1 tvg-id="Europa Europa" tvg-name="Europa Europa" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/160/160/0/0/8622092407184.png",Europa Europa
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/EUROPAHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31107b01ab02c96457fe0a000f3e0569:c024c45d71db474d2fa121729e596ca8
+#EXTINF:-1 tvg-id="Film & Arts" tvg-name="Film & Arts" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/286/CH_LOGO/160/160/0/0/801518560763.png",Film & Arts
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/FILMANDARTSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc0e4c7dfb10d483357572000180cca5:247351382fcd721f2872c4bda15c5245
+#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.ibb.co/s1yPj71/worldtv2.png",Golden
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/GOLDENSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98aa90cb620b972a0d0d66a51cdaca56:6e8bd53378356ed7f5103d91efb5e54e
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/160/160/0/0/86179590071069.png",Golden Edge
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/GOLDENEDGESD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f23601997bc024ea96b6b9d1e2b8b3fc:521a2cfdd3f649a9543422dc41fa4ca0
+#EXTINF:-1 tvg-id="Golden Multiplex" tvg-name="Golden Multiplex" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.ibb.co/BTjfF3p/golden-multiplex.png",Golden Multiplex
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/GOLDENMULTIPLEX/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3555824ee6a09d671a2362f37f5a39b9:f240e5b5e8a27ca8550f23a553451a90
+#EXTINF:-1 tvg-id="Golden Plus" tvg-name="Golden Plus" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/L4QXnxHV/golden-plus.png",Golden Plus
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/GOLDENPLUSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34fa35c8323c11cbb83cb381be55bd64:02ccc6ae07d997bdbd8b97865d69bb35
+#EXTINF:-1 tvg-id="Golden Premier" tvg-name="Golden Premier" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.ibb.co/6D60Brn/golden-premier.png",Golden Premier
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/GOLDENPREMIERHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=717324c2c4e6694baddacfd5fbd3a20f:aacbecfb7f1da441a420a582400102da
+#EXTINF:-1 tvg-id="Golden Premier 2" tvg-name="Golden Premier 2" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/VNtM3ncN/golden-premier-2.png",Golden Premier 2
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/GOLDENPREMIER2HRHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90cc957ead3f42e98b46d14e8c4b08de:3ab7cff1e63b9efc40aa962023b4b6b8
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/318/CH_LOGO/160/160/0/0/87610940072910.png",Paramount
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/PARAMOUNTHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6c0b2a5a6d7aa72f6f76f3607364cea:29772b450393146e8d1b56107f5163a2
+#EXTINF:-1 tvg-id="Sony Movies" tvg-name="Sony Movies" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png",Sony Movies
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/SONYMOVIESHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f667f1e6db8de6ac2ce1b710866aeff:c8ea6e60d50c6fe170e46da019d59910
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png",TCM
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/TCMSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=37971d47c9e64d7584058efcfdc424b3:9944ecda48ef3d6325ccf89ab32bef83
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/NfbJwMbX/tnt-us.png",TNT
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/TNTHDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=840bcd9ffdd5721c40b0ade4d9b68246:d19d330de1f428d1902bc1629a65c0bf
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png",Universal Channel
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/UNIVERSALCHANNELHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea39b9575f51b840a58bda829f20f38d:9c200a2b120d45e60af506be1d7ad932
+#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" group-title="News" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/y8MvD0ZK/n-foro.png",🇲🇽 MX 📰 NOTICIAS
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/FOROTVHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=177ec8d93674c51229b3335b72098ea9:22931411cb487063a6e2152d0c4d4957
+#EXTINF:-1 tvg-id="Justicia TV" tvg-name="Justicia TV" group-title="News" tvg-language="Spanish" tvg-logo="https://i.ibb.co/whPvHxX/3626d49a5e434361b8eb122489c8ce98636983655181769832.png",JUSTICIA TV
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/JUSTICIATVHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5ab4774832590830c6be4a475500e5f:37df095b1a36b2abd451f69c32aa7950
+#EXTINF:-1 tvg-id="Canal del Congreso" tvg-name="Canal del Congreso" group-title="News" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/sxHqYN0m/canal-del-congreso-mx.png",CANAL DEL CONGRESO
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/CONGRESOSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=922fef39d0bf506b6c396b203a68f2e6:36217e83831157ee0bb1259653267dbf
+#EXTINF:-1 tvg-id="Congreso Diputados" tvg-name="Congreso Diputados" group-title="News" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/sxHqYN0m/canal-del-congreso-mx.png",CONGRESO DIPUTADOS
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CONGRESO-DIPUTADOS-SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a40798b3abd4c1585c22e541cb1b861:96da70a9b8a3d6615da7c11ab757eb03
+#EXTINF:-1 tvg-id="Congreso Senadores" tvg-name="Congreso Senadores" group-title="News" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/sxHqYN0m/canal-del-congreso-mx.png",CONGRESO SENADORES
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CONGRESO-SENADORES-SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bf657922964e875948afeaf853954fb:55d2a15c10a60093a350a56389879542
+#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40" group-title="News" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/N0wjmXFk/adn-noticias.png",ADN NOTICIAS
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/ADN-40-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2bffcbe59cee9f1021da53b96dc6e2c:8cbdc79e0a64dd8d1c3b7ea85830bd10
+#EXTINF:-1 tvg-id="Milenio" tvg-name="Milenio" group-title="News" tvg-language="Spanish" tvg-logo="https://i.ibb.co/0r6Jrvt/Milenio-Television-800x774-550161954.png",MILENIO TELEVISIÓN
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/MILENIOHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=035f5e36204b8e090df82082b705c530:bdbfd983b29638bb163f1b38e8f302f9
+#EXTINF:-1 tvg-id="Mexiquense TV" tvg-name="Mexiquense TV" group-title="General" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png",MEXIQUENSE TELEVISIÓN
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/TELEVISION-MEXIQUENSE-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c49501c4b1cefd7b0a92935ce1b20be8:1664d2cc6280dd0f268d2d3f28c76665
+#EXTINF:-1 tvg-id="Teleformula" tvg-name="Teleformula" group-title="News" tvg-language="Spanish" tvg-logo="https://i.ibb.co/f8LZxLV/teleformula.png",TELEFÓRMULA
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/TELEFORMULASD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3c97fa71d06d0cd4049185c473ec7dd:24da4b34a7ae12920a95ebdccd883e54
+#EXTINF:-1 tvg-id="El Financiero" tvg-name="El Financiero" group-title="News" tvg-language="Spanish" tvg-logo="https://i.ibb.co/VMSkw3t/mx-el-financiero-bloomberg-m.png",EL FINANCIERO BLOOMBERG TV
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/ELFINANCIEROHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa611985e0c890fdf50d5c6ed88ad0c0:61dc9d01e315bf46ee43bc9fe882ebd8
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" group-title="News" tvg-language="English" tvg-logo="https://i.postimg.cc/fTjBQFvr/fox-news.png",FOX NEWS
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/FOXNEWSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83b70dd2efb59c4afc82f6291057560d:e6ee9459151ac38d37cfc3ca1a424440
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" group-title="News" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/HL5mpdPg/24h-es.png",24 HORAS ESPAÑA
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/24HRSSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5ce2ebf78e87ef684172c4e42184151:d03f84f0e28f29964cdbc29fb01b0703
+#EXTINF:-1 tvg-id="DW Espanol" tvg-name="DW Espanol" group-title="News" tvg-language="Spanish" tvg-logo="https://i.ibb.co/51RdkY3/Deutsche-Welle-symbol-2012-svg.png",DW Español
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/DWLATINOSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bd86ae97ac5a7edf7a1ef9139762b49:d6353a9dd90d4e2cfac596ad238339af
+#EXTINF:-1 tvg-id="DW English" tvg-name="DW English" group-title="News" tvg-language="English" tvg-logo="https://i.ibb.co/51RdkY3/Deutsche-Welle-symbol-2012-svg.png",DW English
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/DWENGLISHSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3a704793810e4848980bf8ebe11ba72:8a761310bfa7436136729b23ea590185
+#EXTINF:-1 tvg-id="CNN en Espanol" tvg-name="CNN en Espanol" group-title="News" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png",CNN EN ESPAÑOL
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/CNNENESPANOLSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3b827c857110fd3de6161416854eabd:3ed74ba1f566d0217dc1a59ba9d61918
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" group-title="News" tvg-language="English" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/160/160/0/0/120048070713.png",CNN INTERNACIONAL
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/CNNISD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=daf03fe2327a7ba87a60b54ac531bc75:040019dfecbe32c0532bb2231665ec33
+#EXTINF:-1 tvg-id="CNN Headline News" tvg-name="CNN Headline News" group-title="News" tvg-language="English" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/160/160/0/0/120048070713.png",CNN Headline News
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/HLNSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4514db2f0b4864f56dbf8b14bcdd4022:6cc79244441f942839b867572702364e
+#EXTINF:-1 tvg-id="CNN HD" tvg-name="CNN HD" group-title="News" tvg-language="English" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/160/160/0/0/120048070713.png",CNN HD
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/CNNHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=467298f399dca8777774a9cb49094ffe:ddfdd52d68df9f18c82d579326c9cfcb
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" group-title="News" tvg-language="English" tvg-logo="https://i.ibb.co/g7qY9zb/BBC-World-News-2022-Boxed-svg.png",BBC WORLD NEWS
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/BBCWORLDNEWSSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=78a32d175d51482212df6579689158dd:22ad71362cd83d57e9f806506abd20d2
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" group-title="News" tvg-language="English" tvg-logo="https://i.postimg.cc/KvGQzt42/cnbc.png",CNBC
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/CNBCHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba7146a3064f23e9f34a76096509d664:604e9a361c3f7033d930c34ff4d3d830
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" group-title="News" tvg-language="English" tvg-logo="https://i.ibb.co/rd1hyxr/Aljazeera.png",AL JAZEERA
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/ALJAZEERAHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b948db41702afa5e6646243e57b43def:168d105c8ac7654667c37b576d0bc7c3
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" group-title="News" tvg-language="Spanish" tvg-logo="https://i.ibb.co/PcfGNzM/Euronews-2016-alternative-logo.png",EURONEWS
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/EURONEWSSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=024bb38ecf7831a54d6ff8eb9d9c5e6a:031599eff8092a9a9428363fb4356d53
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" group-title="General" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png",TELEFE
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TELEFEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87234ef8a0328b000941fd18bd75d78e:2bbbeb8783509a4e77e3b79cd7b1869f
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" group-title="General" tvg-language="Spanish" tvg-logo="https://i.ibb.co/CQcfLjk/telemundo-internacional.png",TELEMUNDO INTERNACIONAL
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/TELEMUNDOHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcfe92161ae5c20d6ffec80cbad9f74b:6e74e556df5223c5a5102d4846b5670a
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" group-title="General" tvg-language="Spanish" tvg-logo="https://i.ibb.co/bRbxkWF/antena3-int.png",ANTENA 3 INTERNACIONAL
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/ANTENA3HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65b6395665d92c16e12f202c9480c425:eda358f71a474029f1580327ae6766e1
+#EXTINF:-1 tvg-id="Rai Italia" tvg-name="Rai Italia" group-title="International" tvg-language="Italian" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png",RAI ITALIA
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/RAIHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb80d09d70628c20bb91cf65a195e1f9:6115b75f155d1a7a686a525fbd6ca2f6
+#EXTINF:-1 tvg-id="TV5Monde" tvg-name="TV5Monde" group-title="International" tvg-language="French" tvg-logo="https://i.ibb.co/SPrZCLK/tv5monde.png",TV5MONDE AMÉRIQUE LATINE
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/TV5SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=29852829d373dfb35df80c5fa1d9bff0:ceb31ec6a6d90090f490b54f524a27b4
+#EXTINF:-1 tvg-id="TV Globo" tvg-name="TV Globo" group-title="International" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/S5V0kxb/tv-globo.png",TV GLOBO
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/TVGLOBOSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=246d0b7d6918c716c74398718df8b380:0d61192c2a9439439c80e27f9fde622f
+#EXTINF:-1 tvg-id="TV Galicia" tvg-name="TV Galicia" group-title="International" tvg-language="Spanish" tvg-logo="https://i.ibb.co/k0zYnm2/tv-galicia.png",TV GALICIA
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/TVGALICIASD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ce0d00cf2a4eb71e1f70f06e2b7d3d4:ceb983f224593c2fbc75a75a6ec92c06
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" group-title="International" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/330px-NHK_World.svg.png",NHK WORLD JAPAN
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/NHKHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=baef272fb12886463f3b299ac6b4ffa6:bc285ae166674480abb4966f4a306327
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/160/160/0/0/95118087071584.png?worldtv2",A&E
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/AANDEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=694fa2e355b31ac2c52d0a56d3d8da59:0d7eff2e4dc61d48489555068b0db46a
+#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/160/160/0/0/32013737078382.png?worldtv2",Adult Swim
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/ADULTSWIMHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d014b4c7f22d490f56e2d7d3fe125c15:69864ad4b98d06e9fcf2430ed67b6c33
+#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" group-title="Music" tvg-language="Spanish" tvg-logo="https://i.ibb.co/0D7TMmZ/Bandamax.png",Bandamax
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/BANDAMAXHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7
+#EXTINF:-1 tvg-id="Bitme" tvg-name="Bitme" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/SKwKgsvt/bitme.png|WORLDTV2",Bitme
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/BITMEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f37a2c616a17358d8afda0326fbf7151:bdaad10dbfe10b082ee61bce67787e27
+#EXTINF:-1 tvg-id="Canal IZZI" tvg-name="Canal IZZI" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/jdNpPd0T/izzi.pngIworldtv2",Canal IZZI
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/CANALIZZISD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96f177548046a9f56bbb39a900a82ddd:96aa836072fd84c9a8e6219652330272
+#EXTINF:-1 tvg-id="Sky One" tvg-name="Sky One" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sky_One_-_Logo_2020_%28television_channel%29.png",SKY ONE
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/SKYONEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1da2977f5fed3acb602cc2c8b57c41c1:09aaed2aeee31130fa8f869faff25ee5
+#EXTINF:-1 tvg-id="Club MTV" tvg-name="Club MTV" group-title="Music" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/505px-Club_MTV_2021_logo.svg.png?worIdtv2",Club MTV
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/CLUBMTVSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a61b7a7912064acc62a06a6ae22ac5c:5bfb374d644703550f0637532bca0491
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/160/160/0/0/33860159072069.png?worldtv2",Comedy Central
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/COMEDYCENTRALHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0765f676e30b1b98386230b52eed3518:326266d16296e3bbe1dfcc274853dadb
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery H&H" group-title="Lifestyle" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/65/CH_LOGO/160/160/0/0/11000383072218.png?worldtv2",Discovery H&H
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/DISCOVERYHOMEANDHEALTHHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=42ca82249b49382dd7156dd18a292e8c:7c26bb855d762211182e7eac31376aee
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="Lifestyle" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/363/CH_LOGO/160/160/0/0/46230374071624.png?worldtv2",Discovery TLC
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TLCHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4bae4a7baa977c5b1a253adc589b6a7:ed5aa984b371395293b2c2a27125509c
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" group-title="Lifestyle" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/262/CH_LOGO/160/160/0/0/2118831607492.png?worldtv2",Discovery Turbo
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERYTURBOHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff9f289f4bad2b970deb5b9d56acb84a:8f920a61965245ffac8bb0c698845ff5
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" group-title="Documentary" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/160/160/0/0/24981309071389.png?worldtv2",Discovery World
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/DISCOVERYWORLDHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e69f7cb969df2eef1b60ddea0458bfef:12ec40e04cf8c533cf306321052726a8
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://i.ibb.co/B3vxym2/d-c.png",Distrito Comedia
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/DISTRITOCOMEDIAHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=66a5d89630a3e2263f63f42221a4f3e8:362b8d4aa289042e473ed064a722611b
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/632px-E%21_Logo.svg.png?worldtv2",E! Entertainment
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/EEntertainmentHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02eabf0cfdc063542f9983dbb2ee66d4:53d20cd604a274dd6f35fd17b9ea2e80
+#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" group-title="Lifestyle" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/160/160/0/0/15069203073244.png?worldtv2",El Gourmet
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/GOURMETHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=346785646e762ad867fb22f6fdaacc68:777670f96243bb2be7811505fba060f8
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" group-title="Lifestyle" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/86/CH_LOGO/160/160/0/0/90527363073450.png?worldtv2",Food Network
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/FOODNETHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce1ec3e2402a170cbe13b79ce9bb30f:82fdcfde32cc02673547e58b50e2b5ae
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png?worldtv2",FX
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/FXHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3324372c149efbd4755e94a5989f4eef:8ed2cae763c527146b490acb667e3221
+#EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" group-title="Lifestyle" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/mDhxYxG6/holatv.png",Hola TV
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/HOLATVHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85c7c015f980e9acc94f41b9c7e8822f:e0a810783bd43824ddd691f97c95d0fd
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Lifestyle" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png?worIdtv2",Home & Garden TV
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/DISCOVERYHOMEANDGARDENHDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb1b6838a477c3e4394534a93ddf5a0f:4b2f779b434b5ab8122da25294d3d7ea
+#EXTINF:-1 tvg-id="ID" tvg-name="ID" group-title="Documentary" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/160/160/0/0/6146615007111.png?worldtv2",Investigation Discovery
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/DISCOVERYIDHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6561801b75ab25819fc7ede365375df7:3555b344c54204d5f02a753d354d2f8c
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/313/CH_LOGO/160/160/0/0/30883628072788.png?worldtv2",Lifetime
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/LIFETIMEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b515c27589fda8f9607e7949697de6b3:27d2061c0972931e18d43fbb3301c6f0
+#EXTINF:-1 tvg-id="MTV 80s" tvg-name="MTV 80s" group-title="Music" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MTV_80s_2022.png/250px-MTV_80s_2022.png?worldtv2",MTV 80s
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTV80SSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53a3776a034dbe5f483d0f3a46f5fddf:db9d0d03592fbe9f4429ef1a82eb47aa
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s" group-title="Music" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png?worldtv2",MTV 00s
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/MTV00HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac11ba753fcabc56b965e1801ff8df19:64a7852cc7737515ac71c017f03fdd32
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="Music" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png?worldtv2",MTV
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/MTVHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b5868bc161634a033a19a20f3f3595d:b336c8c6bb249b1a5f89dace8d9889e5
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" group-title="Music" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/505px-MTV_Hits_2021.svg.png?worldtv2",MTV Hits
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTVHITSSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=acc4581a25ef0cd76f8fd7d826bb2d06:bc006e72e9aab57aca8ae75a83e8f20e
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" group-title="Music" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/864/CH_LOGO/160/160/0/0/71442745071244.png? worldtv2",MTV Live
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTVLIVEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47b8d1118047c47ff9d794fca6c9997a:97af829b2dd037fb85550b85b0757685
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png?worldtv 2",Sony
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/SONYHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png?worldtv 2",Space
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/SPACEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b482bd74b9fccb810bf94a3b3732c0f9:9207af2617ac4df3ee6860719a53eb8b
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png?worldtv 2",Star Channel
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/STARCHANNELHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0830fe96416ef7b9a523a825fe4e31d:5d67881a7ecc475a0677efa81cdf0027
+#EXTINF:-1 tvg-id="Star TVE" tvg-name="Star TVE" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png?worldtv2",Star TVE
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/STARHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=77b7711693a9f32c0bd81ef8782f716b:0802df5ea0615ca2638b3b38f9ab3926
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/160/160/0/0/223329100777.png?worldtv2",Studio Universal
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/STUDIOUNIVERSALHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ed36c5f7d0775e21f0748dd17520bc9:654256cc5939f6d502969b4fbbc47286
+#EXTINF:-1 tvg-id="Telehit" tvg-name="Telehit" group-title="Music" tvg-language="Spanish" tvg-logo="https://i.ibb.co/5Y4C401/telehit.png",Telehit
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/TELEHITSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7d810bd4b89d31487577fbef6b747a:1ab459db1bacf63917df0d35a1107c94
+#EXTINF:-1 tvg-id="Telehit Musica" tvg-name="Telehit Musica" group-title="Music" tvg-language="Spanish" tvg-logo="https://i.ibb.co/p4243Nf/Telehit-M-sica.png",Telehit Música
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/TELEHITMUSICASD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccb3e0cda334a12da75037444d0ccc83:291b1496e0900041f6a1d0e2aeb3314c
+#EXTINF:-1 tvg-id="Telehit Musica Plus" tvg-name="Telehit Musica Plus" group-title="Music" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/G36X3gB3/telehit-musica-plus.png",Telehit Música Plus
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/TELEHITMUSICAPLUSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cf2398fa903f300962a0771512a93f1:f345e1b35c357fa7137e7325059d95b1
+#EXTINF:-1 tvg-id="TeleRitmo" tvg-name="TeleRitmo" group-title="Music" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Teleritmo_2023.png/revision/latest/scale-to-width-down/241?cb=20250324000228",TeleRitmo
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TELERITMOHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=361d47939a32a35422d13728b7089728:1d26ccbbc3a3b1f3e3f7e4850a54c6f2
+#EXTINF:-1 tvg-id="TLNovelas" tvg-name="TLNovelas" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png?worldtv2",TLNovelas
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/TLNOVELASHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3f9a0375499c62b6f5ff778dc46bb43:c0d7bd6d44c2bd79e46e8dc22e53cceb
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/250px-TNT_Novelas_2025.svg.png?worldtv2",TNT Novelas
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TNTNOVELASHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c7c3c7a05812a5245d64c0eced08a41:e56c4dedfa6c51f617cc7c9d2d61f7a8
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/TNT_Series_2025.svg/revision/latest/scale-to-width-down/300?cb=20250918154553|worldtv2",TNT Series
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TNTSERIESHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f49c809a99d0454981ae6700d25ba0fb:1999b5fbfd058bc1a2acf3d3cdb7a78d
+#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://i.ibb.co/z2BBVfR/unicable.png",Unicable
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNICABLEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c760bcb13f83a8d66f4c676f04c23d81:e024f5099f059ce93607812e5b406360
+#EXTINF:-1 tvg-id="USA" tvg-name="USA" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/160/160/0/0/81694330078327.png|worldtv2",USA
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/USAHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
+#EXTINF:-1 tvg-id="Warner" tvg-name="Warner" group-title="Entertainment" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png?worldtv2",Warner
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/WARNERHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad326d130bed72124c4b653e07b9f1f3:5b961a4988db590fb83581ff4e2b66e7
+#EXTINF:-1 tvg-id="Viva Mexico" tvg-name="Viva Mexico" group-title="Music" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/K8zpfgqD/stingray-music.png",Viva México
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICVIVAMEXICO/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dda25299280daab5a0e8d786451ff577:3ecdc39590958dabf52b982c2bbd5a09
+#EXTINF:-1 tvg-id="Mariachi" tvg-name="Mariachi" group-title="Music" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/K8zpfgqD/stingray-music.png",Mariachi para siempre
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICMARIACHIPARASIEMPRE/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png",TUDN
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+#EXTINF:-1 tvg-id="LaLiga" tvg-name="LaLiga" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",LaLiga
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+#EXTINF:-1 tvg-id="Bundesliga" tvg-name="Bundesliga" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",Bundesliga
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b
+#EXTINF:-1 tvg-id="F1" tvg-name="F1" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",SKY Sports F1
+https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1HDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+#EXTINF:-1 tvg-id="Sky Sports" tvg-name="Sky Sports" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",SKY Sports
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+#EXTINF:-1 tvg-id="Sky Sports 2" tvg-name="Sky Sports 2" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",SKY Sports 2
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+#EXTINF:-1 tvg-id="Sky Evento 1" tvg-name="Sky Evento 1" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",SKY Evento 1
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+#EXTINF:-1 tvg-id="Sky Evento 2" tvg-name="Sky Evento 2" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",SKY Evento 2
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT2HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
+#EXTINF:-1 tvg-id="Sky Evento 3" tvg-name="Sky Evento 3" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",SKY Evento 3
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT3HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
+#EXTINF:-1 tvg-id="Sky Evento 4" tvg-name="Sky Evento 4" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",SKY Evento 4
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT4HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
+#EXTINF:-1 tvg-id="Sky Evento 5" tvg-name="Sky Evento 5" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",SKY Evento 5
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
+#EXTINF:-1 tvg-id="Sky Evento 6" tvg-name="Sky Evento 6" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",SKY Evento 6
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT6HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9e3024854648dd01714f781c1492c4c:9404541975d298f6787c591d2cc871b1
+#EXTINF:-1 tvg-id="Sky Evento 7" tvg-name="Sky Evento 7" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",SKY Evento 7
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53781c79161716b27ddfa70a8671cb9a:ec747fe222e238a6511202ce89a03df1
+#EXTINF:-1 tvg-id="Sky Evento 8" tvg-name="Sky Evento 8" group-title="Sports" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png",SKY Evento 8
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/v8rFtMbz/worldtv2.png",ESPN
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/mksxWpNC/worldtv2.png",ESPN 2
+https://nog-live1-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/1t6xT16y/worldtv2.png",ESPN 3
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/BvR9Mnjh/worldtv2.png",ESPN 4
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b142f14eb5a1359c05587bb46773e42:bf064a17f8400c697ad99c84ef232bb0
+#EXTINF:-1 tvg-id="Fox Sports Premium" tvg-name="Fox Sports Premium" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/Jz6WHqMC/worldtv2.png",FOX Sports Premium
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/FOXSPORTSPREMIUMHDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9970931d7a8d720333b8d3af89af42da:38c533f447c7eb4c176b2684cc3c76f1
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/wMXptYTw/worldtv2.png",FOX Sports
+https://nog-live1-ott.izzigo.tv/7/out/u/dash/FOXSPORTSHDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfaf8dcd06c9eba4c51f003a55fe71fa:061aae83fe54eb57e49ebee698f0aa6d
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/05DxXDd7/worldtv2.png",FOX Sports 2
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/FOXSPORTS2HDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8286375a3a61c1758e7628b7f6d2631b:a11c0a81c263f5b1f5dc5661865c0ff9
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/VkL8NTyF/worldtv2.png",FOX Sports 3
+https://nog-live1-ott.izzigo.tv/7/out/u/dash/FOXSPORTS3HDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6de0a66b528401c0378c559712f74643:f9a240cea75f585add8405375ad1d787
+#EXTINF:-1 tvg-id="Adrenalina" tvg-name="Adrenalina" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/d1zsk9RV/adrenalina-sports.png",Adrenalina Sports Network
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/ADRENALINAHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9213bfbf7c02e1beada75dbd389608a5:a8a48bd40a1a62e6258a85e683a7fa78
+#EXTINF:-1 tvg-id="LAS" tvg-name="LAS" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/d04XR4hZ/LAS.png",LATIN AMERICAN SPORTS
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/LATINAMERICANSPORTSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dbf14888bd99a7b01a3c9b0386c29ed:1ee5f6042b292cfb366e5b2ec27ecf22
+#EXTINF:-1 tvg-id="Beisbol Latino" tvg-name="Beisbol Latino" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/xTv0gvcN/beisbol-tv.png",BEISBOL LATINO
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/BEISBOL-LATINO-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3377df9a3e3ce7735793541deb49657a:df55b7df0f5d3fdb34ff56977aa7339d
+#EXTINF:-1 tvg-id="Basket Americas" tvg-name="Basket Americas" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/RV1z61L7/basket-americas.png",BASKET AMERICAS
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/BASKET-AMERICAS-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d82fc67b0ad0eac6a3f5cadc6e515796:c9bb81474744fd82c379427312895636
+#EXTINF:-1 tvg-id="CombaTV" tvg-name="CombaTV" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/BQz9DWMp/comba-tv.png",COMBATV
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/COMBATV-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f545b12ce0f263324e4c544e1db07f22:36f0870c64125268785f692c98aa12cf
+#EXTINF:-1 tvg-id="ITV Deportes" tvg-name="ITV Deportes" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/wj9JhPMt/itv-deportes.png",ITV DEPORTES
+https://nog-live1-ott.izzigo.tv/8/out/u/dash/ITV-DEPORTES-HD-H265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2966ad533e52a19c3ded1c7b9e40370:2e0bb20e3edb3ce7fc0d616b3ff28748
+#EXTINF:-1 tvg-id="Hi Sports" tvg-name="Hi Sports" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/NFQPXpQy/hi-sports.png",Hi Sports
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/HISPORTSSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=12134b1ade9e2c55be144a1216e8e5fa:10c49aabd94518ccd4b8c3f7fd2bacdb
+#EXTINF:-1 tvg-id="Mexico Al Aire Libre" tvg-name="Mexico Al Aire Libre" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/SxR2fTMj/mx-al-aire-libre.webp",MEXICO AL AIRE LIBRE
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/MEXICO-AL-AIRE-LIBRE-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd45f6a37a3887044bac88a63e55b70e:2dff34fba01dd53d0a37dc913bb9ba51
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" group-title="Sports" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png|worldtv2",Golf Channel
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/GOLFCHANNELHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c53466401bf1c02903470cf41d01b6e:90898b3079182c414ecc104ff53dc9b7
+#EXTINF:-1 tvg-id="PX Sports" tvg-name="PX Sports" group-title="Sports" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/160/160/0/0/70671934073582.png|worldtv2",PX Sports
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/PXSPORTSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08f8fb6d69482c151f73dd8461dca352:8aea016cd974cb95e8bf030b196f4818
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" group-title="Sports" tvg-language="English" tvg-logo="https://i.ibb.co/82QvHTH/ar-nba-tv.png",NBA TV
+https://nog-live1-ott.izzigo.tv/7/out/u/dash/NBAHDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=812232ec802794f7f0aedfdd82bb13d2:3c6a93ae956f0fc504b62983db808bad
+#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" group-title="Sports" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",NFL Network
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/NFLHDH265/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=77e93f69c2d4c23e2cf8dc9e892f4ac7:71a786d7774d6df4487494145db485a4
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" group-title="Sports" tvg-language="Spanish" tvg-logo="https://i.ibb.co/whKbypH/real-madrid-tv.png",Real Madrid TV
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/REALMADRIDHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:1b87070d9fad5dee0a35ff014a2063a7
+#EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png",PACK PREMIUM UNIVERSAL+
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCINEMAHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
+#EXTINF:-1 tvg-id="Universal Comedy" tvg-name="Universal Comedy" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png",Universal Comedy
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCOMEDYHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a908a5d38a9c496ced27faa6bf5ff8e:85a5835a92bd7f87faf5ffbcb8814d33
+#EXTINF:-1 tvg-id="Universal Crime" tvg-name="Universal Crime" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png",Universal Crime
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCRIMEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
+#EXTINF:-1 tvg-id="Universal Premiere" tvg-name="Universal Premiere" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png",Universal Premiere
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALPREMIEREHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc
+#EXTINF:-1 tvg-id="Universal Reality" tvg-name="Universal Reality" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png",Universal Reality
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALREALITYHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.ibb.co/VjjgVWW/hbo.png",HBO
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" group-title="Movies" tvg-language="Spanish" tvg-logo="https://i.ibb.co/mRXxtcT/hbo2.png",HBO 2
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBO2HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png",HBO Family
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOFAMILYHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba4052ca5eb6f8ff6b98d47d098b2dec:bb3e4bfa1821d2bdc25c9a0970e4e3b8
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png",HBO Mundi
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOMUNDIHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png",HBO Plus
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOPLUSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/160/160/0/0/68908128073927.png",HBO Pop
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOPOPHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5782156290f035ef28ae66cca252eedd:10d8bb6d9f9852747298487ab3c4afa3
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png",HBO Signature
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOSIGNATUREHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme" group-title="Movies" tvg-language="Spanish" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png",HBO Xtreme
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv

@@ -1,0 +1,845 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="36" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000043.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Dangal
+https://mumt01.tangotv.in/DANGAL/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3847" tvg-logo="https://core.freetvindia.com/media/Shemaroo_TV_6RRpF5Z.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Shemaroo TV
+https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3884" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000111.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Dangal 2
+https://mumt03.tangotv.in/DANGAL2/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3921" tvg-logo="https://core.freetvindia.com/media/Shemaroo_Umang.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Shemaroo Umang
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="21436" tvg-logo="https://core.freetvindia.com/media/channels/NazaraTv.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Nazara TV
+https://mumt03.tangotv.in/NAZARA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3958" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000115.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", The Q
+https://mumt05.tangotv.in/THEQ/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4143" tvg-logo="https://core.freetvindia.com/media/channels/shemaroo_josh.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Shemaroo JOSH
+https://mumt04.tangotv.in/Shemaroojosh/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4180" tvg-logo="https://core.freetvindia.com/media/UniqueTV.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Unique TV
+https://mumt05.tangotv.in/UNIQUETV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4217" tvg-logo="https://core.freetvindia.com/media/pasandtv_logos.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Pasand TV
+https://mumt01.tangotv.in/PASANDTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3995" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000351.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", DD National HD
+https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="28135" tvg-logo="https://core.freetvindia.com/media/channels/Manoranjan_TV.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Manoranjan TV
+https://cdn-1.pishow.tv/live/1013/master.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4032" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000109.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Manoranjan Grand
+https://mumt02.tangotv.in/MANORANJANGRAND/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4069" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000140.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Anjan TV
+https://mumt02.tangotv.in/ANJANTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4106" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000487.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Manoranjan Prime
+https://mumt02.tangotv.in/MANORANJANPRIME/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="28177" tvg-logo="https://core.freetvindia.com/media/channels/Abzy_Dhakad.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", ABZY Dhakad
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4254" tvg-logo="https://core.freetvindia.com/media/gangourtv.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Gangaur
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/3a2f587c-8163-4acd-b5b1-ab20be368c33/1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7325" tvg-logo="https://core.freetvindia.com/media/padharosa.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", Padharo SA - Rajasthani
+https://mumt03.tangotv.in/PADHAROSA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4328" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000637.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Movies", All Time Movies
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4402" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000604.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Movies", Goldmines Movies
+https://mumt04.tangotv.in/GOLDMINEMOVIES/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4513" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000005.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Movies", B4U Kadak
+https://mumt02.tangotv.in/B4UKADAK/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4439" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000243.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Movies", Goldmines
+https://mumt04.tangotv.in/GOLDMINES/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4550" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000001.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Movies", B4U Movies
+https://mumt02.tangotv.in/B4UMOVIES/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4476" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000658.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Movies", Goldmines bollywood
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12468" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000259.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", MH One
+https://mumt04.tangotv.in/MHONE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4291" tvg-logo="https://core.freetvindia.com/media/FreeTV_India_Talkies.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Movies", India Talkies
+https://mumt01.tangotv.in/INDIATALKIES/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="28261" tvg-logo="https://core.freetvindia.com/media/channels/ABZY_Movies.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Movies", ABZY Movies
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64704954e536e0faaf10be9f/variant.m3u8?x-plex-token=9skbNquVhuFytKYKxZ9h&x-plex-advertising-identifier=&x-plex-client-identifier=e87b8287-e59a-4325-a53f-e2c6d7c34979&x-plex-playback-id=p_6e81b63b-3b35-4354-be45-6522adf5df0f&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=143.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1767180047&url=63e77f18c2a1a16887c1de6b74e202c7-07f20ed8be2451c769d68c8a9e6bdbff5da4bc317ef5a67dabbcd50baf5708248a1f06424b5c475467af4acdfd8baac019119e5f5e50de07d91ba655145ecda0afd61ba099de98d8db01f13ded90ea7aa17bdb69c9485958e8ebc2d75107dd759643ca776001d45d96958deee32490948665530acac82d135efe6220366e69fc21105a2ef8959522a6cbca7739198e09bf5815603dca4d163753eae2a1648c62ddfead05322cfcae64acadda5a3b8c235ec452b319de854fa2d14439fa3f5bc5da2484046f81316ef02d3ade520c218a&_gl=1*gyapcb*_gcl_au*MTc0MDU2NjA2My4xNzY3MTgwMDQ0*_ga*NjcyMjc5MjMwLjE3NjcxODAwNDQ.*_ga_G6FQWNSENB*czE3NjcxODAwNDQkbzEkZzAkdDE3NjcxODAwNDUkajU5JGwwJGgw|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4735" tvg-logo="https://core.freetvindia.com/media/Manoranjan_movies.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Movies", Manoranjan Movies
+https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4698" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000463.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Movies", Maha Movie
+https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4661" tvg-logo="https://core.freetvindia.com/media/wow_cinemaone.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Movies", Wow Cinema One
+https://mumt02.tangotv.in/WOWCINEMAONE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4772" tvg-logo="https://core.freetvindia.com/media/music_india.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Music", Music India
+https://mumt05.tangotv.in/MUSICINDIA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4809" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000092.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Music", 9XM
+https://mumt01.tangotv.in/9XM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4846" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000045.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Music", Mastiii
+https://mumt02.tangotv.in/MASTIII/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4883" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000103.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Music", 9X Jalwa
+https://mumt03.tangotv.in/9XJALWA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="21398" tvg-logo="https://core.freetvindia.com/media/channels/Show_Box.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Music", Show Box
+https://epiconvh.akamaized.net/live/showbox/master_1080.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4920" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000002.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Music", E24
+https://mumt04.tangotv.in/E24/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4957" tvg-logo="https://core.freetvindia.com/media/9005123451000055_PM1LSJ7.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Music", B4U Music
+https://mumt04.tangotv.in/B4UMUSIC/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="4994" tvg-logo="https://core.freetvindia.com/media/Hindihits_FW.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Music", Hindi Hits
+https://mumt01.tangotv.in/HINDIHITS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5031" tvg-logo="https://core.freetvindia.com/media/Evergreenhits_FW.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Music", Evergreen Hits
+https://mumt02.tangotv.in/EVERGREENHITS2/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5068" tvg-logo="https://core.freetvindia.com/media/Melodyhits_FW.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Music", Melody Hits
+https://mumt03.tangotv.in/MELODYHITS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5105" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000362.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Music", Insync
+https://mumt04.tangotv.in/INSYNC/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5179" tvg-logo="https://core.freetvindia.com/media/Aaj_tak_news.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5253" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000015.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", TV9 Bharatvarsh
+https://mumt01.tangotv.in/TV9BHARATVARSH/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6178" tvg-logo="https://core.freetvindia.com/media/Z_News.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5216" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000013.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Republic Bharat
+https://mumt02.tangotv.in/REPUBLICBHARAT/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5364" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000024.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5290" tvg-logo="https://core.freetvindia.com/media/ABP_NEWS_HINDI.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", ABP News
+https://mumt04.tangotv.in/ABPNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5438" tvg-logo="https://core.freetvindia.com/media/NDTV_india.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", NDTV India
+https://mumt03.tangotv.in/NDTVINDIA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7362" tvg-logo="https://core.freetvindia.com/media/Z_Business.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Zee Business
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6252" tvg-logo="https://core.freetvindia.com/media/CNBC_Awaj.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", CNBC TV Awaaz
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6289" tvg-logo="https://core.freetvindia.com/media/ETnow_Swadesh.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", ET Now Swadesh
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="37887" tvg-logo="https://core.freetvindia.com/media/channels/media9.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Media9 News
+http://tv.media9news.com:8080/hls/media9.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5327" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000020.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", News Nation
+https://mumt03.tangotv.in/NEWSNATION/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5142" tvg-logo="https://core.freetvindia.com/media/Timesnow_navbharat.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Times Now Navbharat
+https://mumt03.tangotv.in/TIMESNOWNAVBHARAT/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5549" tvg-logo="https://core.freetvindia.com/media/news24.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", News24
+https://freetv.tangotv.in/sdscoder/News24/video.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6215" tvg-logo="https://core.freetvindia.com/media/zee_hindustan.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Zee Bharat
+https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5623" tvg-logo="https://core.freetvindia.com/media/gnt.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Good News Today
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5771" tvg-logo="https://core.freetvindia.com/media/Bharat_Express.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Bharat Express
+https://mumt02.tangotv.in/BHARATEXPRESS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5808" tvg-logo="https://core.freetvindia.com/media/bharat_samachar.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Bharat Samachar
+https://mumt03.tangotv.in/BHARATSAMACHAR/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5475" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000352.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", DD News
+https://mumt04.tangotv.in/DDNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="21474" tvg-logo="https://core.freetvindia.com/media/channels/MKN_NEWS_hindi.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", MKN News
+https://5dd3981940faa.streamlock.net/mknnews/mknnews/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="27946" tvg-logo="https://core.freetvindia.com/media/channels/India_Ahead.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", India Ahead
+https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5697" tvg-logo="https://core.freetvindia.com/media/Sansadtv_hd1.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Sansad TV HD 1
+https://mumt04.tangotv.in/SANSADTVHD1/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5660" tvg-logo="https://core.freetvindia.com/media/Sansadtv_hd2.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Sansad TV HD 2
+https://mumt04.tangotv.in/SANSADTVHD2/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5401" tvg-logo="https://core.freetvindia.com/media/indiatv_speed_news.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", India TV Speed News
+https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chunklist_0.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5512" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000087.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Sudarshan News
+https://mumt04.tangotv.in/SUDARSHANNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5586" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000375.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Bharat 24
+https://mumt02.tangotv.in/BHARAT24/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5734" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000262.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", APN
+https://mumt01.tangotv.in/APN/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5845" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000081.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Hindi Khabar
+https://mumt04.tangotv.in/HINDIKHABAR/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5882" tvg-logo="https://core.freetvindia.com/media/khabre_abhi_tak.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Khabrain Abhi Tak
+https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5919" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000104.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Network 10
+https://mumt01.tangotv.in/NETWORK10/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5956" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000122.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", News 1 India
+https://mumt02.tangotv.in/NEWS1INDIA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="5993" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000098.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", News 11 Bharat
+https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6030" tvg-logo="https://core.freetvindia.com/media/Jantantra_tv.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Jantantra
+https://mumt05.tangotv.in/JANTANTRA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6067" tvg-logo="https://core.freetvindia.com/media/Rajya_24_1.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Rajya 24 News
+https://itassist.one/rajya24news/rajya24/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6104" tvg-logo="https://core.freetvindia.com/media/india24x7.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", India 24X7
+https://itassist.one/livetv/india24x7/video.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6141" tvg-logo="https://core.freetvindia.com/media/samrattv.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Samrat TV
+https://itassist.one/LIVEOTT/kahbar24x7/video.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6326" tvg-logo="https://core.freetvindia.com/media/DD_Madhyapradesh.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", DD Madhya Pradesh
+https://mumt04.tangotv.in/DDMADHYAPRADESH/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6363" tvg-logo="https://core.freetvindia.com/media/NDTV_MP_Chhatishgarh.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", NDTV MPCG
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6400" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000004.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", News24 MP/CG
+https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7177" tvg-logo="https://core.freetvindia.com/media/News_State_MPCG.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", News State MP & CHG
+https://mumt01.tangotv.in/NEWSSTATEMPCG/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6696" tvg-logo="https://core.freetvindia.com/media/Sadhna_News_MPRAJ.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Sadhna News MP
+https://mumt04.tangotv.in/SADHNEWSPMRAJ/video.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6437" tvg-logo="https://core.freetvindia.com/media/DD_Uttrarpradesh.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", DD Uttar Pradesh
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/0d978355-5b3c-4a2b-8fa9-32423aec9f3a/2.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="48720" tvg-logo="https://core.freetvindia.com/media/channels/DD_Utrakhand.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", DD Utrakhand
+https://mumt03.tangotv.in/DDUTTRAKHAND/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6548" tvg-logo="https://core.freetvindia.com/media/DD_Bihar.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", DD Bihar
+https://mumt03.tangotv.in/DDBIHAR/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6474" tvg-logo="https://core.freetvindia.com/media/DD_Rajasthan.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", DD Rajasthan
+https://mumt05.tangotv.in/DDRAJASTHAN/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6511" tvg-logo="https://core.freetvindia.com/media/NDTV_Rajasthan.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", NDTV Rajasthan
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/chunklist_3.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="28303" tvg-logo="https://core.freetvindia.com/media/channels/India_News_Rajasthan.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", India News Rajasthan
+https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="28345" tvg-logo="https://core.freetvindia.com/media/channels/Jan_TV.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", JAN TV
+https://mumt03.tangotv.in/JANTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6918" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000535.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", 1st India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6622" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000405.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Bansal News
+https://mumt02.tangotv.in/BANSALNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6659" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000189.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Sadhana Plus News
+https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="28471" tvg-logo="https://core.freetvindia.com/media/channels/swaraj_Express_SMBC.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Swaraj Express SMBC
+https://cdn-2.pishow.tv/live/477/master.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6733" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000391.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Total TV
+https://mumt04.tangotv.in/TOTALTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="63255" tvg-logo="https://core.freetvindia.com/media/channels/zee_chhatishgarh.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Zee Chhatishgarh
+https://mumt02.tangotv.in/Zeechhatishgarh/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6770" tvg-logo="https://core.freetvindia.com/media/tv24_live.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", TV 24
+https://mumt01.tangotv.in/TV24/index.m3u8?filter.tracks=v1a1|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6807" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000220.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", BS TV
+https://mumt02.tangotv.in/BSTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6844" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000101.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Ind 24
+https://mumt02.tangotv.in/IND24/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="28513" tvg-logo="https://core.freetvindia.com/media/channels/in24_News.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", In 24 News
+https://server.livelegitpro.in/in24news/in24news/index.fmp4.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6881" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000384.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Raftaar Media
+https://mumt04.tangotv.in/RAFTAARMEDIA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6955" tvg-logo="https://core.freetvindia.com/media/ANB_NEWS.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", ANB News National
+https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="6992" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000494.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Har Khabar
+https://mumt01.tangotv.in/HARKHABAR/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7029" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000495.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", News Hour
+https://mumt02.tangotv.in/NEWSHOUR/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7066" tvg-logo="https://core.freetvindia.com/media/AMV_Network.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", AMV News Network
+https://mumt02.tangotv.in/AMVNETWORK/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7103" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000517.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Sach Bedhadak
+https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7140" tvg-logo="https://core.freetvindia.com/media/IBC_24.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", IBC 24
+https://mumt05.tangotv.in/IBC24/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7214" tvg-logo="https://core.freetvindia.com/media/tv100.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", TV100
+https://mumt01.tangotv.in/TV100/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7251" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000461.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Khabar Fast
+https://mumt04.tangotv.in/KHABARFAST/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="25204" tvg-logo="https://core.freetvindia.com/media/channels/STVHaeryana.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", STV Haryana News
+https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7288" tvg-logo="https://core.freetvindia.com/media/Vertent_Samachar_plus.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Vertent SamacharPlus
+https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2663" tvg-logo="https://core.freetvindia.com/media/hi_dost.png" tvg-lang="BLOODY_SWEET" group-title="Hindi GEC", HI Dost
+https://mumt03.tangotv.in/HIDOST/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2737" tvg-logo="https://core.freetvindia.com/media/action_hollywood_movie.png" tvg-lang="BLOODY_SWEET" group-title="English Entertainment", Action Hollywood
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2774" tvg-logo="https://core.freetvindia.com/media/528_FreeTV_Hollywood_classic_CLR.png" tvg-lang="BLOODY_SWEET" group-title="English Entertainment", Hollywood Color
+http://210.89.51.165:80/hlslive/Admin/RSPD031/live/HollywoodCLR/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2811" tvg-logo="https://core.freetvindia.com/media/529_FreeTV_Hollywood_Classic_BW.png" tvg-lang="BLOODY_SWEET" group-title="English Entertainment", Hollywood Black & White
+http://210.89.51.165:80/hlslive/Admin/RSPD031/live/HollywoodBW/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2848" tvg-logo="https://core.freetvindia.com/media/Afrobeat_TV.png" tvg-lang="BLOODY_SWEET" group-title="English Entertainment", Afrobeat
+https://stream.ecable.tv/afrobeats/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2959" tvg-logo="https://core.freetvindia.com/media/India_Today.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3033" tvg-logo="https://core.freetvindia.com/media/news9_live_QkLeE1F.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", NEWS9
+https://vg-tv9live.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-573213/679220d8-59d5-4dc0-8bb9-fd2bde1b989a/3.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3144" tvg-logo="https://core.freetvindia.com/media/NDTV_24x7.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3107" tvg-logo="https://core.freetvindia.com/media/Times_Now.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", Times Now
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2885" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000069.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", Republic TV
+https://mumt05.tangotv.in/REPUBLICTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="21272" tvg-logo="https://core.freetvindia.com/media/channels/wion.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2922" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000359.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", DD India
+https://mumt05.tangotv.in/DDINDIA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2996" tvg-logo="https://core.freetvindia.com/media/CVR_English.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", CVR News English
+https://mumt03.tangotv.in/CVRNEWSENGLISH/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3181" tvg-logo="https://core.freetvindia.com/media/CNBC_TV18.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", CNBC TV18
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=2293600.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3218" tvg-logo="https://core.freetvindia.com/media/NDTV_Profit.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_4.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3070" tvg-logo="https://core.freetvindia.com/media/etnow.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", ET Now
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="52000" tvg-logo="https://core.freetvindia.com/media/channels/superyatchtv.png" tvg-lang="BLOODY_SWEET" group-title="Infotainment & Lifestyle", Super Yatch TV
+https://sy.wns.live/hls/stream.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3255" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000427.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", Al Jazeera HD
+https://mumt05.tangotv.in/ALJAZEERAHD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3403" tvg-logo="https://core.freetvindia.com/media/CNA_lGjPAvd.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", CNA
+https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3292" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000073.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", DW
+https://mumt05.tangotv.in/DWTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3329" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000429.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", NHK World
+https://mumt02.tangotv.in/NHKWORLD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3366" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000428.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="47961" tvg-logo="https://core.freetvindia.com/media/channels/arirang.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", Arirang
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3440" tvg-logo="https://core.freetvindia.com/media/CGTN_English.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3477" tvg-logo="https://core.freetvindia.com/media/RT_News.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="59728" tvg-logo="https://core.freetvindia.com/media/channels/Newsx.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", News X
+https://mumt01.tangotv.in/NEWSX/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="51912" tvg-logo="https://core.freetvindia.com/media/channels/RT_DOC.png" tvg-lang="BLOODY_SWEET" group-title="English News & Business", RT Doc
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12542" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000373.png" tvg-lang="BLOODY_SWEET" group-title="Sports", DD Sports
+https://mumt02.tangotv.in/DDSPORTS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12579" tvg-logo="https://core.freetvindia.com/media/Sports_Squad_Hariyana.png" tvg-lang="BLOODY_SWEET" group-title="Sports", Sports Squad Haryana
+https://mumt01.tangotv.in/SPORTSSQUADHARYANA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12616" tvg-logo="https://core.freetvindia.com/media/kabaddi_24x7.png" tvg-lang="BLOODY_SWEET" group-title="Sports", Kabaddi 24X7
+https://mumt02.tangotv.in/KABADDI24X7/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7399" tvg-logo="https://core.freetvindia.com/media/Food_Food.png" tvg-lang="BLOODY_SWEET" group-title="Infotainment & Lifestyle", Food Food
+https://mumt03.tangotv.in/FOODFOOD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7436" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000063.png" tvg-lang="BLOODY_SWEET" group-title="Infotainment & Lifestyle", DD Kisan
+https://mumt04.tangotv.in/DDKISAN/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7473" tvg-logo="https://core.freetvindia.com/media/bvg.png" tvg-lang="BLOODY_SWEET" group-title="Infotainment & Lifestyle", BVG
+https://mumt05.tangotv.in/BVG/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7510" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000488.png" tvg-lang="BLOODY_SWEET" group-title="Infotainment & Lifestyle", DD Bharati
+https://mumt01.tangotv.in/DDBHARATI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7547" tvg-logo="https://core.freetvindia.com/media/DD_urdu_2Y1e95n.png" tvg-lang="BLOODY_SWEET" group-title="Urdu", DD Urdu
+https://mumt05.tangotv.in/DDURDU/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1627" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000511.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Aastha
+https://mumt01.tangotv.in/AASTHA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1664" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000021.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Aastha Bhajan
+https://mumt05.tangotv.in/AASTHABHAJAN/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1701" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000616.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Sanskar
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1738" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000197.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Hare Krsna
+https://mumt05.tangotv.in/HAREKRSNA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1775" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000038.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Satsang
+https://mumt05.tangotv.in/SATSANG/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1812" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000366.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", SVBC 4 Hindi
+https://mumt05.tangotv.in/SVBC4HINDI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1886" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000107.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Ishwar Bhakti
+https://mumt05.tangotv.in/ISHWARBHAKTI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1923" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000161.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Bhakti Sagar
+https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1960" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000012.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Divya
+https://mumt05.tangotv.in/DIVYA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1997" tvg-logo="https://core.freetvindia.com/media/Awakening.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Awakening TV
+https://mumt03.tangotv.in/AWAKENINGTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2034" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000008.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Peace of Mind
+https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2071" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000136.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Santvani
+https://mumt05.tangotv.in/SANTVANI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2108" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000037.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Sarv Dharm Sangam
+https://mumt01.tangotv.in/SARAVDHARAMSANGAM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2145" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000389.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Subharti TV
+https://mumt04.tangotv.in/SUBHARTITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2182" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000363.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Vedic
+https://mumt05.tangotv.in/VEDIC/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2219" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000018.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Sadhna TV
+https://mumt05.tangotv.in/SADHNATV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2256" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000547.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Darshan24
+https://mumt05.tangotv.in/DARSHAN24/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2293" tvg-logo="https://core.freetvindia.com/media/Shubh_Cinema.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Shubh TV
+https://mumt03.tangotv.in/SHUBHTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2330" tvg-logo="https://core.freetvindia.com/media/sadhana_Gold.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", C 10
+https://mumt03.tangotv.in/C10/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="27904" tvg-logo="https://core.freetvindia.com/media/channels/nistha_dhavani.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Nistha Dhawani
+https://nisthadhawani.in/NisthaDhawaniouthls/NisthaDhawan.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="27999" tvg-logo="https://core.freetvindia.com/media/channels/Aone_imagine_oxZPMkT.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", A One Imagine
+http://117.211.8.100:8080/0.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2367" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000553.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Dharm Sandesh
+https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2404" tvg-logo="https://core.freetvindia.com/media/Adinath_TV.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Aadinath TV
+https://mumt01.tangotv.in/AADINATHTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2441" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000621.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Soham
+https://mumt03.tangotv.in/SOHAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2478" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000271.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Jinvani
+https://mumt03.tangotv.in/JINVANI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2515" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000218.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Shubhsandesh TV
+https://mumt03.tangotv.in/SHUBHSANDESH/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2552" tvg-logo="https://core.freetvindia.com/media/hope_channel.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Hope Channel India
+https://mumt01.tangotv.in/HOPECHANNELINDIA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2589" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000223.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Goodnews TV
+https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="2626" tvg-logo="https://core.freetvindia.com/media/Grace_TV.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Grace TV
+https://mumt03.tangotv.in/GRACETV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10951" tvg-logo="https://core.freetvindia.com/media/IMG-20240905-WA0029.jpg" tvg-lang="BLOODY_SWEET" group-title="Punjabi", PTC Punjabi
+https://mumt04.tangotv.in/PTCPUNJABI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10988" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000034.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", PTC Punjabi Gold
+https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12431" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000261.png" tvg-lang="BLOODY_SWEET" group-title="Hindi Movies", MH One Dil Se
+https://mumt01.tangotv.in/MHONEDILSE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11025" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000085.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Pitaara
+https://mumt02.tangotv.in/PITAARA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11062" tvg-logo="https://core.freetvindia.com/media/DD_Punjabi.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", DD Punjabi
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/b0667b3a-0e18-4a11-990b-b341542eca06/2.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11099" tvg-logo="https://core.freetvindia.com/media/900_FreeTV_Movie_punjab.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Movie Punjab
+http://210.89.51.165:80/hlslive/Admin/RSPD031/live/MoviePunjab/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11136" tvg-logo="https://core.freetvindia.com/media/IMG-20240905-WA0032.jpg" tvg-lang="BLOODY_SWEET" group-title="Punjabi", PTC Music
+https://mumt04.tangotv.in/PTCMUSIC/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11173" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000019.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", 9X Tashan
+https://mumt01.tangotv.in/9XTASHAN/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11210" tvg-logo="https://core.freetvindia.com/media/9005123451000030.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", PTC Chak De
+https://mumt02.tangotv.in/PTCCHAKDE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11247" tvg-logo="https://core.freetvindia.com/media/Punjabi_Beats.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Punjabi Beats HD
+https://mumt01.tangotv.in/PUNJABIBEATSHD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11284" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000149.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Tabbar Hits
+https://mumt04.tangotv.in/TABBARHITS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11321" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000390.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Balle Balle
+https://mumt04.tangotv.in/BALLEBALLE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11358" tvg-logo="https://core.freetvindia.com/media/tvPunjab.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Punjabi TV
+https://mumt02.tangotv.in/PUNJABITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11395" tvg-logo="https://core.freetvindia.com/media/fast_mix.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", FastMix
+https://mumt01.tangotv.in/FASTMIX/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11432" tvg-logo="https://core.freetvindia.com/media/Punjabi_Music_HD.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Punjabi Music HD
+https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11469" tvg-logo="https://core.freetvindia.com/media/IMG-20240905-WA0030.jpg" tvg-lang="BLOODY_SWEET" group-title="Punjabi", PTC News
+https://mumt02.tangotv.in/PTCNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11506" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000253.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", ABP Sanjha
+https://mumt04.tangotv.in/ABPSANJHA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12505" tvg-logo="https://core.freetvindia.com/media/LivingIndia_New.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News / Punjabi", Living India News
+https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11543" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000258.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", MH One News
+https://mumt04.tangotv.in/MHONENEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11580" tvg-logo="https://core.freetvindia.com/media/Daily_post.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Daily Post
+https://mumt01.tangotv.in/DAILYPOST/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11617" tvg-logo="https://core.freetvindia.com/media/World_Punjabi_TV.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", World Punjabi TV
+https://mumt02.tangotv.in/WPNWORLDPUNJABI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11654" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000150.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Chardikala Time TV
+https://mumt02.tangotv.in/CHARDIKALATIMETV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11691" tvg-logo="https://core.freetvindia.com/media/chartikalatime_northAmerika.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Chardikala Time TV North America
+https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11728" tvg-logo="https://core.freetvindia.com/media/9005123451000035.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", PTC Simran
+https://mumt05.tangotv.in/PTCSIMRAN/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11765" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000260.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", MH One Shraddha
+https://mumt01.tangotv.in/MHONESHRADDHA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11802" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000007.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Fateh TV
+https://mumt05.tangotv.in/FATEHTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11987" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000599.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Sangat TV
+http://210.89.51.164:80/hlslive/Admin/RSPD032/live/Sangat_Tv_SRT_IN/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12024" tvg-logo="https://core.freetvindia.com/media/namdhari_tv.jpg" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Namdhari Channel
+https://hdvideo.namdhari.tv/live/sbs1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11839" tvg-logo="https://core.freetvindia.com/media/Amritgurbani.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Amrit Gurbani
+https://mumt04.tangotv.in/AMRITGURBANI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11876" tvg-logo="https://core.freetvindia.com/media/Anandpur_Live.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Anandpur Live
+https://mumt05.tangotv.in/ANANDPURLIVE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12283" tvg-logo="https://core.freetvindia.com/media/Shaheedan_Live.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Shaheedan Live
+https://mumt02.tangotv.in/SHAHEEDDANLIVE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12320" tvg-logo="https://core.freetvindia.com/media/Shree_Hazursahibji.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Shree Hazur Sahibji
+https://mumt02.tangotv.in/SHREEHAZURSAHIBJI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11913" tvg-logo="https://core.freetvindia.com/media/Nanasar_live.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Nanaksar Live
+https://mumt01.tangotv.in/NANAKSARLIVE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="11950" tvg-logo="https://core.freetvindia.com/media/dukhniwaran.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Dukhnivaran Patiala Live
+https://mumt02.tangotv.in/DUKHNIWARANPATIALA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12098" tvg-logo="https://core.freetvindia.com/media/Durgiana_Live.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Durgiana Live
+https://mumt01.tangotv.in/DURGIANALIVE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12357" tvg-logo="https://core.freetvindia.com/media/Chintpurni_Live.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Chintpurni Live
+https://mumt03.tangotv.in/CHINTPURNILIVE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="63336" tvg-logo="https://core.freetvindia.com/media/channels/Bhakti_TV.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Bhakti TV
+https://mumt01.tangotv.in/Bhaktitv/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12135" tvg-logo="https://core.freetvindia.com/media/Saang_TV.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Saang
+https://mumt02.tangotv.in/SAANGTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12172" tvg-logo="https://core.freetvindia.com/media/Maina_TV.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Maina TV
+https://mumt03.tangotv.in/MAINATV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12209" tvg-logo="https://core.freetvindia.com/media/pankh.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Pankh
+https://mumt04.tangotv.in/PANKH/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12246" tvg-logo="https://core.freetvindia.com/media/Ragni.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Ragni
+https://mumt04.tangotv.in/RAGNITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="58583" tvg-logo="https://core.freetvindia.com/media/channels/mahotsavtv.png" tvg-lang="BLOODY_SWEET" group-title="Devotional", Mahotsav TV
+http://203.192.243.75:1935/mahotsav/playout/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3810" tvg-logo="https://core.freetvindia.com/media/CNBC_Bazaar.png" tvg-lang="BLOODY_SWEET" group-title="Gujarati", CNBC TV Bajaar
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="47898" tvg-logo="https://core.freetvindia.com/media/channels/Gujarat_Wild_TV.png" tvg-lang="BLOODY_SWEET" group-title="Gujarati", Gujarat Wild TV
+https://newsliveindia.com:4433/wildlife/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3514" tvg-logo="https://core.freetvindia.com/media/DD_Girnar.png" tvg-lang="BLOODY_SWEET" group-title="Gujarati", DD Girnar
+https://mumt01.tangotv.in/DDGIRNAR/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3773" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000554.png" tvg-lang="BLOODY_SWEET" group-title="Gujarati", Aastha Gujarati
+https://mumt04.tangotv.in/AASTHAGUJARATI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="63433" tvg-logo="https://core.freetvindia.com/media/channels/GTC_PUNJABI.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", GTC Punjabi
+https://mumt01.tangotv.in/GTC/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3551" tvg-logo="https://core.freetvindia.com/media/ABP_Asmita.png" tvg-lang="BLOODY_SWEET" group-title="Gujarati", ABP Asmita
+https://mumt02.tangotv.in/ABPASMITA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3588" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000047.png" tvg-lang="BLOODY_SWEET" group-title="Gujarati", TV9 Gujarati
+https://mumt03.tangotv.in/TV9GUJARATI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3662" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000264.png" tvg-lang="BLOODY_SWEET" group-title="Gujarati", GS TV
+https://mumt05.tangotv.in/GSTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3699" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000378.png" tvg-lang="BLOODY_SWEET" group-title="Gujarati", Sandesh News
+https://mumt01.tangotv.in/SANDESHNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="3736" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000516.png" tvg-lang="BLOODY_SWEET" group-title="Gujarati", Mantavya 24x7 News
+https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="55057" tvg-logo="https://core.freetvindia.com/media/channels/Punjabi_Beats.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Punjabi Beats
+https://mumt01.tangotv.in/PUNJABIBEATSSD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="48196" tvg-logo="https://core.freetvindia.com/media/channels/Classic_hit.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Classic Hits
+https://mumt03.tangotv.in/CLASSICHITS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="48788" tvg-logo="https://core.freetvindia.com/media/channels/josh_TV.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Josh TV
+https://mumt03.tangotv.in/JOSHTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="48259" tvg-logo="https://core.freetvindia.com/media/channels/damdama_sahib.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Damdama Sahib
+https://mumt03.tangotv.in/DAMDMASAHIB/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="48133" tvg-logo="https://core.freetvindia.com/media/channels/Apna_punjab.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Apna Punjab
+https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="48065" tvg-logo="https://core.freetvindia.com/media/channels/Punjabi_Hits.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Punjabi Hits
+https://mumt04.tangotv.in/PUNJABIHITS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="48323" tvg-logo="https://core.freetvindia.com/media/channels/Shree_Bachu_Sahib.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Shree Bhucho Sahib
+https://mumt02.tangotv.in/SHREEBACHUSAHIB/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="48387" tvg-logo="https://core.freetvindia.com/media/channels/Shaheed_Baba_Deep_Singh.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Shaheedan Shahib
+https://mumt03.tangotv.in/SHAHEEDBABADEEPSINGH/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="48450" tvg-logo="https://core.freetvindia.com/media/channels/Nistha_HD.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Nistha HD
+https://mumt03.tangotv.in/NISHTHAHD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="48518" tvg-logo="https://core.freetvindia.com/media/channels/Matti.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Matti TV
+https://mumt03.tangotv.in/MATTITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="48594" tvg-logo="https://core.freetvindia.com/media/channels/tadka.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Tadka
+https://mumt03.tangotv.in/TADKA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9286" tvg-logo="https://core.freetvindia.com/media/Fakt_Marathi_krKUH3M.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", Fakt Marathi
+https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9323" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000116.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", Shemaroo Marathi Bana
+https://mumt02.tangotv.in/SHEMAROOMARATHIBANA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9249" tvg-logo="https://core.freetvindia.com/media/Dd_Sheyadri.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", DD Sahyadri
+https://mumt01.tangotv.in/DDSAHYADRI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="48657" tvg-logo="https://core.freetvindia.com/media/channels/dukhniwaran.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Dukhniwaran
+https://mumt03.tangotv.in/DUKHNIWARAN/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9360" tvg-logo="https://core.freetvindia.com/media/1056_FreeTV_Soneri_Cinema.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", Soneri Cinema
+https://mumt04.tangotv.in/SONERICINEMA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9212" tvg-logo="https://core.freetvindia.com/media/Maiboli.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", Maiboli
+https://mumt01.tangotv.in/MAIBOLI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9434" tvg-logo="https://core.freetvindia.com/media/sanjeet_marathi.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", Sangeet Marathi
+https://mumt02.tangotv.in/SANGEETMARATHI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9471" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000093.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", 9X Jhakaas
+https://mumt03.tangotv.in/9XJHAKAAS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9545" tvg-logo="https://core.freetvindia.com/media/Zee_24_Taas.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", Zee 24 Taas
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9582" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000250.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", ABP Majha
+https://mumt05.tangotv.in/ABPMAJHA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9619" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000171.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", TV9 Marathi
+https://mumt01.tangotv.in/TV9MARATHI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9656" tvg-logo="https://core.freetvindia.com/media/Saam_TV_vGtXy1k.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", Saam TV
+https://mumt02.tangotv.in/SAAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9693" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000195.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", Jai Maharashtra
+https://mumt03.tangotv.in/JAIMAHARASHTRA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9730" tvg-logo="https://core.freetvindia.com/media/Pudhari_News_HeQUaWg.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", Pudhari News
+https://mumt04.tangotv.in/PUDHARINEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9767" tvg-logo="https://core.freetvindia.com/media/Lok_Shahi.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", Lokshahi Marathi
+https://mumt05.tangotv.in/LOKSAAHI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9841" tvg-logo="https://core.freetvindia.com/media/NDTV_Marathi.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", NDTV Marathi
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_4.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9878" tvg-logo="https://core.freetvindia.com/media/tv_nxt_marathi.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", TV NXT Marathi
+http://139.59.88.91:8080/hls/nxt1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9915" tvg-logo="https://core.freetvindia.com/media/News_Marathi247.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", News Marathi 24X7
+https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8176" tvg-logo="https://core.freetvindia.com/media/DD_Goa.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", DD Goa
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/a556fd55-3d07-4069-9f3d-6cda1e3192f8/2.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8213" tvg-logo="https://core.freetvindia.com/media/RDx_Goa.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", RDX Goa
+https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks_dvr.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8250" tvg-logo="https://core.freetvindia.com/media/prudent_news_goa.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", Prudent News
+https://prudentmcdn.rixcast.com/prudentm.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8287" tvg-logo="https://core.freetvindia.com/media/Goa_365.png" tvg-lang="BLOODY_SWEET" group-title="Marathi", Goa 365
+https://ktismaservers.in:3086/live/goa365live.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1405" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000016.png" tvg-lang="BLOODY_SWEET" group-title="Bhojpuri", Dabangg
+https://mumt01.tangotv.in/DABANGG/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1442" tvg-logo="https://core.freetvindia.com/media/B4U_Bhojpuri.png" tvg-lang="BLOODY_SWEET" group-title="Bhojpuri", B4U Bhojpuri
+https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1479" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000042.png" tvg-lang="BLOODY_SWEET" group-title="Bhojpuri", Bhojpuri Cinema
+https://mumt05.tangotv.in/BHOJPURICINEMA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1516" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000028.png" tvg-lang="BLOODY_SWEET" group-title="Bhojpuri", Oscar Movies Bhojpuri
+https://mumt05.tangotv.in/OSCARMOVIESBHOJPURI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="21512" tvg-logo="https://core.freetvindia.com/media/channels/filmachi_bhojpuri.png" tvg-lang="BLOODY_SWEET" group-title="Bhojpuri", Filmachi Bhojpuri
+https://epiconvh.akamaized.net/live/filamchi/master_1080.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="25165" tvg-logo="https://core.freetvindia.com/media/channels/rapchik.png" tvg-lang="BLOODY_SWEET" group-title="Bhojpuri", Captain
+https://mumt01.tangotv.in/CAPTAIN/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1553" tvg-logo="https://core.freetvindia.com/media/sangeet_bhojpuri.png" tvg-lang="BLOODY_SWEET" group-title="Bhojpuri", Sangeet Bhojpuri
+https://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1590" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000143.png" tvg-lang="BLOODY_SWEET" group-title="Bhojpuri", ABP Ganga
+https://mumt05.tangotv.in/ABPGANGA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12653" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000177.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Makkal TV
+https://mumt01.tangotv.in/MAKKALTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="23948" tvg-logo="https://core.freetvindia.com/media/channels/PolimerTV.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Polimer TV
+https://mumt04.tangotv.in/POLIMERTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12690" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000415.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Peppers
+https://mumt02.tangotv.in/PEPPERS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12764" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000270.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", PuthuYugam TV
+https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12801" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000255.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Vendhar TV
+https://mumt04.tangotv.in/VENDHARTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12949" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000190.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", DD TAMIL
+https://mumt04.tangotv.in/DDTAMIL/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="23986" tvg-logo="https://core.freetvindia.com/media/channels/thanti_one.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Thanthi One
+https://mumt02.tangotv.in/THANTHIONE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12838" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000277.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Vaanavil TV
+https://mumt01.tangotv.in/VAANAVILTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12986" tvg-logo="https://core.freetvindia.com/media/valichamplus.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Valicham Plus
+https://mumt05.tangotv.in/VALICHAMPLUS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12727" tvg-logo="https://core.freetvindia.com/media/1152FreeTV_Tamil_Ratnam.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Tamil Ratnam
+http://210.89.51.165:80/hlslive/Admin/RSPD031/live/TamilRatna/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="12912" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000181.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Moon TV
+https://mumt03.tangotv.in/MOONTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13023" tvg-logo="https://core.freetvindia.com/media/MK_Tune.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", MK Tunes
+https://mumt01.tangotv.in/MKTUNES/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13060" tvg-logo="https://core.freetvindia.com/media/puthiya_thalai.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Puthiya Thalaimurai
+https://mumt02.tangotv.in/PUTHIYATHALAIMURAI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13097" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000236.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Tamilan Television
+https://mumt04.tangotv.in/TAMILANTELEVISION/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13134" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000388.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Malai Murasu Seithigal
+https://mumt04.tangotv.in/MALAIMURASUSEITHIGAL/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13171" tvg-logo="https://core.freetvindia.com/media/News_Tamil_24X7.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", News Tamil 24X7
+https://mumt05.tangotv.in/NEWSTAMIL24X7/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="23910" tvg-logo="https://core.freetvindia.com/media/channels/Polimernews.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Polimer News
+https://mumt05.tangotv.in/POLIMERNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13208" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000228.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", News J
+https://mumt01.tangotv.in/NEWSJ/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13245" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000515.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Sathiyam TV
+https://mumt02.tangotv.in/SATHIYAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13282" tvg-logo="https://core.freetvindia.com/media/Thanti_TV_Nl4jmtR.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Thanthi TV
+https://mumt03.tangotv.in/THANTHITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13319" tvg-logo="https://core.freetvindia.com/media/Vasanth_TV.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Vasanth TV
+https://mumt04.tangotv.in/VASANTHTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13356" tvg-logo="https://core.freetvindia.com/media/Malar_Tv.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Malar TV
+https://mumt04.tangotv.in/MALARTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13393" tvg-logo="https://core.freetvindia.com/media/Madhimugam_tv.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Mathimugam Tholaikatchi
+https://mumt01.tangotv.in/MATHIMUGAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13430" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000225.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", News7 Tamil
+https://mumt02.tangotv.in/NEWS7TAMIL/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="23834" tvg-logo="https://core.freetvindia.com/media/channels/Janamtv_Tamil.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Janam TV Tamil
+https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13467" tvg-logo="https://core.freetvindia.com/media/SVBC2.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", SVBC 2 Tamil
+https://mumt03.tangotv.in/SVBC2TAMIL/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13504" tvg-logo="https://core.freetvindia.com/media/Sairam.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Sairam TV
+https://mumt04.tangotv.in/SAIRAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13541" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000120.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Aaseervatham TV
+https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13578" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000279.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Angel TV
+https://mumt01.tangotv.in/ANGELTVHD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13615" tvg-logo="https://core.freetvindia.com/media/Madha.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Madha TV
+https://mumt02.tangotv.in/MADHATV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13652" tvg-logo="https://core.freetvindia.com/media/Nambikai_TV.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Nambikkai TV
+https://mumt05.tangotv.in/NAMBIKAITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13689" tvg-logo="https://core.freetvindia.com/media/Vissa_TV.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Vissa TV
+https://mumt02.tangotv.in/VISSATV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13726" tvg-logo="https://core.freetvindia.com/media/Dd-Saptagiri.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", DD Saptagiri
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/6efa1e28-9ee0-47c7-a5b4-af3e4161a17b/2.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13763" tvg-logo="https://core.freetvindia.com/media/DD_Yadgiri.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", DD Yadagiri
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/73fec65b-a5ba-4fba-ac8b-48eda02fa074/2.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13800" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000263.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Studio One Plus
+https://mumt04.tangotv.in/STUDIOONEPLUS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13837" tvg-logo="https://core.freetvindia.com/media/Studio_Yuva.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Studio Yuva
+https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13874" tvg-logo="https://core.freetvindia.com/media/Raj_Musix_telugu.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Raj Musix Telugu
+https://mumt02.tangotv.in/RAJMUSIXTELUGU/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14392" tvg-logo="https://core.freetvindia.com/media/vanitha_tv.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Vanitha
+https://mumt01.tangotv.in/VANITHA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14355" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000213.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", CVR Health
+https://mumt04.tangotv.in/CVRHEALTH/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14133" tvg-logo="https://core.freetvindia.com/media/9005123451000339.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", TV9 Telugu
+https://mumt04.tangotv.in/TV9TELUGU/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13985" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000210.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", HMTV
+https://mumt04.tangotv.in/HMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14059" tvg-logo="https://core.freetvindia.com/media/Sakshi_TV.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Sakshi TV
+https://mumt02.tangotv.in/SAKSHITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14318" tvg-logo="https://core.freetvindia.com/media/Raj_news_Telugu_0YYrRzJ.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Raj News Telugu
+https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14281" tvg-logo="https://core.freetvindia.com/media/Studio_N_News.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Studio N News
+https://mumt03.tangotv.in/STUDIONNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13911" tvg-logo="https://core.freetvindia.com/media/6TV_telugu.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", 6TV Telugu
+https://mumt01.tangotv.in/6tvtelugu/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14170" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000209.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", V6 News
+https://mumt05.tangotv.in/V6NEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14207" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000382.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Big TV
+https://mumt01.tangotv.in/BIGTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14244" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000376.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Mojo TV
+https://mumt02.tangotv.in/MOJOTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="60255" tvg-logo="https://core.freetvindia.com/media/channels/Abitv.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", ABI TV
+https://mumt02.tangotv.in/ABITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14022" tvg-logo="https://core.freetvindia.com/media/Prime9.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Prime9 News
+https://mumt01.tangotv.in/PRIME9NEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="60328" tvg-logo="https://core.freetvindia.com/media/channels/Ananadamtv.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", Anandam TV
+https://mumt02.tangotv.in/ANANDAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="13948" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000212.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", CVR News Telugu
+https://mumt04.tangotv.in/CVRNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="60401" tvg-logo="https://core.freetvindia.com/media/channels/Utvanandam.png" tvg-lang="BLOODY_SWEET" group-title="Tamil", UTV Anandam
+https://mumt02.tangotv.in/UTVANANDAM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14429" tvg-logo="https://core.freetvindia.com/media/Maha_News.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Mahaa News
+https://mumt02.tangotv.in/MAHAANEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14466" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000204.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", SVBC Telugu
+https://mumt04.tangotv.in/SVBCTELUGU/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14503" tvg-logo="https://core.freetvindia.com/media/Aasths_Telugu.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Aastha Telugu
+https://mumt05.tangotv.in/AASTHATELUGU/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14540" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000175.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Hindu Dharmam
+https://mumt01.tangotv.in/HINDUDHARMAM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="23872" tvg-logo="https://core.freetvindia.com/media/channels/MahaBhakti.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Maha Bhakti
+https://mumt01.tangotv.in/MAHABHAKTI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14651" tvg-logo="https://core.freetvindia.com/media/CVR_Spiritual_om.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", CVR Spiritual OM
+https://mumt01.tangotv.in/CVRSPRITUALOM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14688" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000385.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Calvary TV
+https://mumt04.tangotv.in/CALVARYTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14725" tvg-logo="https://core.freetvindia.com/media/Subhvaartha_TV.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Subhavaartha TV
+https://mumt05.tangotv.in/SUBHAVAARTHATV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14762" tvg-logo="https://core.freetvindia.com/media/99_TV.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", 99TV Telugu
+https://mumt02.tangotv.in/99TVTELUGU/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="20809" tvg-logo="https://core.freetvindia.com/media/channels/NTV_Telugu.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", NTV Telugu
+https://mumt01.tangotv.in/NTVTELUGU/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="14096" tvg-logo="https://core.freetvindia.com/media/TV_News5.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", TV5 News
+https://mumt02.tangotv.in/TV5NEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8324" tvg-logo="https://core.freetvindia.com/media/kairali.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Kairali
+https://mumt01.tangotv.in/KAIRALI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8361" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000139.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Mazhavil Manorama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8398" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000400.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Amrita TV
+https://mumt02.tangotv.in/AMRITATV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8842" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000154.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Jeevan TV
+https://mumt04.tangotv.in/JEEVANTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8472" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000155.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Kaumudy TV
+https://mumt04.tangotv.in/KAUMUDYTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8546" tvg-logo="https://core.freetvindia.com/media/DD_Malayalam_eJEprmw.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", DD Malayalam
+https://mumt02.tangotv.in/DDMALAYALAM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8583" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000113.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Kerala Vision
+https://mumt03.tangotv.in/KERALAVISION/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8509" tvg-logo="https://core.freetvindia.com/media/We_Tv.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", We TV
+https://mumt01.tangotv.in/WETV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="44830" tvg-logo="https://core.freetvindia.com/media/channels/Chhaya_Chitram_Telugu.png" tvg-lang="BLOODY_SWEET" group-title="Telugu", Chhaya Chitram Telugu
+http://210.89.51.165:80/hlslive/Admin/RSPD031/live/PlayOut9/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8435" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000186.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Kappa TV
+https://mumt03.tangotv.in/KAPPATV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8620" tvg-logo="https://core.freetvindia.com/media/Raj_Musix_Malayalam.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Raj Musix Malyalam
+https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9027" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000409.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Safari TV
+https://mumt04.tangotv.in/SAFARITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8657" tvg-logo="https://core.freetvindia.com/media/Asianet_News.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Asianet News
+https://mumt05.tangotv.in/ASIANETNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="20912" tvg-logo="https://core.freetvindia.com/media/kairali_news.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Kairali News
+https://mumt01.tangotv.in/KAIRALINEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8694" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000138.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Manorama News
+https://mumt01.tangotv.in/MANORAMANEWSNORTH/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8731" tvg-logo="https://core.freetvindia.com/media/Matrubhumi_news.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Mathrubhumi News
+https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8768" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000401.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Jai Hind
+https://mumt03.tangotv.in/JAIHIND/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8805" tvg-logo="https://core.freetvindia.com/media/Janam_TV.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Janam TV
+https://mumt03.tangotv.in/JANAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8990" tvg-logo="https://core.freetvindia.com/media/Raj_News_Malayalam.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Raj News Malyalam
+https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8879" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000408.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Media One TV
+https://mumt01.tangotv.in/MEDIAONETV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8916" tvg-logo="https://core.freetvindia.com/media/Reporter_tv.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Reporter TV
+https://mumt02.tangotv.in/REPORTERTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8953" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000402.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Twenty four
+https://mumt02.tangotv.in/TWENTYFOURNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9064" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000153.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Shalom Tv India
+https://mumt01.tangotv.in/SHALOMTVINDIA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9101" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000224.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Goodness TV
+https://mumt02.tangotv.in/GOODNESSTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9138" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000410.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Power Vision
+https://mumt02.tangotv.in/POWERVISION/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="9175" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000157.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Darshana TV
+https://mumt04.tangotv.in/DARSHANATV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7621" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000121.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", Siri Kannada All Time
+https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7584" tvg-logo="https://core.freetvindia.com/media/DD_Chandana.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", DD Chandana
+https://mumt05.tangotv.in/DDCHANDANA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7658" tvg-logo="https://core.freetvindia.com/media/00_Tango_logo_cdYbkBp.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", NKR TV
+https://mumt05.tangotv.in/NKRTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7695" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000185.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", Public Movies
+https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7732" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000184.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", Public Music
+https://mumt04.tangotv.in/PUBLICMUSIC/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7769" tvg-logo="https://core.freetvindia.com/media/Raj_musix_kannada.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", Raj Musix Kannada
+https://mumt01.tangotv.in/RAJMUSIXKANDA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7806" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000530.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", Ayush TV
+https://mumt02.tangotv.in/AYUSHTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7954" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000613.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", TV9 Kannada
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/pub-iotv9kanmo6oiq/live_720p/chunks.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7843" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000399.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", Asianet Suvarna News
+https://mumt04.tangotv.in/SUVERNANEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7880" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000182.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", Public TV
+https://mumt04.tangotv.in/PUBLICTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7917" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000412.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", Republic Kannada
+https://mumt04.tangotv.in/REPUBLICKANNADA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="7991" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000174.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", TV5 Kannada
+https://mumt02.tangotv.in/TV5KANNADA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8028" tvg-logo="https://core.freetvindia.com/media/Raj_News_Kannada.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", Raj News Kannada
+https://mumt03.tangotv.in/RAJNEWSKANDA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8065" tvg-logo="https://core.freetvindia.com/media/Aastha_Kannada.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", Aastha Kannada
+https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8102" tvg-logo="https://core.freetvindia.com/media/Sri_Sankara.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", Sri Sankara TV
+https://mumt05.tangotv.in/SRISANKARA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="8139" tvg-logo="https://core.freetvindia.com/media/SVBC3_Kannada.png" tvg-lang="BLOODY_SWEET" group-title="Kannada", SVBC 3 Kannada
+https://mumt01.tangotv.in/SVBC3KANNADA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1035" tvg-logo="https://core.freetvindia.com/media/Aakash_Aath.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", Aakash Aath
+https://mumt03.tangotv.in/AAKASHAATH/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="998" tvg-logo="https://core.freetvindia.com/media/Rupashi_Bangla.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", Rupasi Bangla
+https://mumt05.tangotv.in/RUPASIBANGLA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="924" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000151.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", Enterr10 Bangla
+https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="961" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000058.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", DD Bangla
+https://mumt05.tangotv.in/DDBANGLA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="887" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000112.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", Khushboo TV Bangla
+https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1072" tvg-logo="https://core.freetvindia.com/media/1518_FreeTV_Sonar_Bangla.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", Sonar Bangla
+http://210.89.51.165:80/hlslive/Admin/RSPD031/live/SonarBangla/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1109" tvg-logo="https://core.freetvindia.com/media/Sangeet_Bangla.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", Sangeet Bangla
+https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1146" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000108.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", Rongeen TV
+https://mumt05.tangotv.in/RONGEENTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1183" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000252.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", ABP Ananda
+https://mumt05.tangotv.in/ABPANANDA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1220" tvg-logo="https://core.freetvindia.com/media/R_Bangla.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", Republic Bangla
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/5da6ccdf-da5e-451d-a66f-e9fdfa4243d0/2.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1257" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000244.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", TV9 Bangla
+https://mumt05.tangotv.in/TV9BANGLA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="850" tvg-logo="https://core.freetvindia.com/media/RPlus_gold.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", R Plus Gold
+https://mumt03.tangotv.in/RPLUSGOLD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1294" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000145.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", R Plus
+https://mumt05.tangotv.in/RPLUS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1331" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000651.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", NKTV Plus Bangla
+https://mumt05.tangotv.in/NKTVPLUSBANGLA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="1368" tvg-logo="https://core.freetvindia.com/media/News_Live_Bangla.png" tvg-lang="BLOODY_SWEET" group-title="Bangla", News Live Bangla
+https://mumt01.tangotv.in/NEWSLIVEBANGLA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10137" tvg-logo="https://core.freetvindia.com/media/otv_odia.png" tvg-lang="BLOODY_SWEET" group-title="Odia", OTV Live 24x7
+https://livetv.tarangplus.in/otv-origin/live/otv-origin/live_720p/chunks.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10026" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000275.png" tvg-lang="BLOODY_SWEET" group-title="Odia", Kalinga TV
+https://mumt01.tangotv.in/KALINGATV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10063" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000276.png" tvg-lang="BLOODY_SWEET" group-title="Odia", Nandighosha TV
+https://mumt05.tangotv.in/NANDIGHOSHATV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10100" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000273.png" tvg-lang="BLOODY_SWEET" group-title="Odia", Argus
+https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="295" tvg-logo="https://core.freetvindia.com/media/Rang.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", Rang
+https://mumt01.tangotv.in/RANG/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="110" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000566.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", Rengoni
+https://mumt05.tangotv.in/RENGONI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="147" tvg-logo="https://core.freetvindia.com/media/channels/jonacktv.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", Jonack
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="184" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000652.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", Spondon
+https://mumt05.tangotv.in/SPONDON/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="221" tvg-logo="https://core.freetvindia.com/media/DD_Assam.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", DD Assam
+https://mumt05.tangotv.in/DDASSAM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="258" tvg-logo="https://core.freetvindia.com/media/Pear_tv.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", Pear TV
+https://mumt01.tangotv.in/PEARTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="332" tvg-logo="https://core.freetvindia.com/media/Ramdhenu.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", Ramdhenu
+https://mumt01.tangotv.in/RAMDHENU/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="480" tvg-logo="https://core.freetvindia.com/media/Prag_News.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", Prag News
+https://mumt05.tangotv.in/PRAGNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="591" tvg-logo="https://core.freetvindia.com/media/channels/dy365.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", DY 365
+https://mumt04.tangotv.in/DY365/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="517" tvg-logo="https://core.freetvindia.com/media/News_Live_24x7.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", News Live 24X7
+https://mumt01.tangotv.in/NEWSLIVE24x7/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="369" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000525.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", Assam Talks
+https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="443" tvg-logo="https://core.freetvindia.com/media/Protidin_time.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", Protidin Time
+https://mumt03.tangotv.in/PROTIDINTIME/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="554" tvg-logo="https://core.freetvindia.com/media/North_East_Live.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", North East Live
+https://mumt01.tangotv.in/NORTHEASTLIVE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="406" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000650.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", NKTV Plus
+https://mumt05.tangotv.in/NKTVPLUS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="665" tvg-logo="https://core.freetvindia.com/media/DD_Nagaland.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", DD Nagaland
+https://mumt01.tangotv.in/DDNAGALAND/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="702" tvg-logo="https://core.freetvindia.com/media/DD_Tripura.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", DD Tripura
+https://mumt01.tangotv.in/DDTRIPURA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="739" tvg-logo="https://core.freetvindia.com/media/Hornbill_TV.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", Hornbill TV
+https://mumt01.tangotv.in/HORNBILLTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="776" tvg-logo="https://core.freetvindia.com/media/NE_News.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", NE News
+https://mumt05.tangotv.in/NENEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="813" tvg-logo="https://core.freetvindia.com/media/DD_Manipur.png" tvg-lang="BLOODY_SWEET" group-title="Assamese", DD Manipur
+https://mumt03.tangotv.in/DDMANIPUR/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10618" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000265.png" tvg-lang="BLOODY_SWEET" group-title="Urdu", Tehzeeb TV
+https://mumt05.tangotv.in/TEHZEEBTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="24025" tvg-logo="https://core.freetvindia.com/media/channels/munshif_TV.png" tvg-lang="BLOODY_SWEET" group-title="Urdu", Munsif TV Urdu
+https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10692" tvg-logo="https://core.freetvindia.com/media/1655_FreeTV_Paigam.png" tvg-lang="BLOODY_SWEET" group-title="Urdu", Paigham Television
+https://mumt05.tangotv.in/PAIGAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10729" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000208.png" tvg-lang="BLOODY_SWEET" group-title="Urdu", 4TV News
+https://mumt05.tangotv.in/4TVNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10766" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000626.png" tvg-lang="BLOODY_SWEET" group-title="Urdu", Channel Win
+https://mumt05.tangotv.in/CHANNELWIN/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10803" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000627.png" tvg-lang="BLOODY_SWEET" group-title="Urdu", Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10840" tvg-logo="https://core.freetvindia.com/media/Sindth_TV.png" tvg-lang="BLOODY_SWEET" group-title="Others", Sindh TV
+https://mumt01.tangotv.in/SINDHTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="10914" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000046.png" tvg-lang="BLOODY_SWEET" group-title="Others", Nepal 1
+https://mumt05.tangotv.in/NEPAL1/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="34523" tvg-logo="https://core.freetvindia.com/media/channels/pularitv.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Pulari TV
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="34572" tvg-logo="https://core.freetvindia.com/media/channels/Shalom.png" tvg-lang="BLOODY_SWEET" group-title="Malayalam", Shalom TV Global
+https://d28xtgmk9tfk6b.cloudfront.net/master_720.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="28555" tvg-logo="https://core.freetvindia.com/media/channels/Kashish_News.png" tvg-lang="BLOODY_SWEET" group-title="Hindi News", Kashish News
+https://server.thelegitpro.in/kashishnews/kashishnews/index.fmp4.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="28723" tvg-logo="https://core.freetvindia.com/media/channels/fast1.png" tvg-lang="BLOODY_SWEET" group-title="Punjabi", Fast 1
+https://mumt03.tangotv.in/Fast1/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1

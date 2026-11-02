@@ -1,0 +1,863 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="101" tvg-name="GYANDARSHAN 1" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14.png" group-title="News",GYANDARSHAN 1
+https://cdn.pishow.tv/ott/live/14/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="INDIA TODAY" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10547.jpg" group-title="News",INDIA TODAY
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="R Republic" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10551.jpg" group-title="News",R Republic
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="INDIA AHEAD" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-269.png" group-title="News",INDIA AHEAD
+https://cdn.pishow.tv/ott/live/269/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NEWS TIME" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1494.jpg" group-title="News",NEWS TIME
+https://cdn.pishow.tv/ott/live/1494/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Nepal1" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14901780577751945.png" group-title="News",Nepal1
+https://cdn.pishow.tv/ott/live/1490/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NEWS LIVE" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10011.jpg" group-title="News",NEWS LIVE
+https://cdn.pishow.tv/ott/live/10011/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NE News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100101780577504540.png" group-title="News",NE News
+https://cdn.pishow.tv/ott/live/10010/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="KAIRALI NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14691780574264464.png" group-title="News",KAIRALI NEWS
+https://cdn.pishow.tv/ott/live/1469/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DY365" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100011780577215648.png" group-title="News",DY365
+https://cdn.pishow.tv/ott/live/10001/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD INDIA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-23.png" group-title="News",DD INDIA
+https://cdn.pishow.tv/ott/live/23/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="CNA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/099260397.jpeg" group-title="News",CNA
+http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="News 1st Kannada" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-268.png" group-title="News",News 1st Kannada
+https://cdn.pishow.tv/ott/live/268/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="France 24" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/127712444.jpeg" group-title="News",France 24
+https://live.france24.com/live/F24_EN_HI_HLS/playlist.m3u8?hdnts=exp=1755871387~acl=/live/F24_EN_HI_HLS/*~hmac=a08552d63bc99e9ad2fa8e24690491ff330b6e2e2433a4a585ae42b67e46a433&partner=playbox
+#EXTINF:-1 tvg-id="101" tvg-name="NEWS7 TAMIL" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14981780577701465.png" group-title="News",NEWS7 TAMIL
+https://cdn.pishow.tv/ott/live/1498/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="CVR ENGLISH NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4251780577696267.png" group-title="News",CVR ENGLISH NEWS
+https://cdn.pishow.tv/ott/live/425/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="AAJ TAK" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10608.jpg" group-title="News",AAJ TAK
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12.jpg" group-title="News",DD NEWS
+https://cdn.pishow.tv/ott/live/12/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="The Unmute" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/738534981.jpeg" group-title="News",The Unmute
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c5214ceab89e5140e6135
+#EXTINF:-1 tvg-id="101" tvg-name="DD PBNS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-223.png" group-title="News",DD PBNS
+https://cdn.pishow.tv/ott/live/223/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NEWS TAMIL 24/7" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14331780576758165.png" group-title="News",NEWS TAMIL 24/7
+https://cdn.pishow.tv/ott/live/1433/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="News India" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/349729053.jpg" group-title="News",News India
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c562d9232d70ba9081636
+#EXTINF:-1 tvg-id="101" tvg-name="Buletin India" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/021185003.jpeg" group-title="News",Buletin India
+http://103.209.67.18:8080/hls/bindia.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Vande Bharat News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/695226323.jpeg" group-title="News",Vande Bharat News
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698b1df349e6cf424903fc35
+#EXTINF:-1 tvg-id="104" tvg-name="GOOD NEWS TODAY" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10546.jpg" group-title="News",GOOD NEWS TODAY
+https://d2lk5u59tns74c.cloudfront.net/out/v1/75f3183e143240a29fbddd502a6a3f8d/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Bharat Express" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-11391780576231158.png" group-title="News",Bharat Express
+https://cdn.pishow.tv/ott/live/1139/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="REPUBLIC BHARATH" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1053.png" group-title="News",REPUBLIC BHARATH
+https://cdn.pishow.tv/ott/live/1053/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PTC NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/821172381.jpeg" group-title="News",PTC NEWS
+https://cdn.pishow.tv/ott/live/1502/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Sacchi Report" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/163662295.jpg" group-title="News",Sacchi Report
+http://38.242.242.5:8080/hls/sachhireport/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="NAVBHARAT" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10585.jpg" group-title="News",NAVBHARAT
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NEWS MALAYALAM 24x7" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1629.png" group-title="News",NEWS MALAYALAM 24x7
+https://cdn.pishow.tv/ott/live/1629/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="News Flash" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/643229904.jpeg" group-title="News",News Flash
+https://cdn.ottlive.co.in/newsflashchannel/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Samachar Plus" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/012194967.jpeg" group-title="News",Samachar Plus
+https://samacharplus.livebox.co.in/samacharplushls/live.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="ANB NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1626.jpg" group-title="News",ANB NEWS
+https://cdn.pishow.tv/ott/live/1626/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DY365" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/398342045.jpeg" group-title="News",DY365
+https://cdn.pishow.tv/ott/live/10001/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Tribe Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/738060892.jpeg" group-title="News",Tribe Tv
+https://server.livelegitpro.in/tribetv/tribetv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PRIME 9 NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2421780598742975.png" group-title="News",PRIME 9 NEWS
+https://cdn.pishow.tv/ott/live/242/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Janataa News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/451743007.jpeg" group-title="News",Janataa News
+https://live1.ottlive.co.in/janataanews/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Aagaaz Times" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/3627478281773990686883.png" group-title="News",Aagaaz Times
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69ba56d7d592752c6c011e32
+#EXTINF:-1 tvg-id="101" tvg-name="Awaaz India " tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/362685691.jpeg" group-title="News",Awaaz India 
+https://live1.ottlive.co.in/awaazindia/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="AB News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/954722144.jpeg" group-title="News",AB News
+https://legitpro.co.in/ajaybharat/ajaybharat/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Spokesman" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/643915176.jpeg" group-title="News",Spokesman
+https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Soochna India" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/621146662.png" group-title="News",Soochna India
+https://live1.ottlive.co.in/soochnaindia/soochnaindia/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Voice TV Urdu" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/738987466.jpeg" group-title="News",Voice TV Urdu
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b3fe56cf538e666902cfb4
+#EXTINF:-1 tvg-id="101" tvg-name="News11 Bharat" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/737367535.jpeg" group-title="News",News11 Bharat
+https://live1.ottlive.co.in/news11/news11/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Top Marathi News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/737149399.jpeg" group-title="News",Top Marathi News
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="RDX Goa" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/642510582.jpeg" group-title="News",RDX Goa
+https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="22 Scope" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/318296789.jpeg" group-title="News",22 Scope
+https://ott.livelegitpro.in/hls4/22scope/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="BHI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/318157667.jpeg" group-title="News",BHI
+https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MEDIA ONE" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14811780574933548.png" group-title="News",MEDIA ONE
+https://cdn.pishow.tv/ott/live/1481/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="JAN TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100041780576198942.png" group-title="News",JAN TV
+https://cdn.pishow.tv/ott/live/10004/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NEWS J" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12791780576878063.png" group-title="News",NEWS J
+https://cdn.pishow.tv/ott/live/1279/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TAMILIAN TELEVISION" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12591780576557105.png" group-title="News",TAMILIAN TELEVISION
+https://cdn.pishow.tv/ott/live/1259/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="99 PERCENT" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1211.png" group-title="News",99 PERCENT
+https://cdn.pishow.tv/ott/live/1211/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Big Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10591780599294584.png" group-title="News",Big Tv
+https://cdn.pishow.tv/ott/live/1059/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="REPORTER TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-15101780574958852.png" group-title="News",REPORTER TV
+https://cdn-2.pishow.tv/live/1510/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="BANSAL NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10511780576971277.png" group-title="News",BANSAL NEWS
+https://cdn.pishow.tv/ott/live/1051/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="BRK NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10371780599456010.png" group-title="News",BRK NEWS
+https://cdn.pishow.tv/ott/live/1037/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PUBLIC TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4391780575630341.png" group-title="News",PUBLIC TV
+https://cdn.pishow.tv/ott/live/439/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SAKSHI TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4091780598794452.png" group-title="News",SAKSHI TV
+https://cdn.pishow.tv/ott/live/409/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="ANDHRA JYOTI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-407.png" group-title="News",ANDHRA JYOTI
+https://cdn.pishow.tv/ott/live/407/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MAHAA NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4011780599942813.png" group-title="News",MAHAA NEWS
+https://cdn.pishow.tv/ott/live/401/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="10 TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-391.png" group-title="News",10 TV
+https://cdn.pishow.tv/ott/live/391/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TV5 NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-3871780598900155.png" group-title="News",TV5 NEWS
+https://cdn.pishow.tv/ott/live/387/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="V6 NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-3891780599169077.png" group-title="News",V6 NEWS
+https://cdn.pishow.tv/ott/live/389/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Nepal One" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/701519611.jpeg" group-title="News",Nepal One
+http://longstream-06.ajaah.com/PlayBoxTV/Nepal1TV/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MH1 News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/699771071.jpeg" group-title="News",MH1 News
+http://longstream-06.ajaah.com/PlayBoxTV/MH1News/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Gulistan News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/7010044191776074292113.png" group-title="News",Gulistan News
+http://longstream-06.ajaah.com/PlayBoxTV/GulistanNews/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Surya Samachar" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/700235409.jpeg" group-title="News",Surya Samachar
+http://longstream-06.ajaah.com/PlayBoxTV/SuryaSamachar/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Express News Bharat" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/375180410.jpg" group-title="News",Express News Bharat
+http://103.47.14.9:8080/hls/enbnews.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="National News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/923060617.jpeg" group-title="News",National News
+https://desitashantv.livebox.co.in/nationalnewshls/nationalnews.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="IN 24 News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/088350188.jpg" group-title="News",IN 24 News
+https://server.livelegitpro.in/in24news/in24news/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MEDIA9" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/892388087.jpeg" group-title="News",MEDIA9
+http://tv.media9news.com:8080/hls/media9.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="C News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/560576470.jpeg" group-title="News",C News
+https://legitpro.co.in/cnews/cnews/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Prime TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/354624659.jpeg" group-title="News",Prime TV
+https://legitpro.co.in/hls9/primetv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Ab Star News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/560376842.jpeg" group-title="News",Ab Star News
+https://legitpro.co.in/abnews/abnews/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Jansetu News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/775645524.jpeg" group-title="News",Jansetu News
+https://server.thelegitpro.in/JansetuNews/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="ABC News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/487338259.jpeg" group-title="News",ABC News
+https://live.abcnews.media/abcnews/abcnews/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="KBC News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/349141515.jpeg" group-title="News",KBC News
+https://server.thelegitpro.in/kbcnews/kbcnews/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TNP News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/349286143.jpg" group-title="News",TNP News
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b14690f34e76d2c3014fe4
+#EXTINF:-1 tvg-id="101" tvg-name="SB News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/566931073.jpeg" group-title="News",SB News
+https://sbnews.livebox.co.in/sbnewshls/live.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TTN 24" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/905407473.jpg" group-title="News",TTN 24
+https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="FM News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/560455707.jpeg" group-title="News",FM News
+https://ott.livelegitpro.in/ruby/nation/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TV45" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/695286272.jpg" group-title="News",TV45
+https://server.livelegitpro.in/bnews24/bnews24/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="IBC 24" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-220.png" group-title="News",IBC 24
+https://cdn-3.pishow.tv/live/220/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SWADESH NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-465.jpg" group-title="News",SWADESH NEWS
+https://cdn.pishow.tv/ott/live/465/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NEWS NATION" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1493.jpg" group-title="News",NEWS NATION
+https://cdn.pishow.tv/ott/live/1493/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Bharat 24" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/6856640031774507809536.png" group-title="News",Bharat 24
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c58cf8344b701cb0c7e14
+#EXTINF:-1 tvg-id="101" tvg-name="Bharat 24" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/6955485161774507789154.png" group-title="News",Bharat 24
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c58cf8344b701cb0c7e14
+#EXTINF:-1 tvg-id="101" tvg-name="K News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/940150178.png" group-title="News",K News
+https://legitpro.co.in/knews/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="The Hind24 News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/545549372.png" group-title="News",The Hind24 News
+https://th24.cloud/the24cloud/live1/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NBC 24" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/671893001.png" group-title="News",NBC 24
+https://genesys.livebox.co.in/nbc24hls/live.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Live Samachar Bharat" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/557001189.png" group-title="News",Live Samachar Bharat
+ https://legitpro.co.in/livesamacharbharat/livesamacharbharat/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NSC9 News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/990520431.png" group-title="News",NSC9 News
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69ba4a5c66fd3e314a05afe6
+#EXTINF:-1 tvg-id="101" tvg-name="APN News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/5076453001780576158092.png" group-title="News",APN News
+https://cdn01.freetvindia.com/live/APN.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="Search India " tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/406398419.png" group-title="News",Search India 
+https://stream.ottlive.co.in/searchindia/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Asian News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/846543164.png" group-title="News",Asian News
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b503db88c74189e4009765
+#EXTINF:-1 tvg-id="101" tvg-name="TNP News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/846978550.jpeg" group-title="News",TNP News
+https://stream.ottlive.co.in/tnpnews/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Indian News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/505403319.png" group-title="News",Indian News
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698b240272905beaf605ac7a
+#EXTINF:-1 tvg-id="101" tvg-name="Live Times" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/507742656.png" group-title="News",Live Times
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=699d5b6b50b2374d9104b798
+#EXTINF:-1 tvg-id="101" tvg-name="K News India" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/507909703.jpeg" group-title="News",K News India
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=699d50a9a5bfd9961a0f3972
+#EXTINF:-1 tvg-id="101" tvg-name="Pratham Khabar 24x7" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/508470268.png" group-title="News",Pratham Khabar 24x7
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c60430ef945a8360c7688
+#EXTINF:-1 tvg-id="101" tvg-name="Amar Ujala" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/508561473.jpeg" group-title="News",Amar Ujala
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c612479c53684160e31b5
+#EXTINF:-1 tvg-id="101" tvg-name="India Daily 24x7" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/508722735.png" group-title="News",India Daily 24x7
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c650d7dff56508c0650e4
+#EXTINF:-1 tvg-id="101" tvg-name="News India 24 x 7" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-273.png" group-title="News",News India 24 x 7
+https://cdn.pishow.tv/ott/live/273/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="HINDI KHABAR" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10411780576321406.png" group-title="News",HINDI KHABAR
+https://cdn.pishow.tv/ott/live/1041/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="INDIA TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1043.jpg" group-title="News",INDIA TV
+https://cdn.pishow.tv/ott/live/1043/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SWARAJ EXPRESS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4771780576379169.png" group-title="News",SWARAJ EXPRESS
+https://cdn.pishow.tv/ott/live/477/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Awaaz India" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/970402526.png" group-title="News",Awaaz India
+https://amigofx.com:1936/awaazindia/awaazindia/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Tehelka Digital News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/056278478.jpeg" group-title="News",Tehelka Digital News
+https://stream-hls.castr.net/68b419fd7f1f346181dba5b7/live_8c6a4b00864f11f0b5113f731ad05aa1/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Nistha News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/907146977.jpeg" group-title="News",Nistha News
+https://nisthadhawani.in/Nisthanewsouthls/out.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Chanakya News India " tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/455270404.jpeg" group-title="News",Chanakya News India 
+ https://newsliveindia.com/chanakyanewsindiarjhls/chanakyanewsrajsthan.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Gbn24 News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/675595897.png" group-title="News",Gbn24 News
+https://genesys.livebox.co.in/gbnhls/live.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Vistaar News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/323960759.png" group-title="News",Vistaar News
+https://stream.ottlive.co.in/vistaartv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Nation Live " tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/907219092.jpeg" group-title="News",Nation Live 
+https://nisthadhawani.in/NationLivehls/out.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="C News Bharat" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/987213368.png" group-title="News",C News Bharat
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b1170d9f0a9df5780ec2ed
+#EXTINF:-1 tvg-id="101" tvg-name="Mahua Khabar" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/505636676.png" group-title="News",Mahua Khabar
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698b27d354d15855ad0668e4
+#EXTINF:-1 tvg-id="101" tvg-name="DNN News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/507530841.png" group-title="News",DNN News
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69abd245edf381a1ad07e5e5
+#EXTINF:-1 tvg-id="101" tvg-name="Ann news" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/505201092.png" group-title="News",Ann news
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698b21dedd24293bd908abd5
+#EXTINF:-1 tvg-id="101" tvg-name="DA News Plus" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/508463701.png" group-title="News",DA News Plus
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c6a75052a3dde79035c95
+#EXTINF:-1 tvg-id="101" tvg-name=" TV9 Bharatvarsh" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/3756346741787839837429.jpeg" group-title="News", TV9 Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Ind24" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/729795778.png" group-title="News",Ind24
+https://cdn01.freetvindia.com/live/Ind24.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="ANBNewsNational" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/730359174.png" group-title="News",ANBNewsNational
+https://cdn01.freetvindia.com/live/ANBNewsNational.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="Jantantra" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/736875333.png" group-title="News",Jantantra
+https://cdn01.freetvindia.com/live/Jantantra.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="HarKhabar" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/755935383.png" group-title="News",HarKhabar
+https://cdn01.freetvindia.com/live/HarKhabar.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="SadhanaPlusNews" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/729280612.png" group-title="News",SadhanaPlusNews
+https://cdn01.freetvindia.com/live/SadhanaPlusNews.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="Fast1" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/736669615.png" group-title="News",Fast1
+https://cdn01.freetvindia.com/live/Fast1.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="IndiaAhead" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/737030599.png" group-title="News",IndiaAhead
+https://cdn01.freetvindia.com/live/IndiaAhead.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="TV24" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/755810396.png" group-title="News",TV24
+https://cdn01.freetvindia.com/live/TV24.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="C-10" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/756109072.png" group-title="News",C-10
+https://cdn01.freetvindia.com/live/C-10.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="IndiaNewsUP" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/766293077.png" group-title="News",IndiaNewsUP
+https://cdn01.freetvindia.com/live/IndiaNewsUP.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="KhabrainAbhiTak" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/736665439.png" group-title="News",KhabrainAbhiTak
+https://cdn01.freetvindia.com/live/KhabrainAbhiTak.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="NewsHour" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/755968883.png" group-title="News",NewsHour
+https://cdn01.freetvindia.com/live/NewsHour.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="STV Haryana News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/756304145.png" group-title="News",STV Haryana News
+https://cdn01.freetvindia.com/live/STVHaryanaNews.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="VertentSamacharPlus" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/756342656.png" group-title="News",VertentSamacharPlus
+https://cdn01.freetvindia.com/live/VertentSamacharPlus.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="IndiaNews" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/765893826.png" group-title="News",IndiaNews
+https://cdn01.freetvindia.com/live/IndiaNews.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="IndiaNewsMP_CG" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/766200386.png" group-title="News",IndiaNewsMP_CG
+https://cdn01.freetvindia.com/live/IndiaNewsMP_CG.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="The Voice TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/853934867.png" group-title="News",The Voice TV
+https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="RaftaarMedia" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/729923740.png" group-title="News",RaftaarMedia
+https://cdn01.freetvindia.com/live/RaftaarMedia.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="News1India" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/736795044.png" group-title="News",News1India
+https://cdn01.freetvindia.com/live/News1India.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="SadhnaNewsMP" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/755717563.png" group-title="News",SadhnaNewsMP
+https://cdn01.freetvindia.com/live/SadhnaNewsMP.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="1stIndiaNews" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/755871503.png" group-title="News",1stIndiaNews
+https://cdn01.freetvindia.com/live/1stIndiaNews.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="TV100" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/756005343.png" group-title="News",TV100
+https://cdn01.freetvindia.com/live/TV100.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="KhabarFast" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/756166620.png" group-title="News",KhabarFast
+https://cdn01.freetvindia.com/live/KhabarFast.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="BharatSamachar" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/766004642.png" group-title="News",BharatSamachar
+https://cdn01.freetvindia.com/live/BharatSamachar.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="KBP Times" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/4194902721783422619616.png" group-title="News",KBP Times
+https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PTC News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/700145527.jpeg" group-title="News",PTC News
+https://cdn.pishow.tv/ott/live/1502/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Global Punjab" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/560668015.jpeg" group-title="News",Global Punjab
+https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="News Only" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417429835.jpeg" group-title="News",News Only
+http://livestream.unlimitedcdn.com/newsonly/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Rozana Spokesman" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/507642057.jpeg" group-title="News",Rozana Spokesman
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c582c70bb3b855900c458
+#EXTINF:-1 tvg-id="101" tvg-name="Prime Asia" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/508932699.jpeg" group-title="News",Prime Asia
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c666b573a2dfd0a07bd2a
+#EXTINF:-1 tvg-id="101" tvg-name="CHARDIKLA TIME TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1627.png" group-title="News",CHARDIKLA TIME TV
+https://cdn.pishow.tv/ott/live/1627/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Ajj Di Awaaz Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/980974889.jpeg" group-title="News",Ajj Di Awaaz Tv
+http://ajjdiawaztv.agmediachandigarh.com/ajjdiawaztv/ffaf00d8bda0333845318b251c437976.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Samay Kolkata" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/087310978.jpeg" group-title="News",Samay Kolkata
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="CN News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/446346390.png" group-title="News",CN News
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c660da5a42752a40144a9
+#EXTINF:-1 tvg-id="101" tvg-name="NE Bharat 24" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/989200196.png" group-title="News",NE Bharat 24
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b2625656acc1949b035ef8
+#EXTINF:-1 tvg-id="101" tvg-name="R Plus Gold" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/846103798.png" group-title="News",R Plus Gold
+https://cdn.pishow.tv/ott/live/1231/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="R Plus News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/846392392.png" group-title="News",R Plus News
+https://cdn.pishow.tv/ott/live/1233/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Prime Media Goa" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/992187986.jpeg" group-title="News",Prime Media Goa
+https://rcdn.rixcast.com/primegoa/primegoa.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Prudent - Goa News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/987671201.jpeg" group-title="News",Prudent - Goa News
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SAAM TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4371780574649781.png" group-title="News",SAAM TV
+https://cdn.pishow.tv/ott/live/437/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="News Marathi 24x7 News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/030061673.jpeg" group-title="News",News Marathi 24x7 News
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c588beb54af5d9d01a44e
+#EXTINF:-1 tvg-id="101" tvg-name="Top News Marathi" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/508370639.jpeg" group-title="News",Top News Marathi
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c5fd5934be5b3a7038c29
+#EXTINF:-1 tvg-id="101" tvg-name="ABP Majha" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/6396655131780642051583.png" group-title="News",ABP Majha
+https://cdn-3.pishow.tv/live/471/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Gujarat First News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/560930147.jpeg" group-title="News",Gujarat First News
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c67d4c08acd29fb0c00cb
+#EXTINF:-1 tvg-id="101" tvg-name="DK24x7 News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/545617430.png" group-title="News",DK24x7 News
+https://rocktv.cloud/Dk24x7/live5/video.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Growth Now News" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/4197245831783424729071.jpg" group-title="News",Growth Now News
+https://stream.joytvindia.com/stream/hls/growthnow/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="6TV TELANGANA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-232.png" group-title="News",6TV TELANGANA
+https://cdn.pishow.tv/ott/live/232/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-3831780573800771.png" group-title="News",NTV
+https://cdn.pishow.tv/ott/live/383/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="4 Sides TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/986456993.png" group-title="News",4 Sides TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69abf81e54c705e0d70cfbd4
+#EXTINF:-1 tvg-id="101" tvg-name="Metro Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/989028847.png" group-title="News",Metro Tv
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b25f4b111ed3a354002cc6
+#EXTINF:-1 tvg-id="101" tvg-name="HMTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2801780598689817.png" group-title="News",HMTV
+https://cdn.pishow.tv/ott/live/280/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="T NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-3851780599680030.png" group-title="News",T NEWS
+https://cdn.pishow.tv/ott/live/385/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="I NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4111780599393037.png" group-title="News",I NEWS
+https://cdn.pishow.tv/ott/live/411/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="POLIMER NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12451780576692415.png" group-title="News",POLIMER NEWS
+https://cdn.pishow.tv/ott/live/1245/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="THANTHI TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-16121780577181338.png" group-title="News",THANTHI TV
+https://cdn.pishow.tv/ott/live/1612/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="WIN TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1531.jpg" group-title="News",WIN TV
+https://cdn.pishow.tv/ott/live/1531/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MALAI MURASU SEITHIGAL" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-16061780576615252.png" group-title="News",MALAI MURASU SEITHIGAL
+https://cdn.pishow.tv/ott/live/1606/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PUTHIYA TALAIMURI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12611780576487442.png" group-title="News",PUTHIYA TALAIMURI
+https://cdn.pishow.tv/ott/live/1261/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Unknown" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/682273829.jpeg" group-title="News",Unknown
+https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8?hdnts=st=1746681109~exp=1746691909~acl=*~data=testdata~hmac=77fc431c7dabb2e7e10da63410b0471408905872a700ddf41d1a7aef2fe2aeed
+#EXTINF:-1 tvg-id="101" tvg-name="Munsif Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/506975888.jpeg" group-title="News",Munsif Tv
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c55396f5dbf6d1307709b
+#EXTINF:-1 tvg-id="101" tvg-name="R KANNADA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-298.png" group-title="News",R KANNADA
+https://cdn.pishow.tv/ott/live/298/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="R Maxx" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/986659431.png" group-title="News",R Maxx
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69ac021ba7cef880500cfc5a
+#EXTINF:-1 tvg-id="101" tvg-name="Janataa Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/508552438.png" group-title="News",Janataa Tv
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c69b020cebce1dd080d19
+#EXTINF:-1 tvg-id="104" tvg-name="NEWS 18 INDIA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10590.jpg" group-title="News",NEWS 18 INDIA
+https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="Republic TV Bharat" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10827.jpg" group-title="News",Republic TV Bharat
+https://cdn.pishow.tv/ott/live/271/master.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="Indian News Gujarat" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/7681970951780573839348.png" group-title="News",Indian News Gujarat
+https://cdn01.freetvindia.com/live/IndiaNewsGujarat.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="102" tvg-name="India News Rajasthan" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/7662294811780575598044.png" group-title="News",India News Rajasthan
+https://cdn01.freetvindia.com/live/IndiaNewsRajasthan.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="DD SANSAD TV (RAJYA SABHA)" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-39.jpg" group-title="Entertainment",DD SANSAD TV (RAJYA SABHA)
+https://cdn.pishow.tv/ott/live/39/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DARSHANA TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14531780575151512.png" group-title="Entertainment",DARSHANA TV
+https://cdn.pishow.tv/ott/live/1453/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SPONDON" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100191780576799097.png" group-title="Entertainment",SPONDON
+https://cdn.pishow.tv/ott/live/10019/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="RENGONI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100181780576778545.png" group-title="Entertainment",RENGONI
+https://cdn.pishow.tv/ott/live/10018/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="RANG" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100171780576868565.png" group-title="Entertainment",RANG
+https://cdn.pishow.tv/ott/live/10017/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NORTH EAST LIVE" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100151780577080505.png" group-title="Entertainment",NORTH EAST LIVE
+https://cdn.pishow.tv/ott/live/10015/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NL TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10014.png" group-title="Entertainment",NL TV
+https://cdn.pishow.tv/ott/live/10014/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NKTV PLUS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100131780576959401.png" group-title="Entertainment",NKTV PLUS
+https://cdn.pishow.tv/ott/live/10013/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NKTV BANGLA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100121780576437164.png" group-title="Entertainment",NKTV BANGLA
+https://cdn.pishow.tv/ott/live/10012/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Jonack" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10006.png" group-title="Entertainment",Jonack
+https://cdn.pishow.tv/ott/live/10006/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SVBC 4 HINDI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-16071780572582443.png" group-title="Entertainment",SVBC 4 HINDI
+https://cdn.pishow.tv/ott/live/1607/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="VOA 340 GLOBAL HD" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1529.png" group-title="Entertainment",VOA 340 GLOBAL HD
+https://cdn.pishow.tv/ott/live/1529/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="VALICHAM PLUS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4611780576270450.png" group-title="Entertainment",VALICHAM PLUS
+https://cdn.pishow.tv/ott/live/461/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="RAMDHENU" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100161780576887746.png" group-title="Entertainment",RAMDHENU
+https://cdn.pishow.tv/ott/live/10016/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="ND 24" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10009.jpg" group-title="Entertainment",ND 24
+https://cdn.pishow.tv/ott/live/10009/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TV5 KANNADA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-15261780575701706.png" group-title="Entertainment",TV5 KANNADA
+https://cdn.pishow.tv/ott/live/1526/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TOTAL TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-15221780577073686.png" group-title="Entertainment",TOTAL TV
+https://cdn.pishow.tv/ott/live/1522/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NANDIGOSHA TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1486.png" group-title="Entertainment",NANDIGOSHA TV
+https://cdn.pishow.tv/ott/live/1486/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MAZHAVIL MANORAMA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14791780574319423.png" group-title="Entertainment",MAZHAVIL MANORAMA
+https://cdn.pishow.tv/ott/live/1479/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MATHIMUGAM THOLAIKATCHI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14761780577575349.png" group-title="Entertainment",MATHIMUGAM THOLAIKATCHI
+https://cdn.pishow.tv/ott/live/1476/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="KALINGA TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14701780576633013.png" group-title="Entertainment",KALINGA TV
+https://cdn.pishow.tv/ott/live/1470/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="JEEVAN TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14671780574897675.png" group-title="Entertainment",JEEVAN TV
+https://cdn.pishow.tv/ott/live/1467/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="JANAM" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14661780577806704.png" group-title="Entertainment",JANAM
+https://cdn.pishow.tv/ott/live/1466/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="GS TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14621780572389956.png" group-title="Entertainment",GS TV
+https://cdn.pishow.tv/ott/live/1462/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PEPPERS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-13831780575593633.png" group-title="Entertainment",PEPPERS
+https://cdn.pishow.tv/ott/live/1383/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="KALAIGNAR CHITHIRAM" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1243.jpg" group-title="Entertainment",KALAIGNAR CHITHIRAM
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="RUPSHI BANGLA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1039.png" group-title="Entertainment",RUPSHI BANGLA
+https://cdn.pishow.tv/ott/live/1039/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NHK WORLD HD" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4551780577868948.png" group-title="Entertainment",NHK WORLD HD
+https://cdn.pishow.tv/ott/live/455/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="AASTHA KANNADA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-234.jpg" group-title="Entertainment",AASTHA KANNADA
+https://cdn.pishow.tv/ott/live/234/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DANGAL" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1141.png" group-title="Entertainment",DANGAL
+https://cdn.pishow.tv/ott/live/1141/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SUDARSHAN" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1516.png" group-title="Entertainment",SUDARSHAN
+https://cdn-2.pishow.tv/live/1516/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SHALINI TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1381.png" group-title="Entertainment",SHALINI TV
+https://cdn.pishow.tv/ott/live/1381/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="ANJAN TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-993.jpg" group-title="Entertainment",ANJAN TV
+https://cdn.pishow.tv/ott/live/993/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="HI DOST" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2241780577524136.png" group-title="Entertainment",HI DOST
+https://cdn.pishow.tv/ott/live/224/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="BCN Channel" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/976549907.jpg" group-title="Entertainment",BCN Channel
+http://streamcp.logosys.cloud:1935/bcnchannel/bcnchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SS TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/746504243.jpeg" group-title="Entertainment",SS TV
+https://5dd3981940faa.streamlock.net:443/snewsnpt/snewsnpt/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Asianet Me" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/699110417.jpeg" group-title="Entertainment",Asianet Me
+http://longstream-06.ajaah.com/PlayBoxTV/AsianetME/playlist.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="PTC PUNJABI GOLD" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/819038243.jpeg" group-title="Entertainment",PTC PUNJABI GOLD
+https://cdn.pishow.tv/ott/live/450/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SAIRAM TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1611.png" group-title="Entertainment",SAIRAM TV
+https://cdn.pishow.tv/ott/live/1611/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="OTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1600.png" group-title="Entertainment",OTV
+https://cdn.pishow.tv/ott/live/1600/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MANORANJAN TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1013.jpg" group-title="Entertainment",MANORANJAN TV
+https://cdn.pishow.tv/ott/live/1013/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MANORANJAN GRAND" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1011.jpg" group-title="Entertainment",MANORANJAN GRAND
+https://cdn.pishow.tv/ott/live/1011/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="CHUMBAK TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1451.png" group-title="Entertainment",CHUMBAK TV
+https://cdn.pishow.tv/ott/live/1451/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Punjabi Shorts" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/194233831.png" group-title="Entertainment",Punjabi Shorts
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c633f9f4c9deff8062694
+#EXTINF:-1 tvg-id="101" tvg-name="PTC Canada" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/194137489.png" group-title="Entertainment",PTC Canada
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c629eb33d86e6710b06b8
+#EXTINF:-1 tvg-id="101" tvg-name="Awaaz India" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/986966813.png" group-title="Entertainment",Awaaz India
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69afef008b4eb36fb208409a
+#EXTINF:-1 tvg-id="101" tvg-name="Mahua Play" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/505554152.png" group-title="Entertainment",Mahua Play
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698b24b926cde1492a074d28
+#EXTINF:-1 tvg-id="101" tvg-name="Nakshatra Digital" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/560893170.jpeg" group-title="Entertainment",Nakshatra Digital
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c4ef6b5effcae7a069694
+#EXTINF:-1 tvg-id="101" tvg-name="VILLAGE TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/869801066.png" group-title="Entertainment",VILLAGE TV
+https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="R  Plus Gold" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/506064556.png" group-title="Entertainment",R  Plus Gold
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b7ac50ed725c8df00a4058
+#EXTINF:-1 tvg-id="101" tvg-name="AakashAath" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/766219914.png" group-title="Entertainment",AakashAath
+https://cdn01.freetvindia.com/live/AakashAath.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="U TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/847445515.png" group-title="Entertainment",U TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b129a1b0c5ff82f40fa707
+#EXTINF:-1 tvg-id="101" tvg-name="Aaryaa Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/987469472.png" group-title="Entertainment",Aaryaa Tv
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b126ad393425dcdf07ad74
+#EXTINF:-1 tvg-id="101" tvg-name="Subin Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/987671848.png" group-title="Entertainment",Subin Tv
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b128a47d329099b40d49f5
+#EXTINF:-1 tvg-id="101" tvg-name="Suriya Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/988036576.png" group-title="Entertainment",Suriya Tv
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b12b12b563ea68ab01bb94
+#EXTINF:-1 tvg-id="101" tvg-name="Sana Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/508638993.png" group-title="Entertainment",Sana Tv
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c686d665a301fc008240b
+#EXTINF:-1 tvg-id="101" tvg-name="Sana Plus" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/987348202.png" group-title="Entertainment",Sana Plus
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b119f41ab59eb18a0cdaf0
+#EXTINF:-1 tvg-id="101" tvg-name="ROJA TV " tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/864758690.png" group-title="Entertainment",ROJA TV 
+https://hls.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Sundrani tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/506335483.png" group-title="Entertainment",Sundrani tv
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c4791b4eeaec2f40b54a9
+#EXTINF:-1 tvg-id="104" tvg-name="AmritaTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/764061557.png" group-title="Entertainment",AmritaTV
+https://cdn.pishow.tv/ott/live/220/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="RAJ TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10645.jpg" group-title="Entertainment",RAJ TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TABBAR HITS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-15211780576465078.png" group-title="Entertainment",TABBAR HITS
+https://cdn.pishow.tv/ott/live/1521/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SAFARI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-15131780575018760.png" group-title="Entertainment",SAFARI
+https://cdn.pishow.tv/ott/live/1513/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MK TELEVISION" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1482.png" group-title="Entertainment",MK TELEVISION
+https://cdn.pishow.tv/ott/live/1482/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MANORANJAN PRIME" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1474.jpg" group-title="Entertainment",MANORANJAN PRIME
+https://cdn.pishow.tv/ott/live/1474/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DHOOM" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1456.png" group-title="Entertainment",DHOOM
+https://cdn.pishow.tv/ott/live/1456/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NAMBIKKAI TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-13891780592742743.png" group-title="Entertainment",NAMBIKKAI TV
+https://cdn.pishow.tv/ott/live/1389/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="POLIMER TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12411780575646311.png" group-title="Entertainment",POLIMER TV
+https://cdn.pishow.tv/ott/live/1241/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="KAUMUDY" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12371780574435970.png" group-title="Entertainment",KAUMUDY
+https://cdn.pishow.tv/ott/live/1237/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MANORAMA MAZHAVIL HD" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-11291780574580989.png" group-title="Entertainment",MANORAMA MAZHAVIL HD
+https://cdn.pishow.tv/ott/live/1129/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="RONGEEN TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10291780576311338.png" group-title="Entertainment",RONGEEN TV
+https://cdn.pishow.tv/ott/live/1029/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="AKASH BANGLA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-969.jpg" group-title="Entertainment",AKASH BANGLA
+https://cdn.pishow.tv/ott/live/969/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NIREEKSHANA TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-9651780575372772.png" group-title="Entertainment",NIREEKSHANA TV
+https://cdn.pishow.tv/ott/live/965/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MALAR TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4731780577460417.png" group-title="Entertainment",MALAR TV
+https://cdn.pishow.tv/ott/live/473/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="R. Bangla" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-270.png" group-title="Entertainment",R. Bangla
+https://cdn.pishow.tv/ott/live/270/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="ENTERR10 BANGLA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2411780576030046.png" group-title="Entertainment",ENTERR10 BANGLA
+https://cdn.pishow.tv/ott/live/241/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Shine Kannada" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/735758548.jpeg" group-title="Entertainment",Shine Kannada
+https://cloud.dndcommunication.in/shinekannada/shinekannada/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SHEMAROO TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2301780571793605.png" group-title="Entertainment",SHEMAROO TV
+https://cdn.pishow.tv/ott/live/230/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="CHANNEL WIN" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2291780577685584.png" group-title="Entertainment",CHANNEL WIN
+https://cdn.pishow.tv/ott/live/229/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD YADAGIRI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-21.jpg" group-title="Entertainment",DD YADAGIRI
+https://cdn.pishow.tv/ott/live/21/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD UTTARAKHAND" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-17.jpg" group-title="Entertainment",DD UTTARAKHAND
+https://cdn.pishow.tv/ott/live/17/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD NATIONAL" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-11.png" group-title="Entertainment",DD NATIONAL
+https://cdn.pishow.tv/ott/live/11/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Global India" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/209835742.jpeg" group-title="Entertainment",Global India
+https://server.livelegitpro.in/globalindiatv/globalindiatv/index.m3u8?hdnts=st=1726209255~exp=1726220055~acl=*~data=testdata~hmac=cc2d18fd115e4185e8cba2c273cd920b5c22a60f7e37b5990cd5ce70ddd9b68d
+#EXTINF:-1 tvg-id="101" tvg-name="Sada TV USA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417758391.jpeg" group-title="Entertainment",Sada TV USA
+http://livestream.unlimitedcdn.com/agm/sada-TV/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Sanjha TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417243291.jpeg" group-title="Entertainment",Sanjha TV
+http://livestream.unlimitedcdn.com/sanjhatv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Rangmanch" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/391280894.jpeg" group-title="Entertainment",Rangmanch
+https://amigofx.com:1936/rangmanch/rangmanch/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Shemaroo TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/706557696.jpg" group-title="Entertainment",Shemaroo TV
+https://cdn.pishow.tv/ott/live/230/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Chardikala Time TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/700047975.jpeg" group-title="Entertainment",Chardikala Time TV
+http://longstream-06.ajaah.com/PlayBoxTV/ChardiklaTimeTV/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Namma Bangalore" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/738674415.jpeg" group-title="Entertainment",Namma Bangalore
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c53eefb1001d5de03edc5
+#EXTINF:-1 tvg-id="104" tvg-name="PTC PUNJABI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10556.jpg" group-title="Entertainment",PTC PUNJABI
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PTC Punjabi" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/598756356.jpeg" group-title="Entertainment",PTC Punjabi
+https://cdn.pishow.tv/ott/live/1604/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="KeralaVision" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/764285928.png" group-title="Entertainment & News",KeralaVision
+https://cdn-3.pishow.tv/live/243/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="VASANTH TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1247.jpg" group-title="Entertainment & News",VASANTH TV
+https://cdn.pishow.tv/ott/live/1247/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Desi Channel" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/980448233.jpeg" group-title="Infotainment",Desi Channel
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD RANCHI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1617.jpg?tag=123" group-title="Infotainment",DD RANCHI
+https://cdn.pishow.tv/ott/live/1617/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TEHZEEB TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2391780577613950.png" group-title="Infotainment",TEHZEEB TV
+https://cdn.pishow.tv/ott/live/239/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD SAHYADRI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-301780574056482.png" group-title="Infotainment",DD SAHYADRI
+https://cdn.pishow.tv/ott/live/30/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD NORTH EAST" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-25.jpg" group-title="Infotainment",DD NORTH EAST
+https://cdn.pishow.tv/ott/live/25/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD BANGLA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-371780576055747.png" group-title="Infotainment",DD BANGLA
+https://cdn.pishow.tv/ott/live/37/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD BHARATI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-101780573123355.png" group-title="Infotainment",DD BHARATI
+https://cdn.pishow.tv/ott/live/10/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD BIHAR" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-35.jpg" group-title="Infotainment",DD BIHAR
+https://cdn.pishow.tv/ott/live/35/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD CHHATTISGARH" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-15.png" group-title="Infotainment",DD CHHATTISGARH
+https://cdn.pishow.tv/ott/live/15/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD PODHIGAI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-26.png" group-title="Infotainment",DD PODHIGAI
+https://cdn.pishow.tv/ott/live/26/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD ARUNPRABHA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-32.png" group-title="Infotainment",DD ARUNPRABHA
+https://cdn.pishow.tv/ott/live/32/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DD MADHYA PRADESH" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-311780576734170.png" group-title="Infotainment",DD MADHYA PRADESH
+https://cdn.pishow.tv/ott/live/31/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="BVG" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/757045526.png" group-title="Infotainment",BVG
+https://cdn01.freetvindia.com/live/BVG.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="DD Gyandarshan" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/757101920.png" group-title="Infotainment",DD Gyandarshan
+https://cdn01.freetvindia.com/live/DDGyandarshan.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="Oscar Movies" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/695291646.jpg" group-title="Movies",Oscar Movies
+http://longstream-06.ajaah.com/PlayBoxTV/OscarMoviesBhojpuri/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="B4U MOVIES" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-419.png" group-title="Movies",B4U MOVIES
+https://cdn.pishow.tv/ott/live/419/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="OSCAR MOVIES BHOJPURI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2331780575279003.png" group-title="Movies",OSCAR MOVIES BHOJPURI
+https://cdn.pishow.tv/ott/live/233/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="BHOJPURI CINEMA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10331780575230034.png" group-title="Movies",BHOJPURI CINEMA
+https://cdn.pishow.tv/ott/live/1033/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="B4U KADAK" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2271780574937832.png" group-title="Movies",B4U KADAK
+https://cdn.pishow.tv/ott/live/227/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MAHA MOVIE" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10007.png" group-title="Movies",MAHA MOVIE
+https://cdn.pishow.tv/ott/live/10007/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Fakt Marathi" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/697303762.jpeg" group-title="Movies",Fakt Marathi
+https://cdn.pishow.tv/ott/live/10002/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="FAKT MARATHI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100021780574135854.png" group-title="Movies",FAKT MARATHI
+https://cdn.pishow.tv/ott/live/10002/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="All Time Movies" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/765433004.png" group-title="Movies",All Time Movies
+https://cdn01.freetvindia.com/live/AllTimeMovies.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="STUDIO ONE PLUS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2761780596788794.png" group-title="Movies",STUDIO ONE PLUS
+https://cdn.pishow.tv/ott/live/276/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="ROJA MOVIES" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/864664574.png" group-title="Movies",ROJA MOVIES
+ https://hls.rojatv.cloud/rojamovies/rojamovies/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MOVIE PLUS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1155.png" group-title="Movies",MOVIE PLUS
+https://cdn.pishow.tv/ott/live/1155/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Kabaddi 24X7" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/756825900.png" group-title="Sports",Kabaddi 24X7
+https://cdn01.freetvindia.com/live/Kabaddi24X7.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="Sports Squad Haryana" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/756741111.png" group-title="Sports",Sports Squad Haryana
+https://cdn01.freetvindia.com/live/SportsSquadHaryana.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="DD SPORTS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-131780572608167.png" group-title="Sports",DD SPORTS
+https://cdn.pishow.tv/ott/live/13/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TVE SPORTS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/830835320.png" group-title="Sports",TVE SPORTS
+https://livetv.mahotsavtv.com/trinityvision/tvesports/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="B4U MUSIC" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-415.jpg" group-title="Music",B4U MUSIC
+https://cdn.pishow.tv/ott/live/415/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="7S MUSIC" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12571780576395010.png" group-title="Music",7S MUSIC
+https://cdn.pishow.tv/ott/live/1257/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="PTC MUSIC" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/818501230.png" group-title="Music",PTC MUSIC
+https://cdn.pishow.tv/ott/live/1501/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="9X JHAKAS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10606.jpg" group-title="Music",9X JHAKAS
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PTC CHAKDE" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/818016520.jpeg" group-title="Music",PTC CHAKDE
+https://cdn.pishow.tv/ott/live/449/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="9X JHAKAAS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-61780574462206.png" group-title="Music",9X JHAKAAS
+https://cdn.pishow.tv/ott/live/6/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Sangeet Marathi" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/696876346.jpeg" group-title="Music",Sangeet Marathi
+http://longstream-06.ajaah.com/PlayBoxTV/SangeetMarathi/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Nistha Music" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/907041099.jpeg" group-title="Music",Nistha Music
+https://nisthadhawani.in/NisthaMusicouthls/out.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Global Desi" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/738780686.jpeg" group-title="Music",Global Desi
+https://live.ottlive.co.in/globaldesi/globaldesi/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="9X TASHAN" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-1613.png" group-title="Music",9X TASHAN
+https://cdn.pishow.tv/ott/live/1613/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PUNJABI HITS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-15041780576701328.png" group-title="Music",PUNJABI HITS
+https://cdn.pishow.tv/ott/live/1504/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MK SIX" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12531780575927051.png" group-title="Music",MK SIX
+https://cdn.pishow.tv/ott/live/1253/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="BALLE BALLE MUSIC" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-9871780576528623.png" group-title="Music",BALLE BALLE MUSIC
+https://cdn.pishow.tv/ott/live/987/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MUSIC INDIA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2261780575181686.png" group-title="Music",MUSIC INDIA
+https://cdn.pishow.tv/ott/live/226/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SANGEETH BHOJPURI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12931780575443392.png" group-title="Music",SANGEETH BHOJPURI
+https://cdn.pishow.tv/ott/live/1293/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="9X Tashan" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/698423057.jpeg" group-title="Music",9X Tashan
+https://cdn.pishow.tv/ott/live/1613/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MK TUNES" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-433.png" group-title="Music",MK TUNES
+https://cdn.pishow.tv/ott/live/433/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Pure Punjabi TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417554543.jpeg" group-title="Music",Pure Punjabi TV
+http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Only Music" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417344236.jpeg" group-title="Music",Only Music
+http://livestream.unlimitedcdn.com/onlymusic/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Just In" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417479419.jpeg" group-title="Music",Just In
+http://209.52.98.98/justintv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Punjabi Hits" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/506606480.jpeg" group-title="Music",Punjabi Hits
+https://cdn.pishow.tv/ott/live/1504/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Haryana beat" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/506139508.jpeg" group-title="Music",Haryana beat
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c472e711fa24fac0f21a7
+#EXTINF:-1 tvg-id="101" tvg-name="KAPPA TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-11231780574394510.png" group-title="Music",KAPPA TV
+https://cdn.pishow.tv/ott/live/1123/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PUBLIC MUSIC" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4411780575484352.png" group-title="Music",PUBLIC MUSIC
+https://cdn.pishow.tv/ott/live/441/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SANGEETH BANGLA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-11431780576242255.png" group-title="Music",SANGEETH BANGLA
+https://cdn.pishow.tv/ott/live/1143/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="RAJ MUSIX TELUGU" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12131780597078744.png" group-title="Music",RAJ MUSIX TELUGU
+https://cdn.pishow.tv/ott/live/1213/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="MainaTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/902998249.png" group-title="Music",MainaTV
+https://cdn01.freetvindia.com/live/MainaTV.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="104" tvg-name="RajMusixMalyalam" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/764491865.png" group-title="Music",RajMusixMalyalam
+https://cdn-3.pishow.tv/live/1073/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD MEGHALAYA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10599.jpg" group-title="Lifestyle & Education",DD MEGHALAYA
+https://cdn.pishow.tv/ott/live/33/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD CHANDANA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10601.jpg" group-title="Lifestyle & Education",DD CHANDANA
+https://cdn.pishow.tv/ott/live/28/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="AYUSH TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2211780575561628.png" group-title="Lifestyle & Education",AYUSH TV
+https://cdn.pishow.tv/ott/live/221/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="VANITHA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-3931780599843679.png" group-title="Lifestyle & Education",VANITHA
+https://cdn.pishow.tv/ott/live/393/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="CVR HEALTH" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-3951780599802884.png" group-title="Lifestyle & Education",CVR HEALTH
+https://cdn.pishow.tv/ott/live/395/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD Rajasthan" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-108351780576866646.png" group-title="Lifestyle & Education",DD Rajasthan
+https://cdn.pishow.tv/ott/live/34/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD GOA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10592.jpg" group-title="Lifestyle & Education",DD GOA
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD Jharkhand" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10589.jpg" group-title="Lifestyle & Education",DD Jharkhand
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD UP" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10587.jpg" group-title="Lifestyle & Education",DD UP
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD HIMANCHAL" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10586.jpg" group-title="Lifestyle & Education",DD HIMANCHAL
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD MADHYAPRADESH" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10583.jpg" group-title="Lifestyle & Education",DD MADHYAPRADESH
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD MALAYALAM" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10582.jpg" group-title="Lifestyle & Education",DD MALAYALAM
+https://cdn.pishow.tv/ott/live/27/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD UTTRAKHAND" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-105811780576618523.png" group-title="Lifestyle & Education",DD UTTRAKHAND
+https://cdn01.freetvindia.com/live/DDUtrakhand.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="104" tvg-name="DD HARYANA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10580.jpg" group-title="Lifestyle & Education",DD HARYANA
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="ShubhsandeshTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/761959198.png" group-title="Lifestyle & Education",ShubhsandeshTV
+https://cdn01.freetvindia.com/live/ShubhsandeshTV.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="104" tvg-name="DD ODIA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10562.jpg" group-title="Lifestyle & Education",DD ODIA
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD PUNJABI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10575.jpg" group-title="Lifestyle & Education",DD PUNJABI
+https://cdn.pishow.tv/ott/live/24/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD KASHIR" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10559.jpg" group-title="Lifestyle & Education",DD KASHIR
+https://cdn.pishow.tv/ott/live/16/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD MIZORAM" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10561.jpg" group-title="Lifestyle & Education",DD MIZORAM
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD URDU" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10570.jpg" group-title="Lifestyle & Education",DD URDU
+https://cdn.pishow.tv/ott/live/8/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD CHHATISGARH" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10571.jpg" group-title="Lifestyle & Education",DD CHHATISGARH
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="DD MANIPUR" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-105601780577534881.png" group-title="Lifestyle & Education",DD MANIPUR
+https://cdn01.freetvindia.com/live/DDManipur.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="HINDU DHARMAM" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-9591780572798222.png" group-title="Devotional",HINDU DHARMAM
+https://cdn.pishow.tv/ott/live/959/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PaighamTelevision" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/737539320.png" group-title="Devotional",PaighamTelevision
+https://cdn01.freetvindia.com/live/PaighamTelevision.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="Desh Punjab Gurbani Broadcasting" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/504804797.png" group-title="Devotional",Desh Punjab Gurbani Broadcasting
+https://livestream.unlimitedcdn.com/in-deshpunjabgurbani/deshpunjabgurbani/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="Goodnews TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/6979161641780575102998.png" group-title="Religious & Devotional",Goodnews TV
+https://cdn-3.pishow.tv/live/1413/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Ratwara Sahib" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/980913547.jpeg" group-title="Religious & Devotional",Ratwara Sahib
+http://ratwarasahib.agmediachandigarh.com/gurudwarasahib/f08a2f48b696fdfb759e62f7be8a0938.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Desi Vaid" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/980752311.jpeg" group-title="Religious & Devotional",Desi Vaid
+http://desivaid.agmediachandigarh.com/desivaid/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Aatma Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/980694110.jpeg" group-title="Religious & Devotional",Aatma Tv
+http://aatmatv.agmediachandigarh.com/aatma/0e17eae459d2c90f1a150c818ac3e0f1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DIVYA TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10550.jpg" group-title="Religious & Devotional",DIVYA TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b7db76dd22202e45043af6
+#EXTINF:-1 tvg-id="101" tvg-name="Vedant Ras" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/088285778.jpeg" group-title="Religious & Devotional",Vedant Ras
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698b2c14093e283808012c84
+#EXTINF:-1 tvg-id="101" tvg-name="PTC SIMRAN" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/8188427831780577178968.png" group-title="Religious & Devotional",PTC SIMRAN
+https://cdn.pishow.tv/ott/live/1503/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SANT WANI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-475.png" group-title="Religious & Devotional",SANT WANI
+https://cdn.pishow.tv/ott/live/475/master.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="SATSANG" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10611.jpg" group-title="Religious & Devotional",SATSANG
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="Sanskar" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10610.jpg" group-title="Religious & Devotional",Sanskar
+https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="BAKTHI TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-397.jpg" group-title="Religious & Devotional",BAKTHI TV
+https://cdn.pishow.tv/ott/live/397/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="JINVANI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-9891780574828481.png" group-title="Religious & Devotional",JINVANI
+https://cdn.pishow.tv/ott/live/989/master.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="Sadhna TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/7071761931780574266796.png" group-title="Religious & Devotional",Sadhna TV
+https://cdn01.freetvindia.com/live/SadhnaTV.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="Madha TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/180610341.jpg" group-title="Religious & Devotional",Madha TV
+https://cdn.pishow.tv/ott/live/1265/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="AASTHA TV TELUGU" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-262.png" group-title="Religious & Devotional",AASTHA TV TELUGU
+https://cdn.pishow.tv/ott/live/262/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Anand TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/6438125081780574094369.png" group-title="Religious & Devotional",Anand TV
+https://cdn01.freetvindia.com/live/AnandTV.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="MADHA TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12651780592678674.png" group-title="Religious & Devotional",MADHA TV
+https://cdn.pishow.tv/ott/live/1265/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="ANGEL TV HD" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4531780592623437.png" group-title="Religious & Devotional",ANGEL TV HD
+https://cdn.pishow.tv/ott/live/453/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SUBHAVARTHA TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2781780573711043.png" group-title="Religious & Devotional",SUBHAVARTHA TV
+https://cdn.pishow.tv/ott/live/278/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Nimbark TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/561011873.jpeg" group-title="Religious & Devotional",Nimbark TV
+https://legitpro.co.in/nimbarktv/nimbarktv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Hare Krsna TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/376927479.jpeg" group-title="Religious & Devotional",Hare Krsna TV
+https://samacar.hk.harekrsnatv.com/harekrsna/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="DIVYALOK TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/365532236.jpg" group-title="Religious & Devotional",DIVYALOK TV
+http://divyaloktv.livebox.co.in/divyaloktvhls/divyaloktvchannel.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="NTV Bhakthi" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/700271194.jpeg" group-title="Religious & Devotional",NTV Bhakthi
+http://longstream-06.ajaah.com/PlayBoxTV/PTCNews/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Jinwani" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/699867085.jpeg" group-title="Religious & Devotional",Jinwani
+http://longstream-06.ajaah.com/PlayBoxTV/Jinwani/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Arihant" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/698447019.jpeg" group-title="Religious & Devotional",Arihant
+http://longstream-06.ajaah.com/PlayBoxTV/ArihantTV/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Atmadarshan TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/707619398.jpeg" group-title="Religious & Devotional",Atmadarshan TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c536e2bc562e2a503a747
+#EXTINF:-1 tvg-id="101" tvg-name="Buddha TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/776298791.jpg" group-title="Religious & Devotional",Buddha TV
+https://lordbuddhatv.livebox.co.in/lordbuddhatvhls/live.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Jeewan Bhakti" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/923146139.jpg" group-title="Religious & Devotional",Jeewan Bhakti
+https://desitashantv.livebox.co.in/jeewanbhaktihls/jeewanbhakti.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Shree shyam tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/225998679.png" group-title="Religious & Devotional",Shree shyam tv
+https://cloudcdn.in/live/shreeshyamtv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Sadvidya Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/988439101.png" group-title="Religious & Devotional",Sadvidya Tv
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=69b140a371b236130d08e054
+#EXTINF:-1 tvg-id="101" tvg-name="35MM" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/508745466.png" group-title="Religious & Devotional",35MM
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c68211ecb4b6bf208c93b
+#EXTINF:-1 tvg-id="101" tvg-name="SubhartiTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/730073278.png" group-title="Religious & Devotional",SubhartiTV
+https://cdn01.freetvindia.com/live/SubhartiTV.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="MahaBhakti" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/763415035.png" group-title="Religious & Devotional",MahaBhakti
+https://cdn01.freetvindia.com/live/MahaBhakti.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="NisthaHD" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/763837303.png" group-title="Religious & Devotional",NisthaHD
+https://cdn01.freetvindia.com/live/NisthaHD.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="Vedic" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/730269267.png" group-title="Religious & Devotional",Vedic
+chrome-extension://emnphkkblegpebimobpbekeedfgemhof/player.html#https%3A%2F%2Fcdn01.freetvindia.com%2Flive%2FVedic.m3u8%3Fmd5%3Dg012l-GFXdBJHVtYI11WeQ%26expires%3D1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="Aastha" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/736151468.png" group-title="Religious & Devotional",Aastha
+https://cdn.pishow.tv/ott/live/1454/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="ShubhTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/758448759.png" group-title="Religious & Devotional",ShubhTV
+https://cdn01.freetvindia.com/live/ShubhTV.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="DurgianaLive" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/902655105.png" group-title="Religious & Devotional",DurgianaLive
+https://cdn01.freetvindia.com/live/DurgianaLive.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="SANMARG TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/047618085.png" group-title="Religious & Devotional",SANMARG TV
+https://sanmargtv.live/sanmargtv/sanmargtv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Divya" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/729287686.png" group-title="Religious & Devotional",Divya
+https://cdn01.freetvindia.com/live/Divya.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="Satsang" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/736250679.png" group-title="Religious & Devotional",Satsang
+https://cdn01.freetvindia.com/live/Satsang.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="HareKrsna" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/757150763.png" group-title="Religious & Devotional",HareKrsna
+https://cdn01.freetvindia.com/live/HareKrsna.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="AOneImagine" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/759584783.png" group-title="Religious & Devotional",AOneImagine
+https://aoneimagine.urmic.org/hls/shree/bhattji.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SharnamTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/730877404.png" group-title="Religious & Devotional",SharnamTV
+https://cdn01.freetvindia.com/live/SharnamTV.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="Soham" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/731127488.png" group-title="Religious & Devotional",Soham
+https://cdn01.freetvindia.com/live/Soham.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="AasthaBhajan" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/736031023.png" group-title="Religious & Devotional",AasthaBhajan
+https://cdn01.freetvindia.com/live/AasthaBhajan.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="ChintpurniLive" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/764446301.png" group-title="Religious & Devotional",ChintpurniLive
+https://cdn01.freetvindia.com/live/ChintpurniLive.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="ARADHANA TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-961.png" group-title="Religious & Devotional",ARADHANA TV
+https://cdn.pishow.tv/ott/live/961/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SAI TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-12351780577950517.png" group-title="Religious & Devotional",SAI TV
+https://cdn.pishow.tv/ott/live/1235/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="BlessingTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/076060810.png" group-title="Religious & Devotional",BlessingTV
+https://mumbai-edge.smartplaytv.in/BlessingTv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SubhavaarthaTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/731349232.png" group-title="Religious & Devotional",SubhavaarthaTV
+https://cdn01.freetvindia.com/live/SubhavaarthaTV.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212
+#EXTINF:-1 tvg-id="101" tvg-name="Gurmat TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417608551.jpeg" group-title="Religious & Devotional",Gurmat TV
+http://livestream.unlimitedcdn.com/agm/gurmat-tv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Gurudwara Dasmesh Darbar Canada 24x7 Live" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/418465816.jpeg" group-title="Religious & Devotional",Gurudwara Dasmesh Darbar Canada 24x7 Live
+http://livestream.unlimitedcdn.com/agm-dd/dasmesh-darbar/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Gurkibani" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417390783.jpeg" group-title="Religious & Devotional",Gurkibani
+http://livestream.unlimitedcdn.com/gurkibani/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Garv Gurbani" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/505844691.jpeg" group-title="Religious & Devotional",Garv Gurbani
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698b2cc5297e02f448073236
+#EXTINF:-1 tvg-id="101" tvg-name="Kartavya TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/775324874.jpeg" group-title="Religious & Devotional",Kartavya TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c462c76c8d5866b0bfec8
+#EXTINF:-1 tvg-id="101" tvg-name="Lakshya TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/775271733.jpeg" group-title="Religious & Devotional",Lakshya TV
+https://ott.livelegitpro.in/lakshayatv/lakshayatv/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Kalyan TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/775574735.jpeg" group-title="Religious & Devotional",Kalyan TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698b31ae1c7af9b1330bdabe
+#EXTINF:-1 tvg-id="101" tvg-name="Shiksha TV HD" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/874135261.png" group-title="Religious & Devotional",Shiksha TV HD
+https://5dd3981940faa.streamlock.net:443/shikshatvhd/shikshatvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Lakshay Tv" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/508217532.png" group-title="Religious & Devotional",Lakshay Tv
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c45c8707045da440e49d6
+#EXTINF:-1 tvg-id="101" tvg-name="MAHOTSAV TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/826572326.png" group-title="Religious & Devotional",MAHOTSAV TV
+https://livetv.mahotsavtv.com/mahotsavtv/playout/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Gujarati devotional" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/200924683.png" group-title="Religious & Devotional",Gujarati devotional
+https://sanatan.valamtv.in/hls/shree/bhattji.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Bhakthi Siri" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/506697176.png" group-title="Religious & Devotional",Bhakthi Siri
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=698c511b7859f4aa550dc179
+#EXTINF:-1 tvg-id="101" tvg-name="SRI SANKARA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-11351780575902897.png" group-title="Religious & Devotional",SRI SANKARA
+https://cdn.pishow.tv/ott/live/1135/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Sach channel" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/118881340.jpeg" group-title="Religious & Devotional",Sach channel
+https://sachchannel.in/hls/sach.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="ShekinahTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/765249309.png" group-title="Religious & Devotional",ShekinahTV
+ https://cdn-3.pishow.tv/live/447/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="UniqueTV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/731033894.png" group-title="Kids",UniqueTV
+https://cdn01.freetvindia.com/live/UniqueTV.m3u8?md5=g012l-GFXdBJHVtYI11WeQ&expires=1782807212

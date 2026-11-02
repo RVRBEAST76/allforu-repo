@@ -1,0 +1,24 @@
+#EXTM3U
+# ISLAMIC TV · CRICFY
+#EXTINF:-1 tvg-id="peacetv" tvg-name="peacetvv · Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="ISLAMIC TV",peacetvv · Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-id="peacetv" tvg-name="peacetvv · Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="ISLAMIC TV",peacetvv · Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:-1 tvg-id="peacetv" tvg-name="peacetvv · English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="ISLAMIC TV",peacetvv · English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id="peacetv" tvg-name="peacetvv · Karbala" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="ISLAMIC TV",peacetvv · Karbala
+https://ak.imamhussein.live/imhtv3live/imhtv3.smil/imhtv3publish/imhtv3_source/chunks.m3u8
+#EXTINF:-1 tvg-id="peacetv" tvg-name="peacetvv · Madani" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="ISLAMIC TV",peacetvv · Madani
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-id="peacetv" tvg-name="peacetvv · MTA6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="ISLAMIC TV",peacetvv · MTA6
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+#EXTINF:-1 tvg-id="peacetv" tvg-name="peacetvv · MTA7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="ISLAMIC TV",peacetvv · MTA7
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+#EXTINF:-1 tvg-id="peacetv" tvg-name="peacetvv · Ilm TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="ISLAMIC TV",peacetvv · Ilm TV
+https://tplay.live/originals/ilm-tv/index.m3u8
+#EXTINF:-1 tvg-id="peacetv" tvg-name="peacetvv · Islamic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="ISLAMIC TV",peacetvv · Islamic TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1 tvg-id="qurantv" tvg-name="qurantv · Al Quran" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4Gt8ld43355zDMgVBv8M87nrlUTA4UaOyA&usqp=CAU" group-title="ISLAMIC TV",qurantv · Al Quran
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="qurantv" tvg-name="qurantv · Islam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4Gt8ld43355zDMgVBv8M87nrlUTA4UaOyA&usqp=CAU" group-title="ISLAMIC TV",qurantv · Islam
+https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8

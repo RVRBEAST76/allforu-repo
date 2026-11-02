@@ -1,0 +1,124 @@
+#EXTM3U
+# Movies · CRICFY
+#EXTINF:-1 tvg-id="manoranjantv" tvg-name="manoranjantvv · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ7Y1rb3fvwgG-yD2sThFTOUC-yglFf3uDrA&usqp=CAU" group-title="Movies",manoranjantvv · Link 1
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://www.thewebfactory.us/blogs/wp-content/uploads/2022/12/HBO-Logo-Design-1975-1980.png" group-title="Movies",HBO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd?
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO · WALKING" tvg-logo="https://www.thewebfactory.us/blogs/wp-content/uploads/2022/12/HBO-Logo-Design-1975-1980.png" group-title="Movies",HBO · WALKING
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=50a71b1ce9eb116cd7bd98a946d71109:08b8b340baeebca12ef50a52c6ec1d1d
+https://a17aivottlinear-a.akamaihd.net/OTTB/IAD/clients/dash/enc/ry0mfkqsn6/out/v1/cdeeb785b08740a29c5ebc2221c24036/cenc.mpd
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO · HR2" tvg-logo="https://www.thewebfactory.us/blogs/wp-content/uploads/2022/12/HBO-Logo-Design-1975-1980.png" group-title="Movies",HBO · HR2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
+https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO · AMC" tvg-logo="https://www.thewebfactory.us/blogs/wp-content/uploads/2022/12/HBO-Logo-Design-1975-1980.png" group-title="Movies",HBO · AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO · AMC+" tvg-logo="https://www.thewebfactory.us/blogs/wp-content/uploads/2022/12/HBO-Logo-Design-1975-1980.png" group-title="Movies",HBO · AMC+
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO · CINEMAX" tvg-logo="https://www.thewebfactory.us/blogs/wp-content/uploads/2022/12/HBO-Logo-Design-1975-1980.png" group-title="Movies",HBO · CINEMAX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=acb4c23471063327adc732e283c0847f:e9868f5f473d0fd8699ede48d531c2b0
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd?
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO · AXN" tvg-logo="https://www.thewebfactory.us/blogs/wp-content/uploads/2022/12/HBO-Logo-Design-1975-1980.png" group-title="Movies",HBO · AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd?
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO · CINEMA WORLD" tvg-logo="https://www.thewebfactory.us/blogs/wp-content/uploads/2022/12/HBO-Logo-Design-1975-1980.png" group-title="Movies",HBO · CINEMA WORLD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd?
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO · WARNER TV" tvg-logo="https://www.thewebfactory.us/blogs/wp-content/uploads/2022/12/HBO-Logo-Design-1975-1980.png" group-title="Movies",HBO · WARNER TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=086d09a40bff3a00aa6dd4dbaf9c13b2:34f1908cfe2e05ee060046d40f14aec9
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd?
+#EXTINF:-1 tvg-id="colorscineplexx" tvg-name="colorscineplexx · Colors Cineplex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOgLmJ7urz_dAuadDLnVKi1VqnZkDvIAekgQ&usqp=CAU" group-title="Movies",colorscineplexx · Colors Cineplex
+https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8
+#EXTINF:-1 tvg-id="andpictures" tvg-name="andpictures · SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuuxsDzME44m_53RyrksMezjf_Hh0dPait0w&usqp=CAU" group-title="Movies",andpictures · SD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+#EXTINF:-1 tvg-id="stargold" tvg-name="stargold · STAR GOLD -HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq9tsQshcmJI9_zXorIFnWBwJHmLUNFgRESA&usqp=CAU" group-title="Movies",stargold · STAR GOLD -HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="stargold" tvg-name="stargold · HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq9tsQshcmJI9_zXorIFnWBwJHmLUNFgRESA&usqp=CAU" group-title="Movies",stargold · HD
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="stargold" tvg-name="stargold · SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq9tsQshcmJI9_zXorIFnWBwJHmLUNFgRESA&usqp=CAU" group-title="Movies",stargold · SD
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 tvg-id="stargold" tvg-name="stargold · ST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq9tsQshcmJI9_zXorIFnWBwJHmLUNFgRESA&usqp=CAU" group-title="Movies",stargold · ST
+http://107.167.16.138/stargold2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="sonypix" tvg-name="sonypixx · PIX - HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVq5yoP7eTdUqPdiibH6KUqUbEvIjedqCmQQ&usqp=CAU" group-title="Movies",sonypixx · PIX - HD
+http://212.102.34.8:9080/SonyPixHD/video.m3u8
+#EXTINF:-1 tvg-id="sonypix" tvg-name="sonypixx · PIX - IND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVq5yoP7eTdUqPdiibH6KUqUbEvIjedqCmQQ&usqp=CAU" group-title="Movies",sonypixx · PIX - IND
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id="sonypix" tvg-name="sonypixx · HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVq5yoP7eTdUqPdiibH6KUqUbEvIjedqCmQQ&usqp=CAU" group-title="Movies",sonypixx · HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="sonypix" tvg-name="sonypixx · AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVq5yoP7eTdUqPdiibH6KUqUbEvIjedqCmQQ&usqp=CAU" group-title="Movies",sonypixx · AQ
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+#EXTINF:-1 tvg-id="zeebollywood" tvg-name="zeebollywood · Zee Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbeRPppbZ3185Fn3X2g7yNW98pfem3Vjwi9Q&usqp=CAU" group-title="Movies",zeebollywood · Zee Bollywood
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1 tvg-id="zeebollywood" tvg-name="zeebollywood · Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbeRPppbZ3185Fn3X2g7yNW98pfem3Vjwi9Q&usqp=CAU" group-title="Movies",zeebollywood · Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
+#EXTINF:-1 tvg-id="zeebollywood" tvg-name="zeebollywood · Bollywood Prime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbeRPppbZ3185Fn3X2g7yNW98pfem3Vjwi9Q&usqp=CAU" group-title="Movies",zeebollywood · Bollywood Prime
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 tvg-id="zeebollywood" tvg-name="zeebollywood · Zee Aflan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbeRPppbZ3185Fn3X2g7yNW98pfem3Vjwi9Q&usqp=CAU" group-title="Movies",zeebollywood · Zee Aflan
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="zeebollywood" tvg-name="zeebollywood · Bollywood Classic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbeRPppbZ3185Fn3X2g7yNW98pfem3Vjwi9Q&usqp=CAU" group-title="Movies",zeebollywood · Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-id="zeebollywood" tvg-name="zeebollywood · Bollywood Classic HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbeRPppbZ3185Fn3X2g7yNW98pfem3Vjwi9Q&usqp=CAU" group-title="Movies",zeebollywood · Bollywood Classic HD
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+#EXTINF:-1 tvg-id="zeebollywood" tvg-name="zeebollywood · Bollywood HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbeRPppbZ3185Fn3X2g7yNW98pfem3Vjwi9Q&usqp=CAU" group-title="Movies",zeebollywood · Bollywood HD
+http://50.7.218.122:8080/gembollywood/index.m3u8
+#EXTINF:-1 tvg-id="zeebollywood" tvg-name="zeebollywood · Zee alwan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbeRPppbZ3185Fn3X2g7yNW98pfem3Vjwi9Q&usqp=CAU" group-title="Movies",zeebollywood · Zee alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 tvg-id="zeebollywood" tvg-name="zeebollywood · Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbeRPppbZ3185Fn3X2g7yNW98pfem3Vjwi9Q&usqp=CAU" group-title="Movies",zeebollywood · Drama
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="zeecinema · Zee Cinema HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaLUfm2798X_8GHQB9yASNvKwF_bqh1Sxusg&usqp=CAU" group-title="Movies",zeecinema · Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/master2.m3u8
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="zeecinema · Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaLUfm2798X_8GHQB9yASNvKwF_bqh1Sxusg&usqp=CAU" group-title="Movies",zeecinema · Bhojpuri
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="zeecinema · Zee Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaLUfm2798X_8GHQB9yASNvKwF_bqh1Sxusg&usqp=CAU" group-title="Movies",zeecinema · Zee Telugu
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeetelugu.smil/chunklist_b896000.m3u8
+#EXTINF:-1 tvg-id="enter10movie" tvg-name="enter10movie · Enter10 Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuNrXOTB7uQ0c03EpeKqRE3iJW6V0qSOOAA&usqp=CAU" group-title="Movies",enter10movie · Enter10 Movie
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="enter10movie" tvg-name="enter10movie · Movies Now" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuNrXOTB7uQ0c03EpeKqRE3iJW6V0qSOOAA&usqp=CAU" group-title="Movies",enter10movie · Movies Now
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sonymax" tvg-name="sonymax · SONY MAX - IND IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThtMdgpCVZJwRIPfbeOMT1xaymtiJvNA5gNg&usqp=CAU" group-title="Movies",sonymax · SONY MAX - IND IP
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-id="sonymax" tvg-name="sonymax · SONY WAH - IND IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThtMdgpCVZJwRIPfbeOMT1xaymtiJvNA5gNg&usqp=CAU" group-title="Movies",sonymax · SONY WAH - IND IP
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-id="sonymax" tvg-name="sonymax · SONY MAX 2 - IND IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThtMdgpCVZJwRIPfbeOMT1xaymtiJvNA5gNg&usqp=CAU" group-title="Movies",sonymax · SONY MAX 2 - IND IP
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-id="sonymax" tvg-name="sonymax · HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThtMdgpCVZJwRIPfbeOMT1xaymtiJvNA5gNg&usqp=CAU" group-title="Movies",sonymax · HD
+http://170.254.18.107/SONYMAX/index.m3u8
+#EXTINF:-1 tvg-id="mbc" tvg-name="mbc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRpUPrGpOQu1IBDR5nlnU0WZ5txNXx-3-Rg&usqp=CAU" group-title="Movies",mbc
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-id="mbc" tvg-name="mbc · MBC HIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRpUPrGpOQu1IBDR5nlnU0WZ5txNXx-3-Rg&usqp=CAU" group-title="Movies",mbc · MBC HIN
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="mbc" tvg-name="mbc · MBC DRAMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRpUPrGpOQu1IBDR5nlnU0WZ5txNXx-3-Rg&usqp=CAU" group-title="Movies",mbc · MBC DRAMA
+https://mbcdrama-usa-enc.edgenextcdn.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
+#EXTINF:-1 tvg-id="mbc" tvg-name="mbc · MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRpUPrGpOQu1IBDR5nlnU0WZ5txNXx-3-Rg&usqp=CAU" group-title="Movies",mbc · MTV
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1 tvg-id="mbc" tvg-name="mbc · MBC 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRpUPrGpOQu1IBDR5nlnU0WZ5txNXx-3-Rg&usqp=CAU" group-title="Movies",mbc · MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="starmovies" tvg-name="starmovies · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCgwE4eEMVXiIfHGygRHzZ0ISM40v9jiSonA&usqp=CAU" group-title="Movies",starmovies · Link 1
+http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="starmovies" tvg-name="starmovies · Link 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCgwE4eEMVXiIfHGygRHzZ0ISM40v9jiSonA&usqp=CAU" group-title="Movies",starmovies · Link 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=0020c970519e635452e81e2496c919ca:87114e92d957670e78e6d38113c340c5
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc130gttyz)/master.mpd
+#EXTINF:-1 tvg-id="starmovies" tvg-name="starmovies · Link 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCgwE4eEMVXiIfHGygRHzZ0ISM40v9jiSonA&usqp=CAU" group-title="Movies",starmovies · Link 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
+#EXTINF:-1 tvg-id="starmovies" tvg-name="starmovies · HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCgwE4eEMVXiIfHGygRHzZ0ISM40v9jiSonA&usqp=CAU" group-title="Movies",starmovies · HD
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-id="starmovies" tvg-name="starmovies · SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCgwE4eEMVXiIfHGygRHzZ0ISM40v9jiSonA&usqp=CAU" group-title="Movies",starmovies · SD
+http://89.187.189.98/STARMOVIESHD/index.m3u8
+#EXTINF:-1 tvg-id="starmovies" tvg-name="starmovies · Movies Now 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCgwE4eEMVXiIfHGygRHzZ0ISM40v9jiSonA&usqp=CAU" group-title="Movies",starmovies · Movies Now 1
+http://89.187.189.98/MOVIESNOWHD/index.m3u8
+#EXTINF:-1 tvg-id="starmovies" tvg-name="starmovies · &FLIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCgwE4eEMVXiIfHGygRHzZ0ISM40v9jiSonA&usqp=CAU" group-title="Movies",starmovies · &FLIX
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8

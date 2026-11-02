@@ -1,0 +1,80 @@
+#EXTM3U
+# News · CRICFY
+#EXTINF:-1 tvg-id="abpnews" tvg-name="abpnews · Bengali" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByb3f_2I7tqq50-PySndwAdpf-aNwUrd6GNPeOCG8Sp-nSRt8u_FGEJ8&s=10" group-title="News",abpnews · Bengali
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+#EXTINF:-1 tvg-id="abpnews" tvg-name="abpnews · Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByb3f_2I7tqq50-PySndwAdpf-aNwUrd6GNPeOCG8Sp-nSRt8u_FGEJ8&s=10" group-title="News",abpnews · Hindi
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 tvg-id="abpnews" tvg-name="abpnews · Ganga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByb3f_2I7tqq50-PySndwAdpf-aNwUrd6GNPeOCG8Sp-nSRt8u_FGEJ8&s=10" group-title="News",abpnews · Ganga
+https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
+#EXTINF:-1 tvg-id="abpnews" tvg-name="abpnews · Sanjha" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByb3f_2I7tqq50-PySndwAdpf-aNwUrd6GNPeOCG8Sp-nSRt8u_FGEJ8&s=10" group-title="News",abpnews · Sanjha
+https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
+#EXTINF:-1 tvg-id="abpnews" tvg-name="abpnews · Majha" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByb3f_2I7tqq50-PySndwAdpf-aNwUrd6GNPeOCG8Sp-nSRt8u_FGEJ8&s=10" group-title="News",abpnews · Majha
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
+#EXTINF:-1 tvg-id="abpnews" tvg-name="abpnews · Asmita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByb3f_2I7tqq50-PySndwAdpf-aNwUrd6GNPeOCG8Sp-nSRt8u_FGEJ8&s=10" group-title="News",abpnews · Asmita
+https://d15zw4ny9nux40.cloudfront.net/out/v1/b2480519a89247d1855be3af8c2d3217/index.m3u8
+#EXTINF:-1 tvg-id="abpnews" tvg-name="abpnews · R Plus Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByb3f_2I7tqq50-PySndwAdpf-aNwUrd6GNPeOCG8Sp-nSRt8u_FGEJ8&s=10" group-title="News",abpnews · R Plus Bangla
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 tvg-id="ajtaknews" tvg-name="ajtaknews · Hindi" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/45/eb/9c/45eb9c41-4234-410c-7551-6f0acae8e5a2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="News",ajtaknews · Hindi
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="indiatoday" tvg-name="indiatoday · English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwnqVW30_NFOKL6XKNeQQ8kP5C8tgtsgZ28g&usqp=CAU" group-title="News",indiatoday · English
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-id="indiatoday" tvg-name="indiatoday · Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwnqVW30_NFOKL6XKNeQQ8kP5C8tgtsgZ28g&usqp=CAU" group-title="News",indiatoday · Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="indiatv" tvg-name="indiatv · Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj-sY2gB8CO2JdunG0gciYoCfSWfZvlOYl2w&usqp=CAU" group-title="News",indiatv · Hindi
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 tvg-id="newsworldindia" tvg-name="newsworldindia · News Nation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/NewsWorldIndiaLogo.jpg/200px-NewsWorldIndiaLogo.jpg" group-title="News",newsworldindia · News Nation
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Hindi
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Gujarati" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Gujarati
+https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Kannada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Kannada
+https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Kerala" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Kerala
+https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Odia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Odia
+https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Rajasthan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Rajasthan
+https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Urdu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Urdu
+https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Assam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Assam
+https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Tamil
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Uttar Pradesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Uttar Pradesh
+https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Punjab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Punjab
+https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="news18" tvg-name="news18 · Bihar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRRkeBe15graoQ3rGM5jDIPJZyAqZNJsITA&usqp=CAU" group-title="News",news18 · Bihar
+https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · Al Jazeera HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · Al Jazeera HD
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · CNA - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · CNA - AQ
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · CNN - Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · CNN - Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · Africa News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · Africa News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · DW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · Fox News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · Fox News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · RT News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · CNN News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · CNN News
+https://live-manifests-lln.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-international/master_de.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · Sky News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · Sky News
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · Arirang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · Arirang
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · America
+https://streams2.sofast.tv/ptnr-yupptv/title-VOA_News/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/89641d04-0cc9-4496-abd1-3cf398613724/fc58abb2-d2e1-4f30-a0c7-848ec1b2bb1c/0.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · CNBC 18" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · CNBC 18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · ABC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="aljazeera · BBC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="News",aljazeera · BBC NEWS
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8

@@ -1,0 +1,20 @@
+#EXTM3U
+# Pakistan · CRICFY
+#EXTINF:-1 tvg-id="geotv" tvg-name="geotvv · GEO TV" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/Geo-TV.png" group-title="Pakistan",geotvv · GEO TV
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="geotv" tvg-name="geotvv · HUM TV WORLD" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/Geo-TV.png" group-title="Pakistan",geotvv · HUM TV WORLD
+http://208.86.19.13:81/508.stream/index.m3u8
+#EXTINF:-1 tvg-id="geotv" tvg-name="geotvv · GEO KAHANI" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/Geo-TV.png" group-title="Pakistan",geotvv · GEO KAHANI
+http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="geotv" tvg-name="geotvv · GEO TEZ" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/Geo-TV.png" group-title="Pakistan",geotvv · GEO TEZ
+http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="geotv" tvg-name="geotvv · ARY DIGITAL" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/Geo-TV.png" group-title="Pakistan",geotvv · ARY DIGITAL
+http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="geotv" tvg-name="geotvv · PTV HOME" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/Geo-TV.png" group-title="Pakistan",geotvv · PTV HOME
+http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="geotv" tvg-name="geotvv · HUM SITARY" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/Geo-TV.png" group-title="Pakistan",geotvv · HUM SITARY
+https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
+#EXTINF:-1 tvg-id="geotv" tvg-name="geotvv · HUM TV" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/Geo-TV.png" group-title="Pakistan",geotvv · HUM TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="geotv" tvg-name="geotvv · HUM AQ" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/Geo-TV.png" group-title="Pakistan",geotvv · HUM AQ
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8

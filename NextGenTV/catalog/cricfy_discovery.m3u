@@ -1,0 +1,65 @@
+#EXTM3U
+# Discovery · CRICFY
+#EXTINF:-1 tvg-id="discovery" tvg-name="discovery · Hindi" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Discovery",discovery · Hindi
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+#EXTINF:-1 tvg-id="discovery" tvg-name="discovery · Discovery H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Discovery",discovery · Discovery H&H
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-id="discovery" tvg-name="discovery · Discovery Uk" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Discovery",discovery · Discovery Uk
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-id="discovery" tvg-name="discovery · History" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Discovery",discovery · History
+http://104.255.88.155/history/index.m3u8
+#EXTINF:-1 tvg-id="discovery" tvg-name="discovery · SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Discovery",discovery · SD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="tlc · Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0I04tLnqs65wKgqBa3b2W26WLMpurbbr4Q&usqp=CAU" group-title="Discovery",tlc · Hindi
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="tlc · English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0I04tLnqs65wKgqBa3b2W26WLMpurbbr4Q&usqp=CAU" group-title="Discovery",tlc · English
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="tlc · Discovery Turbo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0I04tLnqs65wKgqBa3b2W26WLMpurbbr4Q&usqp=CAU" group-title="Discovery",tlc · Discovery Turbo
+https://streams2.sofast.tv/ptnr-yupptv/title-THE-EXPLORERS-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/e2b0982a-bf4e-4e31-bfc1-85879254dc1a/1.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="tlc · Trvl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0I04tLnqs65wKgqBa3b2W26WLMpurbbr4Q&usqp=CAU" group-title="Discovery",tlc · Trvl
+https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="tlc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0I04tLnqs65wKgqBa3b2W26WLMpurbbr4Q&usqp=CAU" group-title="Discovery",tlc
+http://143.244.60.30/TLC/index.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="tlc · Circle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0I04tLnqs65wKgqBa3b2W26WLMpurbbr4Q&usqp=CAU" group-title="Discovery",tlc · Circle
+https://circle-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="national-geo-graphics" tvg-name="national geo graphics · National Geo Graphic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTaABVkC0UXkZ2HPtVtVA1m3_mW7KZxKCzqg&usqp=CAU" group-title="Discovery",national geo graphics · National Geo Graphic
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 tvg-id="national-geo-graphics" tvg-name="national geo graphics · History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTaABVkC0UXkZ2HPtVtVA1m3_mW7KZxKCzqg&usqp=CAU" group-title="Discovery",national geo graphics · History
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 tvg-id="national-geo-graphics" tvg-name="national geo graphics · Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTaABVkC0UXkZ2HPtVtVA1m3_mW7KZxKCzqg&usqp=CAU" group-title="Discovery",national geo graphics · Discovery
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 tvg-id="national-geo-graphics" tvg-name="national geo graphics · Wild" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTaABVkC0UXkZ2HPtVtVA1m3_mW7KZxKCzqg&usqp=CAU" group-title="Discovery",national geo graphics · Wild
+https://d1tm3cz23db55z.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/827618ef-dc56-4139-bf56-3375098553cb/1.m3u8
+#EXTINF:-1 tvg-id="travelxp" tvg-name="travelxp · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQASKr0qDoXvBYKiFHXDUuvCvrP1CYwqdoiNw&usqp=CAU" group-title="Discovery",travelxp · Link 1
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="travelxp" tvg-name="travelxp · Link 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQASKr0qDoXvBYKiFHXDUuvCvrP1CYwqdoiNw&usqp=CAU" group-title="Discovery",travelxp · Link 2
+http://stream.mcquack.net/451/index.m3u8
+#EXTINF:-1 tvg-id="travelxp" tvg-name="travelxp · Link 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQASKr0qDoXvBYKiFHXDUuvCvrP1CYwqdoiNw&usqp=CAU" group-title="Discovery",travelxp · Link 3
+http://stream.mcquack.net/448/index.m3u8
+#EXTINF:-1 tvg-id="foodfood" tvg-name="foodfoodg · Hindi 1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/food-food-tv-black.png" group-title="Discovery",foodfoodg · Hindi 1
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+#EXTINF:-1 tvg-id="foodfood" tvg-name="foodfoodg · English 1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/food-food-tv-black.png" group-title="Discovery",foodfoodg · English 1
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+#EXTINF:-1 tvg-id="foodfood" tvg-name="foodfoodg · Cocina" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/food-food-tv-black.png" group-title="Discovery",foodfoodg · Cocina
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
+https://cache4.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="animalplanet · Hindi" tvg-logo="https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="Discovery",animalplanet · Hindi
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+#EXTINF:-1 tvg-id="dmax" tvg-name="dmax" tvg-logo="https://media.printables.com/media/prints/473448/images/3875886_2bf9750e-2215-470b-9a45-ac7bbc38fa7d/dmax.png" group-title="Discovery",dmax
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-id="bbcearth" tvg-name="bbcearth · ADVENTURE FI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDCTugcHm0gieR_vzEEAoFSZ-_JwZgHR-HQ&usqp=CAU" group-title="Discovery",bbcearth · ADVENTURE FI
+https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bbcearth" tvg-name="bbcearth · ADVENTURE GB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDCTugcHm0gieR_vzEEAoFSZ-_JwZgHR-HQ&usqp=CAU" group-title="Discovery",bbcearth · ADVENTURE GB
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bbcearth" tvg-name="bbcearth · ADVENTURE IE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDCTugcHm0gieR_vzEEAoFSZ-_JwZgHR-HQ&usqp=CAU" group-title="Discovery",bbcearth · ADVENTURE IE
+https://autentic-adventure-earth-1-ie.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bbcearth" tvg-name="bbcearth · HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDCTugcHm0gieR_vzEEAoFSZ-_JwZgHR-HQ&usqp=CAU" group-title="Discovery",bbcearth · HD
+http://45.148.145.57/IN_SONYBBCHD/index.m3u8
+#EXTINF:-1 tvg-id="bbcearth" tvg-name="bbcearth · AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDCTugcHm0gieR_vzEEAoFSZ-_JwZgHR-HQ&usqp=CAU" group-title="Discovery",bbcearth · AQ
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+#EXTINF:-1 tvg-id="bbcearth" tvg-name="bbcearth · IND IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDCTugcHm0gieR_vzEEAoFSZ-_JwZgHR-HQ&usqp=CAU" group-title="Discovery",bbcearth · IND IP
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8

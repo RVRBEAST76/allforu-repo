@@ -1,0 +1,30 @@
+#EXTM3U
+# Musics · CRICFY
+#EXTINF:-1 tvg-id="9x" tvg-name="9x · 9XM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbQ-wC6gnn1qu275lJ0huUrqPKLQNWfVcQA&usqp=CAU" group-title="Musics",9x · 9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-id="9x" tvg-name="9x · Saga Haryanvi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbQ-wC6gnn1qu275lJ0huUrqPKLQNWfVcQA&usqp=CAU" group-title="Musics",9x · Saga Haryanvi
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="9x" tvg-name="9x · Ptc Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbQ-wC6gnn1qu275lJ0huUrqPKLQNWfVcQA&usqp=CAU" group-title="Musics",9x · Ptc Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 tvg-id="9x" tvg-name="9x · Joo Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbQ-wC6gnn1qu275lJ0huUrqPKLQNWfVcQA&usqp=CAU" group-title="Musics",9x · Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="9x" tvg-name="9x · 9X Jhakass" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbQ-wC6gnn1qu275lJ0huUrqPKLQNWfVcQA&usqp=CAU" group-title="Musics",9x · 9X Jhakass
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-id="9x" tvg-name="9x · 9X Tahsan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbQ-wC6gnn1qu275lJ0huUrqPKLQNWfVcQA&usqp=CAU" group-title="Musics",9x · 9X Tahsan
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-id="9x" tvg-name="9x · 9X Jalwa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbQ-wC6gnn1qu275lJ0huUrqPKLQNWfVcQA&usqp=CAU" group-title="Musics",9x · 9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-id="zoom" tvg-name="zoom" tvg-logo="https://content.jdmagicbox.com/comp/bangalore/28/080p5153628/catalogue/zoom-tv-channel-m-g-road-bangalore-1pvp0gar61-250.jpg" group-title="Musics",zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="zoom" tvg-name="zoom · Zing" tvg-logo="https://content.jdmagicbox.com/comp/bangalore/28/080p5153628/catalogue/zoom-tv-channel-m-g-road-bangalore-1pvp0gar61-250.jpg" group-title="Musics",zoom · Zing
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+#EXTINF:-1 tvg-id="musicindia" tvg-name="musicindia · HD1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSica3chpLVB_Ryr8QT-qnxqk5clR8ou1WscprqdD9w8Cu-YwB9bUcm6OXS&s=10" group-title="Musics",musicindia · HD1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="musicindia" tvg-name="musicindia · HD2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSica3chpLVB_Ryr8QT-qnxqk5clR8ou1WscprqdD9w8Cu-YwB9bUcm6OXS&s=10" group-title="Musics",musicindia · HD2
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-id="masti-music" tvg-name="masti music · HD1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmRsR8dtcVQGo2PaAeP49OFW6OvQRMNxVHw&usqp=CAU" group-title="Musics",masti music · HD1
+http://cdn12.henico.net:8080/live/musicmasti/index.m3u8
+#EXTINF:-1 tvg-id="masti-music" tvg-name="masti music · HD2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmRsR8dtcVQGo2PaAeP49OFW6OvQRMNxVHw&usqp=CAU" group-title="Musics",masti music · HD2
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8

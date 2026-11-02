@@ -1,0 +1,62 @@
+#EXTM3U
+# Kids · CRICFY
+#EXTINF:-1 tvg-id="disney" tvg-name="disney · 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9hyHmFigV18ptGRtWO2b1fFxKDbQiKFFFQ&usqp=CAU" group-title="Kids",disney · 4K
+http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="disney" tvg-name="disney · HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9hyHmFigV18ptGRtWO2b1fFxKDbQiKFFFQ&usqp=CAU" group-title="Kids",disney · HD
+https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
+#EXTINF:-1 tvg-id="disney" tvg-name="disney · JR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9hyHmFigV18ptGRtWO2b1fFxKDbQiKFFFQ&usqp=CAU" group-title="Kids",disney · JR
+http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="disney" tvg-name="disney · XD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9hyHmFigV18ptGRtWO2b1fFxKDbQiKFFFQ&usqp=CAU" group-title="Kids",disney · XD
+http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="hungamakids" tvg-name="hungamakids · Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVCQCmdjL7uqccQOxKVGnotluLMH5Vy1Yfg&usqp=CAU" group-title="Kids",hungamakids · Hindi
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+#EXTINF:-1 tvg-id="hungamakids" tvg-name="hungamakids · Hindi 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVCQCmdjL7uqccQOxKVGnotluLMH5Vy1Yfg&usqp=CAU" group-title="Kids",hungamakids · Hindi 2
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
+#EXTINF:-1 tvg-id="gubbare" tvg-name="gubbare" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxDTeoDXTG1Deh6DCMv3wJVKYv9aNvdngmgw&usqp=CAU" group-title="Kids",gubbare
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="discoverykids · Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexnQtlUUjc7pvYOtb7m95zf9G4piB9MGZLQ&usqp=CAU" group-title="Kids",discoverykids · Hindi
+http://45.235.37.254/discoverykidshd/index.m3u8
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="discoverykids · English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexnQtlUUjc7pvYOtb7m95zf9G4piB9MGZLQ&usqp=CAU" group-title="Kids",discoverykids · English
+http://45.235.37.254/cartoonito/index.m3u8
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="discoverykids · Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexnQtlUUjc7pvYOtb7m95zf9G4piB9MGZLQ&usqp=CAU" group-title="Kids",discoverykids · Tamil
+http://45.235.37.254/cartoonnetworkhd/index.m3u8
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="discoverykids · Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexnQtlUUjc7pvYOtb7m95zf9G4piB9MGZLQ&usqp=CAU" group-title="Kids",discoverykids · Telugu
+http://45.235.37.254/discoveryhd/index.m3u8
+#EXTINF:-1 tvg-id="nick" tvg-name="nick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSadEAL7-QuZgXvzWwWgCjkyetFG7wR3k3NcQ&usqp=CAU" group-title="Kids",nick
+http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="nick" tvg-name="nick · Nick HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSadEAL7-QuZgXvzWwWgCjkyetFG7wR3k3NcQ&usqp=CAU" group-title="Kids",nick · Nick HD
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="nick" tvg-name="nick · JR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSadEAL7-QuZgXvzWwWgCjkyetFG7wR3k3NcQ&usqp=CAU" group-title="Kids",nick · JR
+http://45.235.37.254/nickhd/index.m3u8
+#EXTINF:-1 tvg-id="sonic" tvg-name="sonic · IND IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHin3MwcfFFIz2yhOyqT_1IEBvjNHz3Z5s1g&usqp=CAU" group-title="Kids",sonic · IND IP
+http://144.217.70.181:9587/hin2/SONIC/index.m3u8
+#EXTINF:-1 tvg-id="pogo" tvg-name="pogo · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsB7W4H7j9q07tmSy-LHFfrCGDZIW8XE9Mg&usqp=CAU" group-title="Kids",pogo · Link 1
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="pogo" tvg-name="pogo · POGO - IND IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsB7W4H7j9q07tmSy-LHFfrCGDZIW8XE9Mg&usqp=CAU" group-title="Kids",pogo · POGO - IND IP
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XEmu7jZAwtyPydrZpg0A7Q", "kid":"AXiMYO8NXnq7I9aVJ/rUyw"}],"type":"temporary"}
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd
+#EXTINF:-1 tvg-id="pogo" tvg-name="pogo · HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsB7W4H7j9q07tmSy-LHFfrCGDZIW8XE9Mg&usqp=CAU" group-title="Kids",pogo · HD
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-id="cnkids" tvg-name="cnkids · Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-ycWYjPM_qlC_MLIB4Y2wGt4lCFU98JA5Q&usqp=CAU" group-title="Kids",cnkids · Hindi
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:-1 tvg-id="cnkids" tvg-name="cnkids · AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-ycWYjPM_qlC_MLIB4Y2wGt4lCFU98JA5Q&usqp=CAU" group-title="Kids",cnkids · AQ
+https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="rongeentv" tvg-name="rongeentv · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6h7HCjYfFNxzMpkFQN5xCEbtoR8PUqm-EKw&usqp=CAU" group-title="Kids",rongeentv · Link 1
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="rongeentv" tvg-name="rongeentv · Link 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6h7HCjYfFNxzMpkFQN5xCEbtoR8PUqm-EKw&usqp=CAU" group-title="Kids",rongeentv · Link 2
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/f598e5f3-54ad-43b6-bb00-8f921936980b/0.m3u8
+#EXTINF:-1 tvg-id="zoomookids" tvg-name="zoomookidss · Moonbug" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDcF-Ugin31L4wQIAkvH5U1L9iDokVe-yBA&usqp=CAU" group-title="Kids",zoomookidss · Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="zoomookids" tvg-name="zoomookidss · Spacetoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDcF-Ugin31L4wQIAkvH5U1L9iDokVe-yBA&usqp=CAU" group-title="Kids",zoomookidss · Spacetoon
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="zoomookids" tvg-name="zoomookidss · K1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDcF-Ugin31L4wQIAkvH5U1L9iDokVe-yBA&usqp=CAU" group-title="Kids",zoomookidss · K1
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+#EXTINF:-1 tvg-id="zoomookids" tvg-name="zoomookidss · K2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDcF-Ugin31L4wQIAkvH5U1L9iDokVe-yBA&usqp=CAU" group-title="Kids",zoomookidss · K2
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-arabic/master.m3u8
+#EXTINF:-1 tvg-id="zoomookids" tvg-name="zoomookidss · K3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDcF-Ugin31L4wQIAkvH5U1L9iDokVe-yBA&usqp=CAU" group-title="Kids",zoomookidss · K3
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+#EXTINF:-1 tvg-id="zoomookids" tvg-name="zoomookidss · K4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDcF-Ugin31L4wQIAkvH5U1L9iDokVe-yBA&usqp=CAU" group-title="Kids",zoomookidss · K4
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
+#EXTINF:-1 tvg-id="zoomookids" tvg-name="zoomookidss · K5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDcF-Ugin31L4wQIAkvH5U1L9iDokVe-yBA&usqp=CAU" group-title="Kids",zoomookidss · K5
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8

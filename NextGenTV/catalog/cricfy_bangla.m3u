@@ -1,0 +1,80 @@
+#EXTM3U
+# Bangla · CRICFY
+#EXTINF:-1 tvg-id="btv" tvg-name="btv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Sm2V8BOxwjGSBEsZiTgXeKk35-jsNejV0A&usqp=CAU" group-title="Bangla",btv
+https://rangdhonutvlive.indiansserials.com/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="btv" tvg-name="btv · BTV NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Sm2V8BOxwjGSBEsZiTgXeKk35-jsNejV0A&usqp=CAU" group-title="Bangla",btv · BTV NEWS
+https://rangdhonutvlive.indiansserials.com/btvnews/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="btv" tvg-name="btv · BTV CTG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Sm2V8BOxwjGSBEsZiTgXeKk35-jsNejV0A&usqp=CAU" group-title="Bangla",btv · BTV CTG
+https://rangdhonutvlive.indiansserials.com/btvctg/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="sangsad-tv" tvg-name="sangsad tv · Link 1" tvg-logo="https://iili.io/HC82MLQ.png" group-title="Bangla",sangsad tv · Link 1
+https://rangdhonutvlive.indiansserials.com/sangsad/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="deepto-tv" tvg-name="deepto tv · HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXCZR-thjw7wgl7dDqG6Mb0p2XYwT8pSBtQ&usqp=CAU" group-title="Bangla",deepto tv · HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-id="deepto-tv" tvg-name="deepto tv · AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXCZR-thjw7wgl7dDqG6Mb0p2XYwT8pSBtQ&usqp=CAU" group-title="Bangla",deepto tv · AQ
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-id="bangla-tv" tvg-name="bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-uVVAAAgIHb1PBqbV9KF7v3OpuCDLg4EGA&usqp=CAU" group-title="Bangla",bangla tv
+http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1 tvg-id="channel-i" tvg-name="channel i · Link 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedcCk2O2imELFJyNErP3VapLDs-5W4nMVuw&usqp=CAU" group-title="Bangla",channel i · Link 2
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-id="movie-bangla" tvg-name="movie bangla · Link 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpSLt2AgQXK5nQnoXVBgrVBx_Gj73qAo9Ng&usqp=CAU" group-title="Bangla",movie bangla · Link 2
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-id="movie-bangla" tvg-name="movie bangla · Link 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpSLt2AgQXK5nQnoXVBgrVBx_Gj73qAo9Ng&usqp=CAU" group-title="Bangla",movie bangla · Link 3
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1 tvg-id="movie-bangla" tvg-name="movie bangla · Link 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpSLt2AgQXK5nQnoXVBgrVBx_Gj73qAo9Ng&usqp=CAU" group-title="Bangla",movie bangla · Link 4
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-id="ekushey-tv" tvg-name="ekushey · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_vJNmDGbPw9tBAOgR-X9oW57vVpZbTZGLOg&usqp=CAU" group-title="Bangla",ekushey · Link 1
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="ekushey-tv" tvg-name="ekushey · Link 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_vJNmDGbPw9tBAOgR-X9oW57vVpZbTZGLOg&usqp=CAU" group-title="Bangla",ekushey · Link 2
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-id="atn-bangla" tvg-name="atn bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4fWKmGyqdqgE-sBYX40-jBnQKGMGss8fseg&usqp=CAU" group-title="Bangla",atn bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="atn-bangla" tvg-name="atn bangla · Atn News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4fWKmGyqdqgE-sBYX40-jBnQKGMGss8fseg&usqp=CAU" group-title="Bangla",atn bangla · Atn News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-id="bangla-vision" tvg-name="bangla vision · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQse2TTgeh1zvhgIUcZ9mYVebC5qplRx-yX_g&usqp=CAU" group-title="Bangla",bangla vision · Link 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="channel24" tvg-name="channel24 · hd" tvg-logo="https://play-lh.googleusercontent.com/8cCl5EUWV51m3G8aG9CNgri7WCO0X0dIhUrDCyxtJfaqwtvq3N5RYCdfeyyV7s63iUo" group-title="Bangla",channel24 · hd
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="news24" tvg-name="newss24 · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThxZLWTomZXhOX0a7i3CQF7XOh53LNx7Uw-A&usqp=CAU" group-title="Bangla",newss24 · Link 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-id="dbcnews" tvg-name="dbcnews · hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAahHKBc5sodTn2Sx02I4CgTHQnf000VnRTa2aL6IPwYfiDIH1R3i8SY&s=10" group-title="Bangla",dbcnews · hd
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-id="jamunatv" tvg-name="jamunatv · HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROeNmtosqdyBeFIcbD4_8LBCcweb689po8Jg&usqp=CAU" group-title="Bangla",jamunatv · HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="somoytv" tvg-name="somoytv · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiF6TG1PJcFEpXFvevVLsylrZa-c4Hwk3GDA&usqp=CAU" group-title="Bangla",somoytv · Link 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="somoytv" tvg-name="somoytv · Link 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiF6TG1PJcFEpXFvevVLsylrZa-c4Hwk3GDA&usqp=CAU" group-title="Bangla",somoytv · Link 2
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="duronto" tvg-name="duronto · Link 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4fzpp_rh36J8R27emAcpjPP9-7QWKqcCNg&usqp=CAU" group-title="Bangla",duronto · Link 2
+http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="gtv" tvg-name="gtvv · Link 1" tvg-logo="https://2.bp.blogspot.com/-NGmDuNc2Tr4/WQmQRHWqoYI/AAAAAAAAG-c/heiPTLzPI0UrFdCy1bBjAIcc2RQJ46CtwCLcB/w250-h320/gtv.jpg" group-title="Bangla",gtvv · Link 1
+http://103.135.253.32:8080/Gazi-TV/index.m3u8
+#EXTINF:-1 tvg-id="channel9" tvg-name="channel9 · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqfnGcR91ng6ykkklUsCPbgUAaMyWHjux1Kg&usqp=CAU" group-title="Bangla",channel9 · Link 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 tvg-id="nagoriktv" tvg-name="nagoriktv · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu92GT0kJJxitYp2Kjs5AL1K1XAGA9-b5lNw&usqp=CAU" group-title="Bangla",nagoriktv · Link 1
+https://flussonic.defineatoz.com/backup/index.m3u8
+#EXTINF:-1 tvg-id="deshtv" tvg-name="deshtv · Link 1" tvg-logo="https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/w250-h320/desh-tv-2.jpg" group-title="Bangla",deshtv · Link 1
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="satv" tvg-name="satv · HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmcqT-oqJN-SpWsyxyzJq216Ds_Q2Zj5ENYw&usqp=CAU" group-title="Bangla",satv · HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1 tvg-id="ekattor" tvg-name="ekattor · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9mHNvWIU8iNGCN-R-IOn0CzyR3IQD_7B0TxDg-snuaO1NL-di1CKNfJXz&s=10" group-title="Bangla",ekattor · Link 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-id="independent" tvg-name="independent · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6gxfvJM8ZoUmnUogf37f_yekeNcS6Df8VA&usqp=CAU" group-title="Bangla",independent · Link 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-name="ntv · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAv16FTT6ZjSgdCzSDD3qcrYNpwZZrjOmfQ&usqp=CAU" group-title="Bangla",ntv · Link 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-id="iqrabangla" tvg-name="iqrabangla · Quran TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGg3kr7EddQKVOax5K9ILjgEr3TghddA65A&usqp=CAU" group-title="Bangla",iqrabangla · Quran TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="iqrabangla" tvg-name="iqrabangla · Live Hajj" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGg3kr7EddQKVOax5K9ILjgEr3TghddA65A&usqp=CAU" group-title="Bangla",iqrabangla · Live Hajj
+https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="iqrabangla" tvg-name="iqrabangla · Peace Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGg3kr7EddQKVOax5K9ILjgEr3TghddA65A&usqp=CAU" group-title="Bangla",iqrabangla · Peace Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-id="iqrabangla" tvg-name="iqrabangla · Peace Urdu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGg3kr7EddQKVOax5K9ILjgEr3TghddA65A&usqp=CAU" group-title="Bangla",iqrabangla · Peace Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:-1 tvg-id="iqrabangla" tvg-name="iqrabangla · Peace English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGg3kr7EddQKVOax5K9ILjgEr3TghddA65A&usqp=CAU" group-title="Bangla",iqrabangla · Peace English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id="iqrabangla" tvg-name="iqrabangla · Madani Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGg3kr7EddQKVOax5K9ILjgEr3TghddA65A&usqp=CAU" group-title="Bangla",iqrabangla · Madani Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-id="maasranga" tvg-name="maasranga · Link 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEi9i8890ZNMvdUqcsnAge77Q9UWCkGJ-XSQ&usqp=CAU" group-title="Bangla",maasranga · Link 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="maasranga" tvg-name="maasranga · Link 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEi9i8890ZNMvdUqcsnAge77Q9UWCkGJ-XSQ&usqp=CAU" group-title="Bangla",maasranga · Link 2
+https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8

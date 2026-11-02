@@ -73,7 +73,7 @@ The page source and setup notes are in [`support-site/`](support-site/).
 | PelishaxPro | Movie, TvSeries, Anime, AnimeMovie | 6 | Working |
 | Bilibili | Others, Movie, TvSeries | 4 | Working |
 | HindiDrama | AsianDrama, TvSeries, Movie | 3 | Working |
-| NextGenTV | Movie, TvSeries | 6 | Working |
+| NextGenTV | Movie, TvSeries | 7 | Working |
 | HDMozi | Movie, TvSeries | 2 | Working |
 | Dizipal | TvSeries | 1 | Working |
 | Movies Ni Pipay | Movie, TvSeries | 1 | Working |

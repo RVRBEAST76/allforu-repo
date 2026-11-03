@@ -39,7 +39,7 @@ The page source and setup notes are in [`support-site/`](support-site/).
 
 | Name | TV Types | Version | Status |
 |------|----------|---------|--------|
-| AllForU1 | Movie, TvSeries, Anime, AnimeMovie | 6 | Working |
+| AllForU1 | Movie, TvSeries, Anime, AnimeMovie | 7 | Working |
 | All4U Rate | Movie | 12 | Working |
 | NoirX | Movie, TvSeries | 8 | Working |
 | MovieBox | Movie, TvSeries | 92 | Working |

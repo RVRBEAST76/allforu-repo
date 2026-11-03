@@ -1,6 +1,6 @@
 [
   {
-    "version": 7,
+    "version": 8,
     "internalName": "AllForU1",
     "name": "AllForU1",
     "pluginClassName": "com.allforu.AllForU1Plugin",
@@ -17,11 +17,11 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllForU1-v7.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllForU1-v8.cs3",
     "description": "AllForU1 - 50 embed/API endpoints, TMDB home & details, full settings (movies, series & anime)",
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
-    "fileHash": "sha256-d4b624401e2680a32f91b49d22d44eadb525666fe4e27f7e7a85e9831f95d9d3",
-    "fileSize": 142683
+    "fileHash": "sha256-3bbd84f24c9fcb239e205e0d9d3a8e843a4ad8e4e7c1b163b76f27f675d19af4",
+    "fileSize": 143400
   },
   {
     "version": 12,

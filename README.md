@@ -39,49 +39,49 @@ The page source and setup notes are in [`support-site/`](support-site/).
 
 | Name | TV Types | Version | Status |
 |------|----------|---------|--------|
-| All4U Rate | Movie | 11 | Working |
-| NoirX | Movie, TvSeries | 7 | Working |
-| MovieBox | Movie, TvSeries | 91 | Working |
-| AllOtt | Movie, TvSeries | 6 | Working |
-| JioTV | Movie, TvSeries | 47 | Working |
-| M3U Player | Movie, TvSeries | 30 | Working |
-| Re:ANIME | AnimeMovie, Anime, OVA | 32 | Working |
-| An1me | Anime, AnimeMovie | 1 | Working |
-| AnimeAv1 | Anime, AnimeMovie | 14 | Working |
-| Latanime | Anime, AnimeMovie | 14 | Working |
-| Netcinez | Movie, TvSeries | 14 | Working |
-| Chikianimation | Movie, Anime | 13 | Working |
-| OHLI24 | Anime, AnimeMovie | 13 | Working |
-| AniVortex | Anime, AnimeMovie, Movie, TvSeries | 15 | Working |
-| AllDubz | Movie, TvSeries, Anime, AnimeMovie | 15 | Working |
-| Comix | Anime, Others | 8 | Working |
-| SmartTube | Others, Movie | 8 | Working |
-| SimpMusic | Music | 5 | Working |
-| EgyBest | Movie, TvSeries | 6 | Working |
-| Anime Phoenix | Anime, AnimeMovie | 6 | Working |
-| FrenchStream | Movie, TvSeries | 7 | Working |
-| Movie2K | Movie, TvSeries | 5 | Working |
-| Samehadaku | Anime, AnimeMovie | 5 | Working |
-| StreamUnity | Movie, TvSeries | 6 | Working |
-| AnimeOdcinki | Anime, AnimeMovie | 5 | Working |
-| Kinogo | Movie, TvSeries | 6 | Working |
-| YummyAni | Anime, AnimeMovie | 5 | Working |
-| PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 9 | Working |
-| KissAsian | TvSeries, Movie | 5 | Working |
-| LaMovie | Movie, TvSeries, Anime, AnimeMovie | 7 | Working |
-| TamilTvToons | Movie, TvSeries, Anime, AnimeMovie | 4 | Working |
-| PelishaxPro | Movie, TvSeries, Anime, AnimeMovie | 6 | Working |
-| Bilibili | Others, Movie, TvSeries | 4 | Working |
-| HindiDrama | AsianDrama, TvSeries, Movie | 3 | Working |
-| NextGenTV | Movie, TvSeries | 7 | Working |
-| HDMozi | Movie, TvSeries | 2 | Working |
-| Dizipal | TvSeries | 1 | Working |
-| Movies Ni Pipay | Movie, TvSeries | 1 | Working |
-| MicroTV | Movie | 2 | Working |
-| Bombuj | Movie, TvSeries | 2 | Working |
-| OFC Movies | Movie, TvSeries, Anime, AnimeMovie, Live | 4 | Working |
-| AnimeVillage | Anime, AnimeMovie | 2 | Working |
-| WatchAnimeWorld | Anime, AnimeMovie | 2 | Working |
+| All4U Rate | Movie | 12 | Working |
+| NoirX | Movie, TvSeries | 8 | Working |
+| MovieBox | Movie, TvSeries | 92 | Working |
+| AllOtt | Movie, TvSeries | 7 | Working |
+| JioTV | Movie, TvSeries | 48 | Working |
+| M3U Player | Movie, TvSeries | 31 | Working |
+| Re:ANIME | AnimeMovie, Anime, OVA | 33 | Working |
+| An1me | Anime, AnimeMovie | 2 | Working |
+| AnimeAv1 | Anime, AnimeMovie | 15 | Working |
+| Latanime | Anime, AnimeMovie | 15 | Working |
+| Netcinez | Movie, TvSeries | 15 | Working |
+| Chikianimation | Movie, Anime | 14 | Working |
+| OHLI24 | Anime, AnimeMovie | 14 | Working |
+| AniVortex | Anime, AnimeMovie, Movie, TvSeries | 16 | Working |
+| AllDubz | Movie, TvSeries, Anime, AnimeMovie | 16 | Working |
+| Comix | Anime, Others | 9 | Working |
+| SmartTube | Others, Movie | 9 | Working |
+| SimpMusic | Music | 6 | Working |
+| EgyBest | Movie, TvSeries | 7 | Working |
+| Anime Phoenix | Anime, AnimeMovie | 7 | Working |
+| FrenchStream | Movie, TvSeries | 8 | Working |
+| Movie2K | Movie, TvSeries | 6 | Working |
+| Samehadaku | Anime, AnimeMovie | 6 | Working |
+| StreamUnity | Movie, TvSeries | 7 | Working |
+| AnimeOdcinki | Anime, AnimeMovie | 6 | Working |
+| Kinogo | Movie, TvSeries | 7 | Working |
+| YummyAni | Anime, AnimeMovie | 6 | Working |
+| PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 10 | Working |
+| KissAsian | TvSeries, Movie | 6 | Working |
+| LaMovie | Movie, TvSeries, Anime, AnimeMovie | 8 | Working |
+| TamilTvToons | Movie, TvSeries, Anime, AnimeMovie | 5 | Working |
+| PelishaxPro | Movie, TvSeries, Anime, AnimeMovie | 7 | Working |
+| Bilibili | Others, Movie, TvSeries | 5 | Working |
+| HindiDrama | AsianDrama, TvSeries, Movie | 4 | Working |
+| NextGenTV | Movie, TvSeries | 8 | Working |
+| HDMozi | Movie, TvSeries | 3 | Working |
+| Dizipal | TvSeries | 2 | Working |
+| Movies Ni Pipay | Movie, TvSeries | 2 | Working |
+| MicroTV | Movie | 3 | Working |
+| Bombuj | Movie, TvSeries | 3 | Working |
+| OFC Movies | Movie, TvSeries, Anime, AnimeMovie, Live | 5 | Working |
+| AnimeVillage | Anime, AnimeMovie | 3 | Working |
+| WatchAnimeWorld | Anime, AnimeMovie | 3 | Working |
 
 *Auto-updated on every build.*
 

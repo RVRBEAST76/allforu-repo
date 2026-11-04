@@ -69,7 +69,7 @@ The page source and setup notes are in [`support-site/`](support-site/).
 | PiratexPlay | Anime, AnimeMovie, Movie, TvSeries | 11 | Working |
 | KissAsian | TvSeries, Movie | 7 | Working |
 | LaMovie | Movie, TvSeries, Anime, AnimeMovie | 9 | Working |
-| TamilTvToons | Movie, TvSeries, Anime, AnimeMovie | 6 | Working |
+| TamilTvToons | Movie, TvSeries, Anime, AnimeMovie | 7 | Working |
 | PelishaxPro | Movie, TvSeries, Anime, AnimeMovie | 8 | Working |
 | Bilibili | Others, Movie, TvSeries | 6 | Working |
 | HindiDrama | AsianDrama, TvSeries, Movie | 5 | Working |

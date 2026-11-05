@@ -667,7 +667,7 @@
     "fileSize": 47658
   },
   {
-    "version": 7,
+    "version": 8,
     "internalName": "TamilTvToons",
     "name": "TamilTvToons",
     "pluginClassName": "com.allforu.TamilTvToonsPlugin",
@@ -684,11 +684,11 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/TamilTvToons-v7.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/TamilTvToons-v8.cs3",
     "description": "TamilTvToons - Tamil & multi-audio dubbed movies, series & cartoons (Tamil, Hindi, Telugu, Malayalam)",
     "iconUrl": "https://v1.tamiltvtoons.sbs/wp-content/uploads/2025/10/cropped-photo_2025-05-20_17-44-49-192x192.jpg",
-    "fileHash": "sha256-2c6f05002549cc701edabf198d5e1cf7679df81b4e4e6343c6f6065904f59ab2",
-    "fileSize": 45824
+    "fileHash": "sha256-d1f48045e293c78bc3149fa97be017d45b6b4f3f83feab620ad4d9ce8a450080",
+    "fileSize": 46198
   },
   {
     "version": 8,

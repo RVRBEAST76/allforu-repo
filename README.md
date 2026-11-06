@@ -82,6 +82,7 @@ The page source and setup notes are in [`support-site/`](support-site/).
 | OFC Movies | Movie, TvSeries, Anime, AnimeMovie, Live | 6 | Working |
 | AnimeVillage | Anime, AnimeMovie | 4 | Working |
 | WatchAnimeWorld | Anime, AnimeMovie | 4 | Working |
+| QuickPlay | TvSeries | 1 | Working |
 
 *Auto-updated on every build.*
 

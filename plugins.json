@@ -958,5 +958,26 @@
     "iconUrl": "https://watchanimeworld.ro/wp-content/uploads/2026/08/favicon.webp",
     "fileHash": "sha256-54acb48902f5e0ba810395741665a124a18b28b975238d3a99a27b8e1b7be344",
     "fileSize": 43143
+  },
+  {
+    "version": 1,
+    "internalName": "QuickPlay",
+    "name": "QuickPlay",
+    "pluginClassName": "com.allforu.QuickPlayPlugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/QuickPlay-v1.cs3",
+    "description": "QuickPlay - 52 short-drama OTTs in one plugin (pick platforms in settings; per-OTT Home rows, search, subtitles & HLS/MP4 playback)",
+    "iconUrl": "https://m.quickplay.my.id/icon.png",
+    "fileHash": "sha256-c0c325b074bb2f1d8cc38ffc32900982ab7cf69388b9b6dae9c25ee9e51e35bb",
+    "fileSize": 53068
   }
 ]
